@@ -1,0 +1,33 @@
+# PhilGo 파일 리소스 맵
+# 각 파일의 경로와 설명을 YAML 형태로 정리한 문서입니다.
+# philgo.com 서버의 여행 관련 이미지 리소스입니다.
+
+# 지도 이미지
+map:
+  el_nido.jpg:
+    path: map/el_nido.jpg
+    url: https://philgo.com/res/map/el_nido.jpg
+    description: 엘니도(El Nido) 지역 지도 이미지
+
+# 여행 이미지
+travel:
+  big-lagoon-in-el-nido.jpg:
+    path: travel/big-lagoon-in-el-nido.jpg
+    url: https://philgo.com/res/travel/big-lagoon-in-el-nido.jpg
+    description: >
+      엘니도(El Nido): 라군 전체가 사진에 들어 오는 장면.
+      바쿠이트 군도 석회암 절벽과 에메랄드 라군(카약/호핑투어)로 가장 유명합니다.
+
+  small-lagoon-in-el-nido.jpg:
+    path: travel/small-lagoon-in-el-nido.jpg
+    url: https://philgo.com/res/travel/small-lagoon-in-el-nido.jpg
+    description: >
+      Small Lagoon (스몰 라군): 카약을 타는 장면.
+      입구가 비교적 좁고 안쪽이 아늑해서 카약 체험 만족도가 높은 편으로 많이 알려져 있습니다.
+
+  small-lagoon-in-el-nido-2.jpg:
+    path: travel/small-lagoon-in-el-nido-2.jpg
+    url: https://philgo.com/res/travel/small-lagoon-in-el-nido-2.jpg
+    description: >
+      Small Lagoon (스몰 라군): 작은 보트가 바위 틈을 지나는 장면.
+      바위 틈을 지나 안쪽으로 들어가면 고요한 물과 아름다운 자연 경관이 펼쳐집니다.
