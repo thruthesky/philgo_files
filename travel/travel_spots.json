@@ -1,0 +1,4871 @@
+[
+    {
+        "name": "10,000 로지스 카페",
+        "english name": "10,000 Roses Cafe",
+        "title": "세부의 LED 장미 정원",
+        "description": "1만 송이의 LED 장미가 불을 밝히는 바닷가 카페입니다. 특히 해 질 녘과 밤에 낭만적인 분위기를 자아내 사진 촬영 명소로 유명합니다.",
+        "city": "코르도바",
+        "province": "세부",
+        "icon": "🌹",
+        "category": "꽃 정원"
+    },
+    {
+        "name": "가와산 폭포",
+        "english name": "Kawasan Falls",
+        "title": "세부의 캐녀닝 명소",
+        "description": "맑고 신비로운 옥색 물빛을 자랑하는 3단 폭포입니다. 계곡을 따라 점프하고 수영하며 내려오는 캐녀닝 액티비티의 성지로 유명합니다.",
+        "city": "바디안",
+        "province": "세부",
+        "icon": "💧",
+        "category": "폭포"
+    },
+    {
+        "name": "그레이트 산타 크루즈 섬",
+        "english name": "Great Santa Cruz Island",
+        "title": "잠보앙가의 핑크 비치",
+        "description": "붉은 산호 가루가 섞여 모래사장이 분홍빛을 띠는 세계적으로 희귀한 '핑크 비치'입니다. 내셔널 지오그래픽이 선정한 세계 최고의 해변 중 하나입니다.",
+        "city": "잠보앙가 시티",
+        "province": "잠보앙가 델 수르",
+        "icon": "🩷",
+        "category": "해변/섬"
+    },
+    {
+        "name": "국립 박물관",
+        "english name": "National Museum of the Philippines",
+        "title": "마닐라의 국립 미술관 및 박물관",
+        "description": "필리핀의 역사, 예술, 자연사를 한눈에 볼 수 있는 복합 문화 공간입니다. 후안 루나의 '스폴리아리움' 등 국보급 예술품이 전시되어 있습니다.",
+        "city": "마닐라",
+        "province": "메트로 마닐라",
+        "icon": "🏛️",
+        "category": "박물관/미술관"
+    },
+    {
+        "name": "낙판 비치",
+        "english name": "Nacpan Beach",
+        "title": "엘니도의 한적한 해변",
+        "description": "엘니도 타운에서 북쪽으로 떨어진 곳에 위치한 4km 길이의 황금빛 해변입니다. 투어 인파가 적어 조용하고 평화로운 분위기를 즐길 수 있습니다.",
+        "city": "엘니도",
+        "province": "팔라완",
+        "icon": "🏖️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "네이키드 아일랜드",
+        "english name": "Naked Island",
+        "title": "시아르가오의 무인도",
+        "description": "나무나 건물이 전혀 없이 오로지 하얀 모래와 바다로만 이루어진 작은 섬입니다. 썰물 때 드러나는 순수한 백사장이 매력적입니다.",
+        "city": "제너럴 루나",
+        "province": "수리가오 델 노르테",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "다힐라얀 어드벤처 파크",
+        "english name": "Dahilayan Adventure Park",
+        "title": "부키드논의 산악 액티비티 공원",
+        "description": "시원한 고원 지대에서 아시아 최장 길이의 짚라인 등 다양한 익스트림 스포츠와 산림욕을 즐길 수 있는 테마파크입니다.",
+        "city": "마놀로 포르티치",
+        "province": "부키드논",
+        "icon": "🎢",
+        "category": "테마파크"
+    },
+    {
+        "name": "더 루인스",
+        "english name": "The Ruins",
+        "title": "바콜로드의 타지마할",
+        "description": "2차 세계대전 당시 불에 탔으나 뼈대가 남아있는 대저택입니다. 해 질 녘 조명이 켜지면 고풍스럽고 로맨틱한 분위기를 연출합니다.",
+        "city": "탈리사이",
+        "province": "네그로스 옥시덴탈",
+        "icon": "🏚️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "따알 화산",
+        "english name": "Taal Volcano",
+        "title": "따가이따이의 이중 화산",
+        "description": "큰 칼데라 호수 안에 화산이 있고, 그 화산 분화구 안에 다시 작은 호수가 있는 독특한 이중 구조의 활화산입니다. 세계에서 가장 작은 활화산 중 하나입니다.",
+        "city": "탈리사이",
+        "province": "바탕가스",
+        "icon": "🌋",
+        "category": "산/화산"
+    },
+    {
+        "name": "라스 카사스 필리피나스 데 아쿠자르",
+        "english name": "Las Casas Filipinas de Acuzar",
+        "title": "바탄의 고택 리조트",
+        "description": "스페인 식민지 시대의 고택들을 해체하여 이곳으로 옮겨와 복원한 거대한 야외 박물관 겸 리조트입니다. 마치 시간 여행을 하는 듯한 느낌을 줍니다.",
+        "city": "바각",
+        "province": "바탄",
+        "icon": "🏘️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "레이크 세부",
+        "english name": "Lake Sebu",
+        "title": "남코타바토의 생태 관광지",
+        "description": "아름다운 호수와 7개의 폭포가 있는 곳으로, 원주민 티볼리족의 문화와 함께 짚라인, 카약 등을 즐길 수 있는 힐링 명소입니다.",
+        "city": "레이크 세부",
+        "province": "남코타바토",
+        "icon": "🌊",
+        "category": "호수/강"
+    },
+    {
+        "name": "레아 신전",
+        "english name": "Temple of Leah",
+        "title": "세부의 타지마할",
+        "description": "세부의 사업가가 세상을 떠난 아내를 기리기 위해 지은 거대한 그리스 로마 양식의 신전입니다. 세부 시내와 바다를 내려다보는 전망이 훌륭합니다.",
+        "city": "세부 시티",
+        "province": "세부",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "로복 강",
+        "english name": "Loboc River",
+        "title": "보홀의 리버 크루즈",
+        "description": "열대 우림 사이를 흐르는 강을 따라 배를 타고 식사를 즐기는 플로팅 레스토랑 투어가 유명합니다. 원주민 마을 체험도 가능합니다.",
+        "city": "로복",
+        "province": "보홀",
+        "icon": "🚣",
+        "category": "호수/강"
+    },
+    {
+        "name": "리잘 공원",
+        "english name": "Rizal Park (Luneta Park)",
+        "title": "마닐라의 대표 공원",
+        "description": "필리핀의 독립 영웅 호세 리잘이 처형된 장소이자 그를 기리는 기념비가 있는 역사적인 공원입니다. 마닐라 시민들의 휴식처이기도 합니다.",
+        "city": "마닐라",
+        "province": "메트로 마닐라",
+        "icon": "🌳",
+        "category": "공원"
+    },
+    {
+        "name": "마구푸웅코 바위 수영장",
+        "english name": "Magpupungko Rock Pools",
+        "title": "시아르가오의 천연 수영장",
+        "description": "썰물 때만 나타나는 천연 바위 수영장으로, 수정처럼 맑은 물이 갇혀 있어 수영과 다이빙을 즐기기에 최적의 장소입니다.",
+        "city": "필라르",
+        "province": "수리가오 델 노르테",
+        "icon": "🪨",
+        "category": "해변/섬"
+    },
+    {
+        "name": "마닐라 베이",
+        "english name": "Manila Bay",
+        "title": "마닐라의 석양 명소",
+        "description": "세계적으로 아름다운 석양을 볼 수 있는 곳으로 유명합니다. 해안을 따라 이어진 산책로(베이워크)에서 붉게 물드는 노을을 감상하기 좋습니다.",
+        "city": "마닐라",
+        "province": "메트로 마닐라",
+        "icon": "🌅",
+        "category": "전망대"
+    },
+    {
+        "name": "마닐라 오션 파크",
+        "english name": "Manila Ocean Park",
+        "title": "대형 해양 테마파크",
+        "description": "필리핀 최초의 세계적 수준의 해양 테마파크입니다. 거대한 수조 터널과 다양한 해양 생물 쇼, 펭귄 등을 볼 수 있어 가족 여행객에게 인기가 높습니다.",
+        "city": "마닐라",
+        "province": "메트로 마닐라",
+        "icon": "🐠",
+        "category": "테마파크"
+    },
+    {
+        "name": "마리아 크리스티나 폭포",
+        "english name": "Maria Cristina Falls",
+        "title": "일리간의 웅장한 쌍둥이 폭포",
+        "description": "거대한 물줄기가 두 갈래로 나뉘어 떨어지는 장관을 연출하는 폭포로, 수력 발전의 원동력이기도 합니다. 자연의 힘을 느낄 수 있습니다.",
+        "city": "일리간",
+        "province": "라나오 델 노르테",
+        "icon": "💦",
+        "category": "폭포"
+    },
+    {
+        "name": "마숭기 지오리저브",
+        "english name": "Masungi Georeserve",
+        "title": "리잘의 거미줄 모양 트레킹 코스",
+        "description": "카르스트 지형의 석회암 바위 위에 설치된 거미줄 모양의 구조물과 현수교를 따라 걷는 친환경 트레킹 코스입니다.",
+        "city": "바라스",
+        "province": "리잘",
+        "icon": "🕸️",
+        "category": "공원"
+    },
+    {
+        "name": "마용 화산",
+        "english name": "Mayon Volcano",
+        "title": "비콜의 완벽한 원뿔형 화산",
+        "description": "세계에서 가장 완벽한 원뿔 모양(Conic shape)을 가진 활화산입니다. 웅장하고 아름답지만 여전히 활동 중인 화산으로 유명합니다.",
+        "city": "레가스피",
+        "province": "알바이",
+        "icon": "🌋",
+        "category": "산/화산"
+    },
+    {
+        "name": "마젤란의 십자가",
+        "english name": "Magellan's Cross",
+        "title": "세부의 역사적 유적",
+        "description": "1521년 페르디난드 마젤란이 필리핀에 도착하여 처음으로 가톨릭 세례를 행한 장소에 세운 십자가입니다. 필리핀 가톨릭 역사의 시작점입니다.",
+        "city": "세부 시티",
+        "province": "세부",
+        "icon": "✝️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "마퀴니트 온천",
+        "english name": "Maquinit Hot Spring",
+        "title": "코론의 해수 온천",
+        "description": "세계적으로 드문 바닷물 온천(해수 온천)입니다. 맹그로브 숲에 둘러싸여 있으며, 특히 호핑 투어 후 피로를 풀기에 좋습니다.",
+        "city": "코론",
+        "province": "팔라완",
+        "icon": "♨️",
+        "category": "온천"
+    },
+    {
+        "name": "마인즈 뷰 파크",
+        "english name": "Mines View Park",
+        "title": "바기오 전경을 보는 전망대",
+        "description": "과거 금광과 구리 광산이 있던 산악 지대를 내려다볼 수 있는 전망대입니다. 바기오의 서늘한 기후와 탁 트인 풍경을 즐길 수 있습니다.",
+        "city": "바기오",
+        "province": "벵겟",
+        "icon": "🔭",
+        "category": "전망대"
+    },
+    {
+        "name": "말라파스쿠아 섬",
+        "english name": "Malapascua Island",
+        "title": "환도상어 다이빙 포인트",
+        "description": "긴 꼬리를 가진 희귀한 환도상어(Thresher Shark)를 볼 수 있는 세계적인 다이빙 포인트입니다. 다이버들의 버킷 리스트 중 하나입니다.",
+        "city": "다안반타얀",
+        "province": "세부",
+        "icon": "🦈",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "만쥬요드 샌드바",
+        "english name": "Manjuyod Sandbar",
+        "title": "필리핀의 몰디브",
+        "description": "바다 한가운데 펼쳐진 7km 길이의 하얀 모래톱입니다. 썰물 때는 모래사장이 드러나고 밀물 때는 수상 가옥이 물 위에 떠 있는 듯한 풍경을 선사합니다.",
+        "city": "만쥬요드",
+        "province": "네그로스 오리엔탈",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "몰 오브 아시아",
+        "english name": "SM Mall of Asia (MOA)",
+        "title": "마닐라의 초대형 쇼핑몰",
+        "description": "아시아 최대 규모급의 쇼핑몰로, 쇼핑뿐만 아니라 아이스링크, 영화관, 놀이공원, 마닐라 베이 전망 등 다양한 엔터테인먼트를 즐길 수 있습니다.",
+        "city": "파사이",
+        "province": "메트로 마닐라",
+        "icon": "🛍️",
+        "category": "쇼핑몰"
+    },
+    {
+        "name": "미아가오 교회",
+        "english name": "Miagao Church",
+        "title": "일로일로의 유네스코 세계문화유산",
+        "description": "필리핀의 바로크 양식 교회 중 하나로 유네스코 세계문화유산에 등재되어 있습니다. 요새와 같은 두꺼운 벽과 독특한 부조가 특징입니다.",
+        "city": "미아가오",
+        "province": "일로일로",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "바나웨 라이스 테라스",
+        "english name": "Banaue Rice Terraces",
+        "title": "세계 8대 불가사의 계단식 논",
+        "description": "이푸가오족이 2,000여 년에 걸쳐 해발 1,500m 산비탈을 깎아 만든 거대한 계단식 논입니다. '천국으로 가는 계단'이라 불립니다.",
+        "city": "바나웨",
+        "province": "이푸가오",
+        "icon": "🌾",
+        "category": "역사 유적"
+    },
+    {
+        "name": "바라쿠다 호수",
+        "english name": "Barracuda Lake",
+        "title": "코론의 다이빙 명소",
+        "description": "기암괴석으로 둘러싸인 호수로, 수심에 따라 수온이 급격히 변하는 thermocline 현상을 경험할 수 있는 독특한 다이빙 포인트입니다.",
+        "city": "코론",
+        "province": "팔라완",
+        "icon": "🤿",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "발리카삭 섬",
+        "english name": "Balicasag Island",
+        "title": "보홀의 스노클링 천국",
+        "description": "해양 보호 구역으로 지정된 곳으로, 바다거북과 다양한 열대어를 아주 가까이에서 볼 수 있는 최고의 스노클링 및 다이빙 포인트입니다.",
+        "city": "팡라오",
+        "province": "보홀",
+        "icon": "🐢",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "발루아르테 동물원",
+        "english name": "Baluarte Resort and Mini Zoo",
+        "title": "비간의 동물원",
+        "description": "정치인 차빗 싱손의 개인 소유지였던 곳을 대중에게 개방한 무료 동물원입니다. 호랑이, 사슴 등 다양한 동물과 공룡 조형물을 볼 수 있습니다.",
+        "city": "비간",
+        "province": "일로코스 수르",
+        "icon": "🦁",
+        "category": "동물원/사파리"
+    },
+    {
+        "name": "반타얀 버진 아일랜드",
+        "english name": "Virgin Island (Silion Island)",
+        "title": "반타얀의 무인도",
+        "description": "반타얀 섬에서 배로 이동하는 작은 섬으로, 투명한 물과 새하얀 모래사장이 펼쳐진 천국 같은 휴양지입니다.",
+        "city": "반타얀",
+        "province": "세부",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "번함 공원",
+        "english name": "Burnham Park",
+        "title": "바기오의 호수 공원",
+        "description": "바기오 시내 중심에 위치한 거대한 공원입니다. 인공 호수에서 오리배를 타거나 자전거를 빌려 타며 여유를 즐길 수 있습니다.",
+        "city": "바기오",
+        "province": "벵겟",
+        "icon": "🚴",
+        "category": "공원"
+    },
+    {
+        "name": "베니스 그랜드 캐널 몰",
+        "english name": "Venice Grand Canal Mall",
+        "title": "마닐라의 베니스 운하 재현 몰",
+        "description": "이탈리아 베니스의 운하를 쇼핑몰 내부에 재현해 놓은 곳입니다. 곤돌라를 탈 수 있으며, 이국적인 분위기로 사진 촬영 명소로 유명합니다.",
+        "city": "타귁",
+        "province": "메트로 마닐라",
+        "icon": "🛶",
+        "category": "쇼핑몰"
+    },
+    {
+        "name": "보니파시오 하이 스트리트",
+        "english name": "Bonifacio High Street",
+        "title": "마닐라의 현대적인 쇼핑 거리",
+        "description": "넓은 공원과 고급 상점, 레스토랑이 길게 늘어선 야외 쇼핑 구역입니다. 치안이 매우 좋고 쾌적하여 산책과 쇼핑을 즐기기 좋습니다.",
+        "city": "타귁",
+        "province": "메트로 마닐라",
+        "icon": "🏙️",
+        "category": "쇼핑몰"
+    },
+    {
+        "name": "비간 칼레 크리솔로고",
+        "english name": "Calle Crisologo",
+        "title": "스페인 풍의 역사 거리",
+        "description": "스페인 식민지 시대의 건축물과 돌길이 완벽하게 보존된 거리입니다. 차량 통행이 금지되어 있으며 마차(칼레사)를 타고 구경할 수 있습니다.",
+        "city": "비간",
+        "province": "일로코스 수르",
+        "icon": "🐴",
+        "category": "역사 유적"
+    },
+    {
+        "name": "비논도 차이나타운",
+        "english name": "Binondo Chinatown",
+        "title": "세계에서 가장 오래된 차이나타운",
+        "description": "1594년에 설립된 유서 깊은 차이나타운입니다. 맛있는 중식당과 전통 상점들이 즐비하여 미식 투어로 인기가 높습니다.",
+        "city": "마닐라",
+        "province": "메트로 마닐라",
+        "icon": "🥢",
+        "category": "역사 유적"
+    },
+    {
+        "name": "빅 라군",
+        "english name": "Big Lagoon",
+        "title": "엘니도의 석회암 라군",
+        "description": "엘니도 호핑투어의 하이라이트로, 거대한 석회암 절벽 사이로 형성된 맑은 에메랄드빛 바다입니다. 카약을 타고 좁은 입구를 통과해 들어갑니다.",
+        "city": "엘니도",
+        "province": "팔라완",
+        "icon": "🛶",
+        "category": "호수/강"
+    },
+    {
+        "name": "사가다 행잉 코핀",
+        "english name": "Sagada Hanging Coffins",
+        "title": "절벽에 매달린 관",
+        "description": "원주민들의 독특한 장례 풍습으로, 높은 절벽에 관을 매달아 놓은 모습을 볼 수 있습니다. 영혼이 하늘과 가까워지기를 바라는 의미가 담겨 있습니다.",
+        "city": "사가다",
+        "province": "마운틴 프로빈스",
+        "icon": "⚰️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "사우드 비치",
+        "english name": "Saud Beach",
+        "title": "북쪽의 보라카이",
+        "description": "루손 섬 최북단에 위치한 아름다운 해변으로, 백사장과 야자수가 어우러져 한적하고 평화로운 휴가를 즐길 수 있는 곳입니다.",
+        "city": "파구드푸드",
+        "province": "일로코스 노르테",
+        "icon": "🏖️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "산 아구스틴 성당",
+        "english name": "San Agustin Church",
+        "title": "인트라무로스 내 유네스코 등재 성당",
+        "description": "필리핀에서 가장 오래된 석조 성당으로, 제2차 세계대전의 폭격 속에서도 파괴되지 않고 살아남은 기적의 성당입니다. 내부 장식이 매우 화려합니다.",
+        "city": "마닐라",
+        "province": "메트로 마닐라",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "산타 마리아 성당",
+        "english name": "Santa Maria Church",
+        "title": "일로코스 수르의 유네스코 등재 성당",
+        "description": "언덕 위에 지어진 요새형 성당으로, 85개의 계단을 올라가야 합니다. 유네스코 세계문화유산으로 지정된 필리핀 바로크 양식 성당 중 하나입니다.",
+        "city": "산타 마리아",
+        "province": "일로코스 수르",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "산토 니뇨 성당",
+        "english name": "Basilica Minore del Santo Niño",
+        "title": "세부의 가장 오래된 성당",
+        "description": "마젤란이 선물했다는 아기 예수상(산토 니뇨)이 보관되어 있는 성당입니다. 매년 시눌룩 축제의 중심지가 되는 곳입니다.",
+        "city": "세부 시티",
+        "province": "세부",
+        "icon": "👼",
+        "category": "교회/성당"
+    },
+    {
+        "name": "산티아고 요새",
+        "english name": "Fort Santiago",
+        "title": "인트라무로스 내의 요새",
+        "description": "스페인 통치 시절 마닐라를 방어하기 위해 지어진 군사 요새입니다. 호세 리잘이 처형되기 전 수감되었던 감옥이 있어 역사적 의미가 깊습니다.",
+        "city": "마닐라",
+        "province": "메트로 마닐라",
+        "icon": "🏰",
+        "category": "역사 유적"
+    },
+    {
+        "name": "사말 섬",
+        "english name": "Island Garden City of Samal",
+        "title": "다바오의 휴양 섬",
+        "description": "다바오 시티에서 배로 10분 거리에 있는 섬으로, 깨끗한 해변과 펄 팜(Pearl Farm) 리조트, 박쥐 동굴 등 다양한 볼거리가 있습니다.",
+        "city": "사말",
+        "province": "다바오 델 노르테",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "세븐 코만도스 비치",
+        "english name": "Seven Commandos Beach",
+        "title": "엘니도 호핑투어 명소",
+        "description": "2차 세계대전 당시 7명의 일본군이 살았다는 전설이 있는 해변입니다. 고운 모래사장과 야자수가 어우러져 휴식을 취하기 좋습니다.",
+        "city": "엘니도",
+        "province": "팔라완",
+        "icon": "🌴",
+        "category": "해변/섬"
+    },
+    {
+        "name": "수밀론 섬 샌드바",
+        "english name": "Sumilon Island Sandbar",
+        "title": "오슬롭 근처의 백사장",
+        "description": "오슬롭 고래상어 투어 후 방문하기 좋은 섬입니다. 조수 간만의 차에 따라 모양이 바뀌는 하얀 모래톱(Sandbar)이 아름답습니다.",
+        "city": "오슬롭",
+        "province": "세부",
+        "icon": "🏖️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "수그바 라군",
+        "english name": "Sugba Lagoon",
+        "title": "시아르가오의 에메랄드 호수",
+        "description": "맹그로브 숲 한가운데 숨겨진 거대한 라군입니다. 패들 보드를 타거나 다이빙대에서 뛰어내리며 맑고 푸른 물을 즐길 수 있습니다.",
+        "city": "델 카르멘",
+        "province": "수리가오 델 노르테",
+        "icon": "🏊",
+        "category": "호수/강"
+    },
+    {
+        "name": "스몰 라군",
+        "english name": "Small Lagoon",
+        "title": "엘니도의 카약 명소",
+        "description": "빅 라군보다 작지만 더 프라이빗하고 신비로운 분위기를 자아냅니다. 좁은 바위 틈을 카약이나 수영으로 통과해야 들어갈 수 있습니다.",
+        "city": "엘니도",
+        "province": "팔라완",
+        "icon": "🛶",
+        "category": "호수/강"
+    },
+    {
+        "name": "스트로베리 팜",
+        "english name": "La Trinidad Strawberry Farm",
+        "title": "필리핀의 딸기 농장",
+        "description": "필리핀에서 유일하게 딸기가 재배되는 지역입니다. 직접 딸기를 따는 체험을 할 수 있으며, 신선한 딸기 아이스크림과 타호가 명물입니다.",
+        "city": "라 트리니다드",
+        "province": "벵겟",
+        "icon": "🍓",
+        "category": "농장"
+    },
+    {
+        "name": "시라오 가든",
+        "english name": "Sirao Flower Garden",
+        "title": "세부의 꽃 정원, 리틀 암스테르담",
+        "description": "산 중턱에 위치한 거대한 꽃 정원입니다. 형형색색의 꽃들과 거대한 손바닥 조형물 등 사진 찍기 좋은 포토존이 많습니다.",
+        "city": "세부 시티",
+        "province": "세부",
+        "icon": "🌷",
+        "category": "꽃 정원"
+    },
+    {
+        "name": "시말라 성당",
+        "english name": "Simala Shrine",
+        "title": "세부의 기적의 성당",
+        "description": "웅장하고 화려한 성곽 같은 외관을 자랑하는 성당입니다. 눈물을 흘리는 성모 마리아상이 있어 기적을 바라는 순례자들의 발길이 끊이지 않습니다.",
+        "city": "시봉가",
+        "province": "세부",
+        "icon": "🏰",
+        "category": "교회/성당"
+    },
+    {
+        "name": "시크릿 라군",
+        "english name": "Secret Lagoon",
+        "title": "엘니도의 숨겨진 라군",
+        "description": "바위 벽에 뚫린 아주 작은 구멍을 통해서만 들어갈 수 있는 숨겨진 호수입니다. 밖에서는 보이지 않아 신비로움을 더합니다.",
+        "city": "엘니도",
+        "province": "팔라완",
+        "icon": "🔮",
+        "category": "호수/강"
+    },
+    {
+        "name": "썬큰 묘지",
+        "english name": "Sunken Cemetery",
+        "title": "카미긴의 수중 묘지",
+        "description": "화산 폭발로 인해 바다 아래로 가라앉은 공동묘지입니다. 바다 위에 떠 있는 거대한 십자가가 인상적이며, 독특한 스노클링 포인트입니다.",
+        "city": "카타르만",
+        "province": "카미긴",
+        "icon": "✝️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "아나왕인 코브",
+        "english name": "Anawangin Cove",
+        "title": "소나무와 화산재 해변",
+        "description": "피나투보 화산 폭발로 생긴 회색 화산재 모래사장과 그 뒤로 울창하게 자란 소나무 숲이 어우러진 독특한 캠핑 명소입니다.",
+        "city": "산 안토니오",
+        "province": "잠발레스",
+        "icon": "🏕️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "아리와그와그 폭포",
+        "english name": "Aliwagwag Falls",
+        "title": "필리핀에서 가장 높은 폭포",
+        "description": "총 높이 338m, 84개의 계단 형태로 이루어진 웅장한 폭포입니다. 숲 속을 흐르는 계단식 물줄기가 장관을 이룹니다.",
+        "city": "카틸",
+        "province": "다바오 오리엔탈",
+        "icon": "💧",
+        "category": "폭포"
+    },
+    {
+        "name": "아시크-아시크 폭포",
+        "english name": "Asik-Asik Falls",
+        "title": "커튼처럼 쏟아지는 폭포",
+        "description": "강이 아닌 절벽 틈새에서 물이 솟아나와 녹색 식물로 뒤덮인 벽을 타고 커튼처럼 쏟아져 내리는 신비로운 폭포입니다.",
+        "city": "알라마다",
+        "province": "코타바토",
+        "icon": "🌿",
+        "category": "폭포"
+    },
+    {
+        "name": "아트 인 아일랜드",
+        "english name": "Art In Island",
+        "title": "3D 트릭아트 뮤지엄",
+        "description": "아시아 최대 규모의 3D 착시 미술관입니다. 관람객이 작품의 일부가 되어 재미있는 사진을 찍을 수 있는 인터랙티브 공간입니다.",
+        "city": "퀘존 시티",
+        "province": "메트로 마닐라",
+        "icon": "🎨",
+        "category": "박물관/미술관"
+    },
+    {
+        "name": "아포 리프",
+        "english name": "Apo Reef Natural Park",
+        "title": "세계 2위 규모의 산호초 군락",
+        "description": "호주의 그레이트 배리어 리프에 이어 세계에서 두 번째로 큰 산호초 시스템입니다. 다이버들에게 꿈의 포인트로 불립니다.",
+        "city": "사블라얀",
+        "province": "옥시덴탈 민도르",
+        "icon": "🪸",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "아포 섬",
+        "english name": "Apo Island",
+        "title": "바다거북 서식지",
+        "description": "다이빙과 스노클링의 천국으로, 얕은 수심에서도 야생 바다거북을 매우 높은 확률로 만날 수 있는 곳입니다.",
+        "city": "다우인",
+        "province": "네그로스 오리엔탈",
+        "icon": "🐢",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "알로나 비치",
+        "english name": "Alona Beach",
+        "title": "보홀의 번화한 해변",
+        "description": "보홀 팡라오 섬의 메인 해변입니다. 백사장을 따라 리조트, 레스토랑, 다이빙 샵이 즐비하여 밤늦게까지 활기찬 분위기입니다.",
+        "city": "팡라오",
+        "province": "보홀",
+        "icon": "🏖️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "에덴 자연 공원",
+        "english name": "Eden Nature Park",
+        "title": "다바오의 생태 공원",
+        "description": "해발 3,000피트에 위치한 거대한 인공 산림 리조트입니다. 95%가 숲으로 이루어져 있으며 낚시, 트레킹, 스카이라이더 등을 즐길 수 있습니다.",
+        "city": "다바오 시티",
+        "province": "다바오 델 수르",
+        "icon": "🌲",
+        "category": "공원"
+    },
+    {
+        "name": "엔탈룰라 비치",
+        "english name": "Entalula Beach",
+        "title": "엘니도의 프라이빗한 해변",
+        "description": "거대한 암벽을 배경으로 고운 모래사장과 청록색 바다가 펼쳐진 곳입니다. 주로 런치 스팟이나 프라이빗한 휴식을 위해 방문합니다.",
+        "city": "엘니도",
+        "province": "팔라완",
+        "icon": "🏖️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "오션 어드벤처",
+        "english name": "Ocean Adventure",
+        "title": "수빅의 해양 동물 테마파크",
+        "description": "동남아시아 유일의 오픈 워터 해양 공원입니다. 돌고래, 바다사자와 함께 수영하거나 공연을 관람할 수 있습니다.",
+        "city": "수빅",
+        "province": "잠발레스",
+        "icon": "🐬",
+        "category": "테마파크"
+    },
+    {
+        "name": "오슬롭 고래상어 관찰지",
+        "english name": "Oslob Whale Shark Watching",
+        "title": "세부 고래상어 투어",
+        "description": "야생 고래상어에게 먹이를 주며 유인하여, 바로 옆에서 스노클링을 하며 고래상어를 관찰할 수 있는 세계적으로 희귀한 장소입니다.",
+        "city": "오슬롭",
+        "province": "세부",
+        "icon": "🐋",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "오카다 마닐라 분수",
+        "english name": "The Fountain at Okada Manila",
+        "title": "세계 최대 규모의 춤추는 분수",
+        "description": "마닐라의 복합 리조트 오카다에 위치한 분수로, 세계 최대 규모의 화려한 음악 분수 쇼를 무료로 관람할 수 있습니다.",
+        "city": "파라냐케",
+        "province": "메트로 마닐라",
+        "icon": "⛲",
+        "category": "전망대"
+    },
+    {
+        "name": "우르비즈톤도 비치",
+        "english name": "Urbiztondo Beach",
+        "title": "라 우니온의 서핑 성지",
+        "description": "필리핀 북부의 서핑 중심지로, 초보자부터 전문가까지 즐길 수 있는 파도가 들어옵니다. 힙한 카페와 바가 많아 젊은 층에게 인기입니다.",
+        "city": "산 후안",
+        "province": "라 우니온",
+        "icon": "🏄",
+        "category": "서핑"
+    },
+    {
+        "name": "인트라무로스",
+        "english name": "Intramuros",
+        "title": "마닐라의 성채 도시",
+        "description": "'성벽 안쪽'이라는 뜻으로, 스페인 식민지 시절 건설된 성곽 도시입니다. 유럽풍 건축물과 역사의 흔적이 고스란히 남아 있습니다.",
+        "city": "마닐라",
+        "province": "메트로 마닐라",
+        "icon": "🏰",
+        "category": "역사 유적"
+    },
+    {
+        "name": "주빅 사파리",
+        "english name": "Zoobic Safari",
+        "title": "수빅의 호랑이 사파리",
+        "description": "철망으로 된 지프니를 타고 호랑이에게 직접 먹이를 주는 체험을 할 수 있는 사파리 동물원입니다.",
+        "city": "수빅",
+        "province": "잠발레스",
+        "icon": "🐅",
+        "category": "동물원/사파리"
+    },
+    {
+        "name": "초콜릿 힐",
+        "english name": "Chocolate Hills",
+        "title": "보홀의 키세스 모양 언덕",
+        "description": "1,268개의 원뿔형 언덕들이 끝없이 펼쳐진 지형입니다. 건기에는 풀이 갈색으로 변해 마치 키세스 초콜릿처럼 보인다고 하여 붙여진 이름입니다.",
+        "city": "카르멘",
+        "province": "보홀",
+        "icon": "🍫",
+        "category": "산/화산"
+    },
+    {
+        "name": "카그사와 유적지",
+        "english name": "Cagsawa Ruins",
+        "title": "마용 화산을 배경으로 한 유적",
+        "description": "1814년 화산 폭발로 매몰된 교회의 종탑만 남은 유적지입니다. 뒤로 보이는 완벽한 원뿔형의 마용 화산과 어우러져 대표적인 포토존이 되었습니다.",
+        "city": "다라가",
+        "province": "알바이",
+        "icon": "🏚️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "카라모안 섬",
+        "english name": "Caramoan Islands",
+        "title": "숨겨진 비경의 섬들",
+        "description": "TV 쇼 '서바이버'의 촬영지로 유명하며, 때 묻지 않은 자연과 석회암 절벽, 백사장이 어우러진 섬 호핑 투어의 명소입니다.",
+        "city": "카라모안",
+        "province": "카마리네스 수르",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "카양안 호수",
+        "english name": "Kayangan Lake",
+        "title": "코론의 맑은 호수",
+        "description": "아시아에서 가장 깨끗한 호수 중 하나로 꼽힙니다. 70%의 민물과 30%의 바닷물이 섞여 있으며, 투명한 물과 수중 암석 경관이 환상적입니다.",
+        "city": "코론",
+        "province": "팔라완",
+        "icon": "💎",
+        "category": "호수/강"
+    },
+    {
+        "name": "카푸르푸라완 암석 형성지",
+        "english name": "Kapurpurawan Rock Formation",
+        "title": "일로코스의 하얀 바위",
+        "description": "바람과 파도의 침식 작용으로 만들어진 크림색의 거대한 석회암 바위 지형입니다. 이국적이고 웅장한 풍경을 자랑합니다.",
+        "city": "부르고스",
+        "province": "일로코스 노르테",
+        "icon": "🪨",
+        "category": "전망대"
+    },
+    {
+        "name": "칼라구아스 섬",
+        "english name": "Calaguas Island (Mahabang Buhangin)",
+        "title": "최고의 백사장 캠핑",
+        "description": "고운 파우더 같은 모래사장과 수정처럼 맑은 물이 있는 오지 섬입니다. 전기가 제한적인 곳에서 디지털 디톡스와 캠핑을 즐기기 좋습니다.",
+        "city": "빈조스",
+        "province": "카마리네스 노르테",
+        "icon": "🏕️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "칼라우릿 사파리 파크",
+        "english name": "Calauit Safari Park",
+        "title": "필리핀의 아프리카",
+        "description": "섬 전체가 야생 동물 보호 구역으로, 기린, 얼룩말 등 아프리카 동물들이 초원을 자유롭게 돌아다니는 모습을 볼 수 있습니다.",
+        "city": "부수앙가",
+        "province": "팔라완",
+        "icon": "🦒",
+        "category": "동물원/사파리"
+    },
+    {
+        "name": "칼랑가만 섬",
+        "english name": "Kalanggaman Island",
+        "title": "긴 모래톱이 있는 섬",
+        "description": "바다 한가운데 길게 뻗은 새하얀 모래톱(Sandbar)이 특징인 무인도입니다. 드론 촬영이나 인생 사진 명소로 유명합니다.",
+        "city": "팔롬폰",
+        "province": "레이테",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "캄부가하이 폭포",
+        "english name": "Cambugahay Falls",
+        "title": "시퀴호르의 에메랄드빛 폭포",
+        "description": "울창한 숲 속에 위치한 3단 폭포로, 물 색깔이 신비로운 옥색을 띠고 있습니다. 타잔처럼 줄을 타고 물로 뛰어드는 스윙이 유명합니다.",
+        "city": "라지",
+        "province": "시퀴호르",
+        "icon": "🎋",
+        "category": "폭포"
+    },
+    {
+        "name": "캠프 존 헤이",
+        "english name": "Camp John Hay",
+        "title": "바기오의 휴양 단지",
+        "description": "과거 미군 기지였던 곳을 리조트로 개발한 곳입니다. 소나무 숲속에서 골프, 쇼핑, 산책을 즐길 수 있는 쾌적한 휴양지입니다.",
+        "city": "바기오",
+        "province": "벵겟",
+        "icon": "🌲",
+        "category": "공원"
+    },
+    {
+        "name": "코레히도르 섬",
+        "english name": "Corregidor Island",
+        "title": "2차 세계대전 역사 유적지",
+        "description": "마닐라 만 입구에 위치한 군사 요새 섬입니다. 전쟁 당시의 막사, 포대, 터널 등이 보존되어 있어 역사 투어 장소로 유명합니다.",
+        "city": "카비테 시티",
+        "province": "카비테",
+        "icon": "🎖️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "퀘존 메모리얼 서클",
+        "english name": "Quezon Memorial Circle",
+        "title": "퀘존 시티의 랜드마크",
+        "description": "필리핀 초대 대통령 마누엘 퀘존의 묘소가 있는 거대한 기념탑과 공원입니다. 박물관, 정원, 놀이 시설이 있어 시민들의 휴식처입니다.",
+        "city": "퀘존 시티",
+        "province": "메트로 마닐라",
+        "icon": "🏛️",
+        "category": "공원"
+    },
+    {
+        "name": "클라우드 나인",
+        "english name": "Cloud 9",
+        "title": "시아르가오 서핑 포인트",
+        "description": "세계 서핑 대회(WSL)가 열리는 유명한 서핑 포인트입니다. 파도가 튜브를 형성하는 것으로 유명하며, 긴 나무 데크 산책로도 인기가 많습니다.",
+        "city": "제너럴 루나",
+        "province": "수리가오 델 노르테",
+        "icon": "🏄",
+        "category": "서핑"
+    },
+    {
+        "name": "탕가단 폭포",
+        "english name": "Tangadan Falls",
+        "title": "라 우니온의 다이빙 폭포",
+        "description": "넓은 웅덩이와 시원한 물줄기를 가진 폭포로, 대나무 뗏목을 타거나 절벽 다이빙을 즐길 수 있는 액티비티 명소입니다.",
+        "city": "산 가브리엘",
+        "province": "라 우니온",
+        "icon": "💧",
+        "category": "폭포"
+    },
+    {
+        "name": "탑스 룩아웃",
+        "english name": "Tops Lookout",
+        "title": "세부 최고의 야경 명소",
+        "description": "해발 600m 산 정상에 위치한 전망대입니다. 세부 시티와 막탄 섬, 바다까지 한눈에 조망할 수 있으며 야경이 특히 아름답습니다.",
+        "city": "세부 시티",
+        "province": "세부",
+        "icon": "🌃",
+        "category": "전망대"
+    },
+    {
+        "name": "투말록 폭포",
+        "english name": "Tumalog Falls",
+        "title": "세부의 신비로운 폭포",
+        "description": "오슬롭 근처에 위치하며, 물이 가늘게 흩뿌려지듯 떨어져 마치 비단 커튼과 같은 몽환적인 풍경을 연출하는 폭포입니다.",
+        "city": "오슬롭",
+        "province": "세부",
+        "icon": "🌊",
+        "category": "폭포"
+    },
+    {
+        "name": "투바타하 산호초 자연공원",
+        "english name": "Tubbataha Reefs Natural Park",
+        "title": "술루 해의 유네스코 세계자연유산",
+        "description": "필리핀 최고의 다이빙 포인트이자 유네스코 세계자연유산입니다. 접근이 어려워 일 년 중 짧은 기간 동안만 리브어보드(선상 숙박)를 통해서 갈 수 있습니다.",
+        "city": "카가얀칠로",
+        "province": "팔라완",
+        "icon": "🪸",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "트윈 라군",
+        "english name": "Twin Lagoon",
+        "title": "코론의 바닷물과 민물이 만나는 곳",
+        "description": "석회암 절벽을 사이에 두고 두 개의 호수가 붙어 있는 곳입니다. 썰물 때 바위 밑 틈으로 수영해서 이동할 수 있는 독특한 경험을 제공합니다.",
+        "city": "코론",
+        "province": "팔라완",
+        "icon": "🌀",
+        "category": "호수/강"
+    },
+    {
+        "name": "티누이안 폭포",
+        "english name": "Tinuy-an Falls",
+        "title": "필리핀의 나이아가라",
+        "description": "폭 95m, 높이 55m의 웅장한 규모를 자랑하는 다단 폭포입니다. 물보라로 인해 아침 9시에서 11시 사이에 무지개가 자주 뜹니다.",
+        "city": "비슬리그",
+        "province": "수리가오 델 수르",
+        "icon": "🌈",
+        "category": "폭포"
+    },
+    {
+        "name": "파낙사마 비치",
+        "english name": "Panagsama Beach",
+        "title": "모알보알의 정어리 떼와 거북이 포인트",
+        "description": "수천만 마리의 정어리 떼(Sardine Run)와 바다거북을 스노클링만으로도 쉽게 볼 수 있는 세계적인 포인트입니다.",
+        "city": "모알보알",
+        "province": "세부",
+        "icon": "🐟",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "파오아이 교회",
+        "english name": "Paoay Church",
+        "title": "일로코스 노르테의 바로크 양식 성당",
+        "description": "지진에 견디기 위해 거대한 버트레스(지지대)를 측면과 후면에 설치한 독특한 구조의 성당입니다. 유네스코 세계문화유산입니다.",
+        "city": "파오아이",
+        "province": "일로코스 노르테",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "팍상한 폭포",
+        "english name": "Pagsanjan Falls (Cavinti Falls)",
+        "title": "라구나의 급류 타기 명소",
+        "description": "좁은 계곡을 거슬러 올라가는 보트 투어와 대나무 뗏목을 타고 폭포수 아래를 통과하는 체험이 유명합니다. 영화 '지옥의 묵시록' 촬영지이기도 합니다.",
+        "city": "카빈티/팍상한",
+        "province": "라구나",
+        "icon": "🚣",
+        "category": "폭포"
+    },
+    {
+        "name": "포춘 아일랜드",
+        "english name": "Fortune Island",
+        "title": "그리스 신전 폐허가 있는 섬",
+        "description": "절벽 위에 그리스 아테네의 신전을 연상시키는 기둥들이 남아 있는 독특한 섬입니다. 이국적인 사진 촬영과 캠핑 장소로 유명합니다.",
+        "city": "나수부",
+        "province": "바탕가스",
+        "icon": "🏛️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "푸에르토 프린세사 지하강",
+        "english name": "Puerto Princesa Underground River",
+        "title": "팔라완의 유네스코 유산",
+        "description": "세계에서 가장 긴 항해 가능한 지하강 중 하나입니다. 배를 타고 동굴 내부로 들어가 거대한 종유석과 석순, 박쥐 등을 관찰합니다.",
+        "city": "사방",
+        "province": "팔라완",
+        "icon": "🦇",
+        "category": "동굴"
+    },
+    {
+        "name": "푸카 쉘 비치",
+        "english name": "Puka Shell Beach (Yapak Beach)",
+        "title": "보라카이의 조개껍질 해변",
+        "description": "화이트 비치보다 모래 입자가 굵고 조개껍질(푸카 쉘)이 섞여 있는 해변입니다. 이효리의 망고 음료 광고 촬영지로 유명해졌습니다.",
+        "city": "보라카이",
+        "province": "아클란",
+        "icon": "🐚",
+        "category": "해변/섬"
+    },
+    {
+        "name": "풀라그 산",
+        "english name": "Mount Pulag",
+        "title": "구름 바다를 볼 수 있는 산",
+        "description": "루손 섬에서 가장 높은 산(2,922m)입니다. 정상에서 내려다보는 끝없이 펼쳐진 구름 바다(Sea of Clouds)와 일출이 장관입니다.",
+        "city": "카바얀",
+        "province": "벵겟",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "핀토 미술관",
+        "english name": "Pinto Art Museum",
+        "title": "안티폴로의 정원 미술관",
+        "description": "아름다운 정원과 하얀색 지중해풍 건물이 어우러진 현대 미술관입니다. 다양한 필리핀 현대 미술 작품을 감상하며 힐링할 수 있습니다.",
+        "city": "안티폴로",
+        "province": "리잘",
+        "icon": "🎨",
+        "category": "박물관/미술관"
+    },
+    {
+        "name": "피나투보 화산",
+        "english name": "Mount Pinatubo",
+        "title": "칼데라 호수 트레킹",
+        "description": "1991년 대폭발 이후 형성된 에메랄드빛 칼데라 호수를 보러 가는 트레킹 코스입니다. 4륜 구동 지프를 타고 화산재 계곡을 달리는 경험이 특별합니다.",
+        "city": "카파스",
+        "province": "타를락",
+        "icon": "🌋",
+        "category": "산/화산"
+    },
+    {
+        "name": "피플스 파크 인 더 스카이",
+        "english name": "People's Park In The Sky",
+        "title": "따가이따이 전망대",
+        "description": "따가이따이에서 가장 높은 곳에 위치한 공원입니다. 미완성된 마르코스 전 대통령의 별장을 개조한 곳으로, 따알 호수와 주변 경관을 한눈에 볼 수 있습니다.",
+        "city": "따가이따이",
+        "province": "카비테",
+        "icon": "🔭",
+        "category": "전망대"
+    },
+    {
+        "name": "헌드레드 아일랜드",
+        "english name": "Hundred Islands National Park",
+        "title": "100여 개의 섬으로 이루어진 공원",
+        "description": "124개의 작은 섬들이 버섯 모양으로 흩어져 있는 국립공원입니다. 섬과 섬 사이를 호핑투어하며 수영, 스노클링, 카약 등을 즐깁니다.",
+        "city": "알라미노스",
+        "province": "팡가시난",
+        "icon": "🍄",
+        "category": "해변/섬"
+    },
+    {
+        "name": "히나그다난 동굴",
+        "english name": "Hinagdanan Cave",
+        "title": "보홀의 신비로운 지하 동굴",
+        "description": "자연 채광이 들어오는 지하 석회암 동굴입니다. 동굴 내부에 맑은 호수가 있어 수영을 할 수 있으며, 종유석들이 신비로운 분위기를 만듭니다.",
+        "city": "다우이스",
+        "province": "보홀",
+        "icon": "🕳️",
+        "category": "동굴"
+    },
+    {
+        "name": "히나투안 인챈티드 리버",
+        "english name": "Hinatuan Enchanted River",
+        "title": "민다나오의 신비로운 강",
+        "description": "믿을 수 없을 정도로 맑고 푸른 사파이어 색을 띠는 강입니다. 바닷물과 민물이 섞이는 곳으로 깊이를 알 수 없는 신비로움이 있습니다.",
+        "city": "히나투안",
+        "province": "수리가오 델 수르",
+        "icon": "💙",
+        "category": "호수/강"
+    },
+    {
+        "name": "화이트 비치",
+        "english name": "White Beach",
+        "title": "보라카이의 상징적인 해변",
+        "description": "세계 3대 해변으로 불릴 만큼 곱고 하얀 모래사장과 에메랄드빛 바다가 4km에 걸쳐 펼쳐진 곳입니다. 보라카이 여행의 중심지입니다.",
+        "city": "보라카이",
+        "province": "아클란",
+        "icon": "🏖️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "화이트 아일랜드",
+        "english name": "White Island",
+        "title": "카미긴의 백사장 섬",
+        "description": "말굽 모양의 하얀 모래톱만 있는 무인도입니다. 배경으로 보이는 히복히복 화산의 웅장한 모습과 투명한 바다가 어우러져 절경을 이룹니다.",
+        "city": "맘바자오",
+        "province": "카미긴",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Bataan 국립공원",
+        "english name": "Bataan National Park",
+        "title": "Bataan의 공원 명소",
+        "description": "Bataan Abucay에 위치한 공원 여행지입니다.",
+        "city": "Abucay",
+        "province": "Bataan",
+        "icon": "🌳",
+        "category": "공원"
+    },
+    {
+        "name": "Biak-na-Bato 국립공원",
+        "english name": "Biak-na-Bato National Park",
+        "title": "Bulacan의 공원 명소",
+        "description": "Bulacan Doña에 위치한 공원 여행지입니다.",
+        "city": "Doña",
+        "province": "Bulacan",
+        "icon": "🌳",
+        "category": "공원"
+    },
+    {
+        "name": "Enchanted Kingdom",
+        "english name": "Enchanted Kingdom",
+        "title": "Laguna의 테마파크 명소",
+        "description": "Laguna Santa에 위치한 테마파크 여행지입니다.",
+        "city": "Santa",
+        "province": "Laguna",
+        "icon": "🎢",
+        "category": "테마파크"
+    },
+    {
+        "name": "Kalbario-Patapat 자연공원",
+        "english name": "Kalbario-Patapat Natural Park",
+        "title": "Ilocos Norte의 공원 명소",
+        "description": "Ilocos Norte Pagudpud에 위치한 공원 여행지입니다. The natural park was established on April 20, 2007, by Proclamation no. 1275 encompassing 3,800 hectares (9,400 acres) w.",
+        "city": "Pagudpud",
+        "province": "Ilocos Norte",
+        "icon": "🌳",
+        "category": "공원"
+    },
+    {
+        "name": "MacArthur Landing 기념관 국립공원",
+        "english name": "MacArthur Landing Memorial National Park",
+        "title": "Leyte의 박물관/미술관 명소",
+        "description": "Leyte Palo에 위치한 박물관/미술관 여행지입니다. It was declared a national park on July 12, 1977, through Letter of Instructions No. 572 signed by President Ferdinand M.",
+        "city": "Palo",
+        "province": "Leyte",
+        "icon": "🎨",
+        "category": "박물관/미술관"
+    },
+    {
+        "name": "Mayon 화산 국립공원",
+        "english name": "Mayon Volcano National Park",
+        "title": "Albay의 산/화산 명소",
+        "description": "Albay Legazpi에 위치한 산/화산 여행지입니다. First protected as a National Park in 1938, it was reclassified as a Natural Park in the year 2000.",
+        "city": "Legazpi",
+        "province": "Albay",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Apo Natural Park 산",
+        "english name": "Mount Apo Natural Park",
+        "title": "Davao del Sur Cotabato의 산/화산 명소",
+        "description": "Davao del Sur Cotabato Davao에 위치한 산/화산 여행지입니다. Declared a National Park by Manuel L. Quezon through Proclamations No. 59 on May 9, 1936, and No. 35 on May 8, 1966.",
+        "city": "Davao",
+        "province": "Davao del Sur Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Mounts Iglit-Baco 국립공원",
+        "english name": "Mounts Iglit-Baco National Park",
+        "title": "Occidental Mindoro의 산/화산 명소",
+        "description": "Occidental Mindoro Sablayan에 위치한 산/화산 여행지입니다. A protected sanctuary and home to the Tamaraws endemic to the island of Mindoro . Established as a National Park on Nove.",
+        "city": "Sablayan",
+        "province": "Occidental Mindoro",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Nagcarlan Underground Cemetery",
+        "english name": "Nagcarlan Underground Cemetery",
+        "title": "Laguna의 역사 유적 명소",
+        "description": "Laguna Nagcarlan에 위치한 역사 유적 여행지입니다. It is dubbed as the only underground cemetery in the country.",
+        "city": "Nagcarlan",
+        "province": "Laguna",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Paco 공원",
+        "english name": "Paco Park",
+        "title": "Metro Manila (National Capital Region)의 공원 명소",
+        "description": "Metro Manila (National Capital Region) Paco,에 위치한 공원 여행지입니다.",
+        "city": "Paco,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🌳",
+        "category": "공원"
+    },
+    {
+        "name": "Rizal 공원",
+        "english name": "Rizal Park",
+        "title": "Metro Manila (National Capital Region)의 공원 명소",
+        "description": "Metro Manila (National Capital Region) Roxas에 위치한 공원 여행지입니다.",
+        "city": "Roxas",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🌳",
+        "category": "공원"
+    },
+    {
+        "name": "Salinas Natural 기념비",
+        "english name": "Salinas Natural Monument",
+        "title": "Nueva Vizcaya의 역사 유적 명소",
+        "description": "Nueva Vizcaya Aritao에 위치한 역사 유적 여행지입니다. The park was established on May 18, 1914, as the Salinas Forest Reserve covering the Salinas Salt Springs and surroundin.",
+        "city": "Aritao",
+        "province": "Nueva Vizcaya",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Star City",
+        "english name": "Star City",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) CCP에 위치한 역사 유적 여행지입니다.",
+        "city": "CCP",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Antipolo 대성당",
+        "english name": "Antipolo Cathedral",
+        "title": "Rizal의 교회/성당 명소",
+        "description": "Rizal Antipolo에 위치한 교회/성당 여행지입니다. On January 14, 1954, the Catholic Bishops Conference of the Philippines declared the new Antipolo Church as declared the.",
+        "city": "Antipolo",
+        "province": "Rizal",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Baclaran 교회",
+        "english name": "Baclaran Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Baclaran,에 위치한 교회/성당 여행지입니다.",
+        "city": "Baclaran,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Baclayon 교회",
+        "english name": "Baclayon Church",
+        "title": "Bohol의 교회/성당 명소",
+        "description": "Bohol Baclayon에 위치한 교회/성당 여행지입니다. It was severely damaged when a 7.2 magnitude earthquake struck Bohol and other parts of Central Visayas on October 15, 2.",
+        "city": "Baclayon",
+        "province": "Bohol",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Baguio 대성당",
+        "english name": "Baguio Cathedral",
+        "title": "Benguet의 교회/성당 명소",
+        "description": "Benguet Baguio에 위치한 교회/성당 여행지입니다. The site where the cathedral currently stands was a hill referred to as Kampo by the Ibaloi people. In 1907, a Catholic .",
+        "city": "Baguio",
+        "province": "Benguet",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Barasoain 교회",
+        "english name": "Barasoain Church",
+        "title": "Bulacan의 교회/성당 명소",
+        "description": "Bulacan Malolos에 위치한 교회/성당 여행지입니다. Site of the First Philippine Republic.",
+        "city": "Malolos",
+        "province": "Bulacan",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "바실리카 del Santo Niño",
+        "english name": "Basilica del Santo Niño",
+        "title": "Cebu의 교회/성당 명소",
+        "description": "Cebu Cebu에 위치한 교회/성당 여행지입니다. In 1965, during the 4th centenary of the Christianization of the Philippines, Pope Paul VI elevated the church to the ra.",
+        "city": "Cebu",
+        "province": "Cebu",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "바실리카 Minore of Our Lady of Charity",
+        "english name": "Basilica Minore of Our Lady of Charity",
+        "title": "La Union의 교회/성당 명소",
+        "description": "La Union Agoo에 위치한 교회/성당 여행지입니다. On July 15, 1982, Pope John Paul II gave due course to the petition of Bishop Salvador Lazo of the Diocese of San Fernan.",
+        "city": "Agoo",
+        "province": "La Union",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "바실리카 of Our Lady of Piat",
+        "english name": "Basilica of Our Lady of Piat",
+        "title": "Cagayan의 교회/성당 명소",
+        "description": "Cagayan Piat에 위치한 교회/성당 여행지입니다. On June 22, 1989, it was made into a minor basilica by Pope John Paul II .",
+        "city": "Piat",
+        "province": "Cagayan",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "바실리카 of Saint Martin of Tours",
+        "english name": "Basilica of Saint Martin of Tours",
+        "title": "Batangas의 교회/성당 명소",
+        "description": "Batangas Taal에 위치한 교회/성당 여행지입니다. Asia's largest Catholic church. On December 8, 1954, the church was elevated into a minor basilica by Pope Pius XII .",
+        "city": "Taal",
+        "province": "Batangas",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Binondo 교회",
+        "english name": "Binondo Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Binondo,에 위치한 교회/성당 여행지입니다.",
+        "city": "Binondo,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Cagayan de Oro 대성당",
+        "english name": "Cagayan de Oro Cathedral",
+        "title": "Misamis Oriental의 교회/성당 명소",
+        "description": "Misamis Oriental Cagayan에 위치한 교회/성당 여행지입니다. During its early history, it was believed that the first church structure built in present-day Cagayan de Oro (formerly .",
+        "city": "Cagayan",
+        "province": "Misamis Oriental",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "대성당 of Praise",
+        "english name": "Cathedral of Praise",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 교회/성당 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Central United Methodist 교회",
+        "english name": "Central United Methodist Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Ermita,에 위치한 교회/성당 여행지입니다.",
+        "city": "Ermita,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "교회 of the Gesù",
+        "english name": "Church of the Gesù",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Quezon에 위치한 교회/성당 여행지입니다.",
+        "city": "Quezon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Cosmopolitan 교회",
+        "english name": "Cosmopolitan Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Ermita,에 위치한 교회/성당 여행지입니다.",
+        "city": "Ermita,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Ermita 교회",
+        "english name": "Ermita Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Ermita,에 위치한 교회/성당 여행지입니다.",
+        "city": "Ermita,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Iglesia Evangelica Metodista en las Islas Filipinas",
+        "english name": "Iglesia Evangelica Metodista en las Islas Filipinas",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Iglesia ni Cristo Central Temple",
+        "english name": "Iglesia ni Cristo Central Temple",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Quezon에 위치한 역사 유적 여행지입니다.",
+        "city": "Quezon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Imus 대성당",
+        "english name": "Imus Cathedral",
+        "title": "Cavite의 교회/성당 명소",
+        "description": "Cavite Imus에 위치한 교회/성당 여행지입니다. The cathedral was declared a structure of historical significance with the placing of a historical marker by then Nation.",
+        "city": "Imus",
+        "province": "Cavite",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Jaro 대성당",
+        "english name": "Jaro Cathedral",
+        "title": "Iloilo의 교회/성당 명소",
+        "description": "Iloilo Jaro,에 위치한 교회/성당 여행지입니다. The Catholic Bishops' Conference of the Philippines formally declared the cathedral the National Shrine of Our Lady of t.",
+        "city": "Jaro,",
+        "province": "Iloilo",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Las Piñas 교회",
+        "english name": "Las Piñas Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Las에 위치한 교회/성당 여행지입니다.",
+        "city": "Las",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Loboc 교회",
+        "english name": "Loboc Church",
+        "title": "Bohol의 교회/성당 명소",
+        "description": "Bohol Loboc에 위치한 교회/성당 여행지입니다. It was severely damaged when a 7.2 magnitude earthquake struck Bohol and other parts of Central Visayas on October 15, 2.",
+        "city": "Loboc",
+        "province": "Bohol",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Loon 교회",
+        "english name": "Loon Church",
+        "title": "Bohol의 교회/성당 명소",
+        "description": "Bohol Loon에 위치한 교회/성당 여행지입니다. It was severely damaged when a 7.2 magnitude earthquake struck Bohol and other parts of Central Visayas on October 15, 2.",
+        "city": "Loon",
+        "province": "Bohol",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Malate 교회",
+        "english name": "Malate Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Malate,에 위치한 교회/성당 여행지입니다.",
+        "city": "Malate,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Malolos 대성당",
+        "english name": "Malolos Cathedral",
+        "title": "Bulacan의 교회/성당 명소",
+        "description": "Bulacan Malolos에 위치한 교회/성당 여행지입니다. On December 4, 1999, it was elevated into a minor basilica by Pope John Paul II .",
+        "city": "Malolos",
+        "province": "Bulacan",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Manila 대성당",
+        "english name": "Manila Cathedral",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Intramuros,에 위치한 교회/성당 여행지입니다.",
+        "city": "Intramuros,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Maribojoc 교회",
+        "english name": "Maribojoc Church",
+        "title": "Bohol의 교회/성당 명소",
+        "description": "Bohol Maribojoc에 위치한 교회/성당 여행지입니다. It was severely damaged when a 7.2 magnitude earthquake struck Bohol and other parts of Central Visayas on October 15, 2.",
+        "city": "Maribojoc",
+        "province": "Bohol",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Minor 바실리카 of the Immaculate Conception",
+        "english name": "Minor Basilica of the Immaculate Conception",
+        "title": "Batangas의 교회/성당 명소",
+        "description": "Batangas Batangas에 위치한 교회/성당 여행지입니다. On February 13, 1945, the church was declared a Minor Basilica of the Immaculate Conception by Pope Pius XII .",
+        "city": "Batangas",
+        "province": "Batangas",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Minor 바실리카 of Our Lady of the Most Holy Rosary of Manaoag",
+        "english name": "Minor Basilica of Our Lady of the Most Holy Rosary of Manaoag",
+        "title": "Pangasinan의 교회/성당 명소",
+        "description": "Pangasinan Manaoag에 위치한 교회/성당 여행지입니다. In February 2015, the Shrine of Our Lady of The Rosary of Manaoag was elevated to a minor basilica by Pope Francis .",
+        "city": "Manaoag",
+        "province": "Pangasinan",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Naga 대성당",
+        "english name": "Naga Cathedral",
+        "title": "Camarines Sur의 교회/성당 명소",
+        "description": "Camarines Sur Naga에 위치한 교회/성당 여행지입니다. The first cathedral built for Naga was founded after the Diocese of Cáceres was established in 1595. It is a suffragan o.",
+        "city": "Naga",
+        "province": "Camarines Sur",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Nuestra Señora de Gracia 교회",
+        "english name": "Nuestra Señora de Gracia Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Makati에 위치한 교회/성당 여행지입니다.",
+        "city": "Makati",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Our Lady of Montserrat Abbey",
+        "english name": "Our Lady of Montserrat Abbey",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Mendiola,에 위치한 역사 유적 여행지입니다.",
+        "city": "Mendiola,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Our Lady of the Abandoned Parish 교회",
+        "english name": "Our Lady of the Abandoned Parish Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Marikina에 위치한 교회/성당 여행지입니다.",
+        "city": "Marikina",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Nagcarlan 교회",
+        "english name": "Nagcarlan Church",
+        "title": "Laguna의 교회/성당 명소",
+        "description": "Laguna Nagcarlan에 위치한 교회/성당 여행지입니다. The church is famous for its Underground Cemetery which was built in 1845.",
+        "city": "Nagcarlan",
+        "province": "Laguna",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Parañaque 대성당",
+        "english name": "Parañaque Cathedral",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Parañaque에 위치한 교회/성당 여행지입니다.",
+        "city": "Parañaque",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Parish of the Holy Sacrifice",
+        "english name": "Parish of the Holy Sacrifice",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Quezon에 위치한 역사 유적 여행지입니다.",
+        "city": "Quezon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Pasig 대성당",
+        "english name": "Pasig Cathedral",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Pasig에 위치한 교회/성당 여행지입니다.",
+        "city": "Pasig",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Peñafrancia 바실리카",
+        "english name": "Peñafrancia Basilica",
+        "title": "Camarines Sur의 교회/성당 명소",
+        "description": "Camarines Sur Naga에 위치한 교회/성당 여행지입니다. On May 22, 1985, the church was consecrated into a minor basilica Pope John Paul II .",
+        "city": "Naga",
+        "province": "Camarines Sur",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Philippine Independent 교회 (Parish of La Purisima Concepcion de Malabon)",
+        "english name": "Philippine Independent Church (Parish of La Purisima Concepcion de Malabon)",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Malabon에 위치한 교회/성당 여행지입니다.",
+        "city": "Malabon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Pinaglabanan 교회",
+        "english name": "Pinaglabanan Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) San에 위치한 교회/성당 여행지입니다.",
+        "city": "San",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Quiapo 교회",
+        "english name": "Quiapo Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Quiapo,에 위치한 교회/성당 여행지입니다.",
+        "city": "Quiapo,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Saint James the Apostle Parish 교회",
+        "english name": "Saint James the Apostle Parish Church",
+        "title": "Laguna의 교회/성당 명소",
+        "description": "Laguna Paete에 위치한 교회/성당 여행지입니다. The church is known for its huge and exquisite collection of images depicting the Passion of Christ, its century-old pai.",
+        "city": "Paete",
+        "province": "Laguna",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Sampaloc 교회",
+        "english name": "Sampaloc Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Sampaloc,에 위치한 교회/성당 여행지입니다.",
+        "city": "Sampaloc,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "San Bartolome 교회",
+        "english name": "San Bartolome Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Malabon에 위치한 교회/성당 여행지입니다.",
+        "city": "Malabon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "San Fernando de Dilao 교회",
+        "english name": "San Fernando de Dilao Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Paco,에 위치한 교회/성당 여행지입니다.",
+        "city": "Paco,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "San Miguel 교회",
+        "english name": "San Miguel Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) San에 위치한 교회/성당 여행지입니다.",
+        "city": "San",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "San Pedro Macati 교회",
+        "english name": "San Pedro Macati Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Makati에 위치한 교회/성당 여행지입니다.",
+        "city": "Makati",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "San Sebastian 대성당",
+        "english name": "San Sebastian Cathedral",
+        "title": "Negros Occidental의 교회/성당 명소",
+        "description": "Negros Occidental Bacolod에 위치한 교회/성당 여행지입니다.",
+        "city": "Bacolod",
+        "province": "Negros Occidental",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "San Sebastian 교회",
+        "english name": "San Sebastian Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Quiapo,에 위치한 교회/성당 여행지입니다.",
+        "city": "Quiapo,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Santa Cruz 교회",
+        "english name": "Santa Cruz Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 교회/성당 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Santo Domingo 교회",
+        "english name": "Santo Domingo Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Quezon에 위치한 교회/성당 여행지입니다.",
+        "city": "Quezon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Santuario del Santo Cristo",
+        "english name": "Santuario del Santo Cristo",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) San에 위치한 역사 유적 여행지입니다.",
+        "city": "San",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "St. Anthony Shrine",
+        "english name": "St. Anthony Shrine",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Sampaloc,에 위치한 교회/성당 여행지입니다.",
+        "city": "Sampaloc,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Tayabas 바실리카",
+        "english name": "Tayabas Basilica",
+        "title": "Quezon의 교회/성당 명소",
+        "description": "Quezon Tayabas에 위치한 교회/성당 여행지입니다. Largest Catholic church in Quezon. On October 18, 1988, the title Minor Basilica was conferred upon the church by Pope J.",
+        "city": "Tayabas",
+        "province": "Quezon",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Tondo 교회",
+        "english name": "Tondo Church",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Tondo,에 위치한 교회/성당 여행지입니다.",
+        "city": "Tondo,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Aguinaldo Shrine",
+        "english name": "Aguinaldo Shrine",
+        "title": "Cavite의 교회/성당 명소",
+        "description": "Cavite Kawit에 위치한 교회/성당 여행지입니다. Ancestral home of Emilio Aguinaldo , 1st President of the Philippines .",
+        "city": "Kawit",
+        "province": "Cavite",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Bagacay Point Lighthouse",
+        "english name": "Bagacay Point Lighthouse",
+        "title": "Cebu의 역사 유적 명소",
+        "description": "Cebu Liloan에 위치한 역사 유적 여행지입니다.",
+        "city": "Liloan",
+        "province": "Cebu",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Bahay Nakpil-Bautista",
+        "english name": "Bahay Nakpil-Bautista",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Quiapo,에 위치한 역사 유적 여행지입니다.",
+        "city": "Quiapo,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Basco Lighthouse",
+        "english name": "Basco Lighthouse",
+        "title": "Batanes의 역사 유적 명소",
+        "description": "Batanes Basco에 위치한 역사 유적 여행지입니다.",
+        "city": "Basco",
+        "province": "Batanes",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Binondo",
+        "english name": "Binondo",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Bonifacio 기념비",
+        "english name": "Bonifacio Monument",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Caloocan에 위치한 역사 유적 여행지입니다.",
+        "city": "Caloocan",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Cape Bojeador Lighthouse",
+        "english name": "Cape Bojeador Lighthouse",
+        "title": "Ilocos Norte의 역사 유적 명소",
+        "description": "Ilocos Norte Burgos에 위치한 역사 유적 여행지입니다.",
+        "city": "Burgos",
+        "province": "Ilocos Norte",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Cape Bolinao Lighthouse",
+        "english name": "Cape Bolinao Lighthouse",
+        "title": "Pangasinan의 역사 유적 명소",
+        "description": "Pangasinan Bolinao에 위치한 역사 유적 여행지입니다.",
+        "city": "Bolinao",
+        "province": "Pangasinan",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Cape Engaño Lighthouse",
+        "english name": "Cape Engaño Lighthouse",
+        "title": "Cagayan의 역사 유적 명소",
+        "description": "Cagayan Santa에 위치한 역사 유적 여행지입니다.",
+        "city": "Santa",
+        "province": "Cagayan",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Cape Melville Lighthouse",
+        "english name": "Cape Melville Lighthouse",
+        "title": "Palawan의 역사 유적 명소",
+        "description": "Palawan Balabac에 위치한 역사 유적 여행지입니다.",
+        "city": "Balabac",
+        "province": "Palawan",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Capul 섬 Lighthouse",
+        "english name": "Capul Island Lighthouse",
+        "title": "Northern Samar의 해변/섬 명소",
+        "description": "Northern Samar Capul에 위치한 해변/섬 여행지입니다.",
+        "city": "Capul",
+        "province": "Northern Samar",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Casino Español de Manila",
+        "english name": "Casino Español de Manila",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Ermita,에 위치한 역사 유적 여행지입니다.",
+        "city": "Ermita,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Don Roman Santos Building",
+        "english name": "Don Roman Santos Building",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "EDSA Shrine",
+        "english name": "EDSA Shrine",
+        "title": "Metro Manila (National Capital Region)의 교회/성당 명소",
+        "description": "Metro Manila (National Capital Region) Quezon에 위치한 교회/성당 여행지입니다.",
+        "city": "Quezon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "요새 of San Antonio Abad",
+        "english name": "Fort of San Antonio Abad",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Heritage City of Vigan",
+        "english name": "Heritage City of Vigan",
+        "title": "Ilocos Sur의 역사 유적 명소",
+        "description": "Ilocos Sur Vigan에 위치한 역사 유적 여행지입니다. One of the New7WondersCities .",
+        "city": "Vigan",
+        "province": "Ilocos Sur",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Igorot Stone Kingdom",
+        "english name": "Igorot Stone Kingdom",
+        "title": "Benguet의 테마파크 명소",
+        "description": "Benguet Baguio에 위치한 테마파크 여행지입니다. A privately owned cultural theme park located along Longlong Road, Barangay Pinsao Proper, Baguio City. Built in 2021 by.",
+        "city": "Baguio",
+        "province": "Benguet",
+        "icon": "🎢",
+        "category": "테마파크"
+    },
+    {
+        "name": "Lapu-Lapu Shrine",
+        "english name": "Lapu-Lapu Shrine",
+        "title": "Cebu의 교회/성당 명소",
+        "description": "Cebu Lapu-Lapu에 위치한 교회/성당 여행지입니다.",
+        "city": "Lapu-Lapu",
+        "province": "Cebu",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Luneta Hotel",
+        "english name": "Luneta Hotel",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Ermita,에 위치한 역사 유적 여행지입니다.",
+        "city": "Ermita,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Magellan Shrine",
+        "english name": "Magellan Shrine",
+        "title": "Cebu의 교회/성당 명소",
+        "description": "Cebu Lapu-Lapu에 위치한 교회/성당 여행지입니다.",
+        "city": "Lapu-Lapu",
+        "province": "Cebu",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Malacañang Palace",
+        "english name": "Malacañang Palace",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Maniguin 섬 Lighthouse",
+        "english name": "Maniguin Island Lighthouse",
+        "title": "Antique의 해변/섬 명소",
+        "description": "Antique Culasi에 위치한 해변/섬 여행지입니다.",
+        "city": "Culasi",
+        "province": "Antique",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Manila Army and Navy Club",
+        "english name": "Manila Army and Navy Club",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Manila Central Post Office",
+        "english name": "Manila Central Post Office",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Manila City Hall",
+        "english name": "Manila City Hall",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Manila Hotel",
+        "english name": "Manila Hotel",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Ermita,에 위치한 역사 유적 여행지입니다.",
+        "city": "Ermita,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Manila Metropolitan Theater",
+        "english name": "Manila Metropolitan Theater",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "National Historical Commission of the Philippines",
+        "english name": "National Historical Commission of the Philippines",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Nielson Field",
+        "english name": "Nielson Field",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Makati에 위치한 역사 유적 여행지입니다.",
+        "city": "Makati",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Rizal Shrine",
+        "english name": "Rizal Shrine",
+        "title": "Laguna의 교회/성당 명소",
+        "description": "Laguna Calamba에 위치한 교회/성당 여행지입니다. Ancestral home of Jose Rizal , National Hero of the Philippines.",
+        "city": "Calamba",
+        "province": "Laguna",
+        "icon": "⛪",
+        "category": "교회/성당"
+    },
+    {
+        "name": "Tutuban railway station",
+        "english name": "Tutuban railway station",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Anilao Dive Spots",
+        "english name": "Anilao Dive Spots",
+        "title": "Batangas의 다이빙/스노클링 명소",
+        "description": "Batangas Mabini에 위치한 다이빙/스노클링 여행지입니다.",
+        "city": "Mabini",
+        "province": "Batangas",
+        "icon": "🤿",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "Apo 리프",
+        "english name": "Apo Reef",
+        "title": "Occidental Mindoro의 다이빙/스노클링 명소",
+        "description": "Occidental Mindoro Sablayan에 위치한 다이빙/스노클링 여행지입니다. World's 2nd largest contiguous coral reef system and the largest in the country.",
+        "city": "Sablayan",
+        "province": "Occidental Mindoro",
+        "icon": "🤿",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "Boracay 섬",
+        "english name": "Boracay Island",
+        "title": "Aklan의 해변/섬 명소",
+        "description": "Aklan Malay에 위치한 해변/섬 여행지입니다. One of the Best Islands in the World according to Travel + Leisure .",
+        "city": "Malay",
+        "province": "Aklan",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Cagayan de Oro 강",
+        "english name": "Cagayan de Oro River",
+        "title": "Bukidnon Lanao del Norte Misamis Oriental의 호수/강 명소",
+        "description": "Bukidnon Lanao del Norte Misamis Oriental Talakag에 위치한 호수/강 여행지입니다.",
+        "city": "Talakag",
+        "province": "Bukidnon Lanao del Norte Misamis Oriental",
+        "icon": "🌊",
+        "category": "호수/강"
+    },
+    {
+        "name": "Camaya Coast",
+        "english name": "Camaya Coast",
+        "title": "Bataan의 역사 유적 명소",
+        "description": "Bataan Mariveles에 위치한 역사 유적 여행지입니다.",
+        "city": "Mariveles",
+        "province": "Bataan",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Caramoan",
+        "english name": "Caramoan",
+        "title": "Camarines Sur의 역사 유적 명소",
+        "description": "Camarines Sur Caramoan에 위치한 역사 유적 여행지입니다.",
+        "city": "Caramoan",
+        "province": "Camarines Sur",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Coron 섬",
+        "english name": "Coron Island",
+        "title": "Palawan의 해변/섬 명소",
+        "description": "Palawan Coron에 위치한 해변/섬 여행지입니다. The island is known for several Japanese shipwrecks of World War II vintage. Because of its unique ecological features, .",
+        "city": "Coron",
+        "province": "Palawan",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "El Nido",
+        "english name": "El Nido",
+        "title": "Palawan의 역사 유적 명소",
+        "description": "Palawan El에 위치한 역사 유적 여행지입니다. Best Beach and Island in the Philippines according to CNNGo .",
+        "city": "El",
+        "province": "Palawan",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Dahican 비치",
+        "english name": "Dahican Beach",
+        "title": "Davao Oriental의 해변/섬 명소",
+        "description": "Davao Oriental Mati에 위치한 해변/섬 여행지입니다.",
+        "city": "Mati",
+        "province": "Davao Oriental",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Hinulugang Taktak",
+        "english name": "Hinulugang Taktak",
+        "title": "Rizal의 역사 유적 명소",
+        "description": "Rizal Antipolo에 위치한 역사 유적 여행지입니다.",
+        "city": "Antipolo",
+        "province": "Rizal",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Kanlaon 화산",
+        "english name": "Kanlaon Volcano",
+        "title": "Negros Occidental Negros Oriental [ 84 ]의 산/화산 명소",
+        "description": "Negros Occidental Negros Oriental [ 84 ] Bago에 위치한 산/화산 여행지입니다. The highest point of the whole Negros and Visayas by 2,465 metres (8,087 ft). 3rd Most Active Volcano in the Philippines.",
+        "city": "Bago",
+        "province": "Negros Occidental Negros Oriental [ 84 ]",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "호수 Balinsasayao",
+        "english name": "Lake Balinsasayao",
+        "title": "Negros Oriental의 호수/강 명소",
+        "description": "Negros Oriental Sibulan에 위치한 호수/강 여행지입니다.",
+        "city": "Sibulan",
+        "province": "Negros Oriental",
+        "icon": "🌊",
+        "category": "호수/강"
+    },
+    {
+        "name": "호수 Danao",
+        "english name": "Lake Danao",
+        "title": "Leyte의 호수/강 명소",
+        "description": "Leyte Ormoc에 위치한 호수/강 여행지입니다.",
+        "city": "Ormoc",
+        "province": "Leyte",
+        "icon": "🌊",
+        "category": "호수/강"
+    },
+    {
+        "name": "Limunsudan 폭포",
+        "english name": "Limunsudan Falls",
+        "title": "Lanao del Norte의 폭포 명소",
+        "description": "Lanao del Norte Iligan에 위치한 폭포 여행지입니다.",
+        "city": "Iligan",
+        "province": "Lanao del Norte",
+        "icon": "💧",
+        "category": "폭포"
+    },
+    {
+        "name": "Mactan 섬",
+        "english name": "Mactan Island",
+        "title": "Cebu의 해변/섬 명소",
+        "description": "Cebu Lapu-Lapu에 위치한 해변/섬 여행지입니다.",
+        "city": "Lapu-Lapu",
+        "province": "Cebu",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Matabungkay",
+        "english name": "Matabungkay",
+        "title": "Batangas의 역사 유적 명소",
+        "description": "Batangas Lian에 위치한 역사 유적 여행지입니다.",
+        "city": "Lian",
+        "province": "Batangas",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Apo 산",
+        "english name": "Mount Apo",
+        "title": "Davao del Sur Cotabato의 산/화산 명소",
+        "description": "Davao del Sur Cotabato Davao에 위치한 산/화산 여행지입니다. Highest mountain in the Philippines The Grandfather of Philippine Mountains.",
+        "city": "Davao",
+        "province": "Davao del Sur Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Banahaw 산",
+        "english name": "Mount Banahaw",
+        "title": "Laguna Quezon의 산/화산 명소",
+        "description": "Laguna Quezon San에 위치한 산/화산 여행지입니다. 9th Most Active Volcano in the Philippines.",
+        "city": "San",
+        "province": "Laguna Quezon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bulusan 산",
+        "english name": "Mount Bulusan",
+        "title": "Sorsogon의 산/화산 명소",
+        "description": "Sorsogon Bulusan에 위치한 산/화산 여행지입니다. 4th Most Active Volcano in the Philippines.",
+        "city": "Bulusan",
+        "province": "Sorsogon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Hamiguitan 산",
+        "english name": "Mount Hamiguitan",
+        "title": "Davao Oriental의 산/화산 명소",
+        "description": "Davao Oriental Governor에 위치한 산/화산 여행지입니다. The only UNESCO World Heritage Site in Mindanao and the sixth in the Philippines.",
+        "city": "Governor",
+        "province": "Davao Oriental",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Hibok-Hibok 산",
+        "english name": "Mount Hibok-Hibok",
+        "title": "Camiguin의 산/화산 명소",
+        "description": "Camiguin Mambajao에 위치한 산/화산 여행지입니다. 7th Most Active Volcano in the Philippines.",
+        "city": "Mambajao",
+        "province": "Camiguin",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Isarog 산",
+        "english name": "Mount Isarog",
+        "title": "Camarines Sur의 산/화산 명소",
+        "description": "Camarines Sur Calabanga에 위치한 산/화산 여행지입니다.",
+        "city": "Calabanga",
+        "province": "Camarines Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Makiling 산",
+        "english name": "Mount Makiling",
+        "title": "Batangas Laguna의 산/화산 명소",
+        "description": "Batangas Laguna Calamba에 위치한 산/화산 여행지입니다.",
+        "city": "Calamba",
+        "province": "Batangas Laguna",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Mariveles 산",
+        "english name": "Mount Mariveles",
+        "title": "Bataan의 산/화산 명소",
+        "description": "Bataan Mariveles에 위치한 산/화산 여행지입니다.",
+        "city": "Mariveles",
+        "province": "Bataan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Samat 산",
+        "english name": "Mount Samat",
+        "title": "Bataan의 산/화산 명소",
+        "description": "Bataan Pilar에 위치한 산/화산 여행지입니다.",
+        "city": "Pilar",
+        "province": "Bataan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Pagsanjan 폭포",
+        "english name": "Pagsanjan Falls",
+        "title": "Laguna의 폭포 명소",
+        "description": "Laguna Cavinti에 위치한 폭포 여행지입니다.",
+        "city": "Cavinti",
+        "province": "Laguna",
+        "icon": "💧",
+        "category": "폭포"
+    },
+    {
+        "name": "Pagudpud coastline",
+        "english name": "Pagudpud coastline",
+        "title": "Ilocos Norte의 역사 유적 명소",
+        "description": "Ilocos Norte Pagudpud에 위치한 역사 유적 여행지입니다. Boracay of the North.",
+        "city": "Pagudpud",
+        "province": "Ilocos Norte",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Panglao 섬",
+        "english name": "Panglao Island",
+        "title": "Bohol의 해변/섬 명소",
+        "description": "Bohol Panglao에 위치한 해변/섬 여행지입니다.",
+        "city": "Panglao",
+        "province": "Bohol",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Puerto Galera",
+        "english name": "Puerto Galera",
+        "title": "Oriental Mindoro의 역사 유적 명소",
+        "description": "Oriental Mindoro Puerto에 위치한 역사 유적 여행지입니다. One of the most beautiful bays in the world .",
+        "city": "Puerto",
+        "province": "Oriental Mindoro",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Puerto Princesa Subterranean 강 국립공원",
+        "english name": "Puerto Princesa Subterranean River National Park",
+        "title": "Palawan의 호수/강 명소",
+        "description": "Palawan Puerto에 위치한 호수/강 여행지입니다. One of the New7Wonders of Nature .",
+        "city": "Puerto",
+        "province": "Palawan",
+        "icon": "🌊",
+        "category": "호수/강"
+    },
+    {
+        "name": "Pujada Bay",
+        "english name": "Pujada Bay",
+        "title": "Davao Oriental의 역사 유적 명소",
+        "description": "Davao Oriental Mati에 위치한 역사 유적 여행지입니다. One of the most beautiful bays in the world .",
+        "city": "Mati",
+        "province": "Davao Oriental",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Punta Fuego",
+        "english name": "Punta Fuego",
+        "title": "Batangas의 역사 유적 명소",
+        "description": "Batangas Nasugbu에 위치한 역사 유적 여행지입니다.",
+        "city": "Nasugbu",
+        "province": "Batangas",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Rice Terraces of the Philippine Cordilleras",
+        "english name": "Rice Terraces of the Philippine Cordilleras",
+        "title": "Ifugao의 역사 유적 명소",
+        "description": "Ifugao Banaue에 위치한 역사 유적 여행지입니다. The first-ever property to be included in the cultural landscape category of the UNESCO World Heritage Site List .",
+        "city": "Banaue",
+        "province": "Ifugao",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Rio Grande de Cagayan",
+        "english name": "Rio Grande de Cagayan",
+        "title": "Cagayan Isabela Nueva Vizcaya Quirino의 역사 유적 명소",
+        "description": "Cagayan Isabela Nueva Vizcaya Quirino Aparri에 위치한 역사 유적 여행지입니다.",
+        "city": "Aparri",
+        "province": "Cagayan Isabela Nueva Vizcaya Quirino",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Samal 섬",
+        "english name": "Samal Island",
+        "title": "Davao del Norte의 해변/섬 명소",
+        "description": "Davao del Norte Samal에 위치한 해변/섬 여행지입니다.",
+        "city": "Samal",
+        "province": "Davao del Norte",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Siargao 섬",
+        "english name": "Siargao Island",
+        "title": "Surigao del Norte의 해변/섬 명소",
+        "description": "Surigao del Norte Burgos에 위치한 해변/섬 여행지입니다.",
+        "city": "Burgos",
+        "province": "Surigao del Norte",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Sierra Madre",
+        "english name": "Sierra Madre",
+        "title": "Cagayan Valley Calabarzon Central Luzon의 역사 유적 명소",
+        "description": "Cagayan Valley Calabarzon Central Luzon Aurora에 위치한 역사 유적 여행지입니다.",
+        "city": "Aurora",
+        "province": "Cagayan Valley Calabarzon Central Luzon",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Tubbataha 리프",
+        "english name": "Tubbataha Reef",
+        "title": "Palawan의 다이빙/스노클링 명소",
+        "description": "Palawan Puerto에 위치한 다이빙/스노클링 여행지입니다.",
+        "city": "Puerto",
+        "province": "Palawan",
+        "icon": "🤿",
+        "category": "다이빙/스노클링"
+    },
+    {
+        "name": "Verde 섬",
+        "english name": "Verde Island",
+        "title": "Batangas의 해변/섬 명소",
+        "description": "Batangas Batangas에 위치한 해변/섬 여행지입니다.",
+        "city": "Batangas",
+        "province": "Batangas",
+        "icon": "🏝️",
+        "category": "해변/섬"
+    },
+    {
+        "name": "Araneta Coliseum",
+        "english name": "Araneta Coliseum",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Cubao,에 위치한 역사 유적 여행지입니다.",
+        "city": "Cubao,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Asilo de San Vicente de Paul",
+        "english name": "Asilo de San Vicente de Paul",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) United에 위치한 역사 유적 여행지입니다.",
+        "city": "United",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Ayala Center",
+        "english name": "Ayala Center",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Makati에 위치한 역사 유적 여행지입니다.",
+        "city": "Makati",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Ayala 박물관",
+        "english name": "Ayala Museum",
+        "title": "Metro Manila (National Capital Region)의 박물관/미술관 명소",
+        "description": "Metro Manila (National Capital Region) Makati에 위치한 박물관/미술관 여행지입니다.",
+        "city": "Makati",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🎨",
+        "category": "박물관/미술관"
+    },
+    {
+        "name": "Bangui Wind Farm",
+        "english name": "Bangui Wind Farm",
+        "title": "Ilocos Norte의 농장 명소",
+        "description": "Ilocos Norte Bangui에 위치한 농장 여행지입니다. 1st Wind Farm in the Philippines.",
+        "city": "Bangui",
+        "province": "Ilocos Norte",
+        "icon": "🌾",
+        "category": "농장"
+    },
+    {
+        "name": "Bonifacio Global City",
+        "english name": "Bonifacio Global City",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Taguig에 위치한 역사 유적 여행지입니다.",
+        "city": "Taguig",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Camp Crame",
+        "english name": "Camp Crame",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) EDSA에 위치한 역사 유적 여행지입니다.",
+        "city": "EDSA",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Cultural Center of the Philippines",
+        "english name": "Cultural Center of the Philippines",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Pasay에 위치한 역사 유적 여행지입니다.",
+        "city": "Pasay",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Eastwood City",
+        "english name": "Eastwood City",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Quezon에 위치한 역사 유적 여행지입니다.",
+        "city": "Quezon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Entertainment City",
+        "english name": "Entertainment City",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Parañaque에 위치한 역사 유적 여행지입니다.",
+        "city": "Parañaque",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Mactan–Cebu International Airport",
+        "english name": "Mactan–Cebu International Airport",
+        "title": "Cebu의 역사 유적 명소",
+        "description": "Cebu Lapu-Lapu에 위치한 역사 유적 여행지입니다.",
+        "city": "Lapu-Lapu",
+        "province": "Cebu",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Mall of Asia Arena",
+        "english name": "Mall of Asia Arena",
+        "title": "Metro Manila (National Capital Region)의 쇼핑몰 명소",
+        "description": "Metro Manila (National Capital Region) Bay에 위치한 쇼핑몰 여행지입니다.",
+        "city": "Bay",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🛍️",
+        "category": "쇼핑몰"
+    },
+    {
+        "name": "National Library of the Philippines",
+        "english name": "National Library of the Philippines",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Ermita,에 위치한 역사 유적 여행지입니다.",
+        "city": "Ermita,",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Resorts World Manila",
+        "english name": "Resorts World Manila",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Pasay에 위치한 역사 유적 여행지입니다.",
+        "city": "Pasay",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Robinsons Galleria",
+        "english name": "Robinsons Galleria",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Quezon에 위치한 역사 유적 여행지입니다.",
+        "city": "Quezon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Robinsons Place Manila",
+        "english name": "Robinsons Place Manila",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Manila에 위치한 역사 유적 여행지입니다.",
+        "city": "Manila",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "Shangri-la Plaza",
+        "english name": "Shangri-la Plaza",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Mandaluyong에 위치한 역사 유적 여행지입니다.",
+        "city": "Mandaluyong",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "SM City Bacolod",
+        "english name": "SM City Bacolod",
+        "title": "Negros Occidental의 역사 유적 명소",
+        "description": "Negros Occidental Bacolod에 위치한 역사 유적 여행지입니다. 10th largest SM mall by land area and the 3rd in Visayas.",
+        "city": "Bacolod",
+        "province": "Negros Occidental",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "SM City Cebu",
+        "english name": "SM City Cebu",
+        "title": "Cebu의 역사 유적 명소",
+        "description": "Cebu Cebu에 위치한 역사 유적 여행지입니다. 4th largest mall in the Philippines and the 1st SM mall in Visayas.",
+        "city": "Cebu",
+        "province": "Cebu",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "SM City North EDSA",
+        "english name": "SM City North EDSA",
+        "title": "Metro Manila (National Capital Region)의 역사 유적 명소",
+        "description": "Metro Manila (National Capital Region) Quezon에 위치한 역사 유적 여행지입니다.",
+        "city": "Quezon",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "SM Lanang Premier",
+        "english name": "SM Lanang Premier",
+        "title": "Davao del Sur의 역사 유적 명소",
+        "description": "Davao del Sur Davao에 위치한 역사 유적 여행지입니다. Largest mall in Mindanao.",
+        "city": "Davao",
+        "province": "Davao del Sur",
+        "icon": "🏛️",
+        "category": "역사 유적"
+    },
+    {
+        "name": "SM Mall of Asia",
+        "english name": "SM Mall of Asia",
+        "title": "Metro Manila (National Capital Region)의 쇼핑몰 명소",
+        "description": "Metro Manila (National Capital Region) Pasay에 위치한 쇼핑몰 여행지입니다.",
+        "city": "Pasay",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🛍️",
+        "category": "쇼핑몰"
+    },
+    {
+        "name": "SM Megamall",
+        "english name": "SM Megamall",
+        "title": "Metro Manila (National Capital Region)의 쇼핑몰 명소",
+        "description": "Metro Manila (National Capital Region) Mandaluyong에 위치한 쇼핑몰 여행지입니다.",
+        "city": "Mandaluyong",
+        "province": "Metro Manila (National Capital Region)",
+        "icon": "🛍️",
+        "category": "쇼핑몰"
+    },
+    {
+        "name": "Abao 산",
+        "english name": "Mount Abao",
+        "title": "Ifugao의 산/화산 명소",
+        "description": "Ifugao에 위치한 산/화산 여행지입니다. 해발 약 2,662m.",
+        "city": "",
+        "province": "Ifugao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Abunug 산",
+        "english name": "Mount Abunug",
+        "title": "Southern Leyte의 산/화산 명소",
+        "description": "Southern Leyte에 위치한 산/화산 여행지입니다. 해발 약 600m. Inactive volcano",
+        "city": "",
+        "province": "Southern Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Agad-Agad 산",
+        "english name": "Mount Agad-Agad",
+        "title": "Lanao del Norte의 산/화산 명소",
+        "description": "Lanao del Norte Iligan에 위치한 산/화산 여행지입니다. Located in Iligan City",
+        "city": "Iligan",
+        "province": "Lanao del Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Agamomata 산",
+        "english name": "Mount Agamomata",
+        "title": "Apayao의 산/화산 명소",
+        "description": "Apayao에 위치한 산/화산 여행지입니다. 해발 약 1,554m.",
+        "city": "",
+        "province": "Apayao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Aganmala 산",
+        "english name": "Mount Aganmala",
+        "title": "Ilocos Norte의 산/화산 명소",
+        "description": "Ilocos Norte에 위치한 산/화산 여행지입니다. 해발 약 1,786m.",
+        "city": "",
+        "province": "Ilocos Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Agtuuganon 산",
+        "english name": "Mount Agtuuganon",
+        "title": "Davao Oriental의 산/화산 명소",
+        "description": "Davao Oriental에 위치한 산/화산 여행지입니다. 해발 약 1,652m.",
+        "city": "",
+        "province": "Davao Oriental",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Agustin 산",
+        "english name": "Mount Agustin",
+        "title": "Camarines Sur의 산/화산 명소",
+        "description": "Camarines Sur에 위치한 산/화산 여행지입니다. 해발 약 334m.",
+        "city": "",
+        "province": "Camarines Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Aja 산",
+        "english name": "Mount Aja",
+        "title": "Nueva Ecija의 산/화산 명소",
+        "description": "Nueva Ecija에 위치한 산/화산 여행지입니다. 해발 약 463m.",
+        "city": "",
+        "province": "Nueva Ecija",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Akir-akir 화산",
+        "english name": "Akir-akir Volcano",
+        "title": "Maguindanao del Norte의 산/화산 명소",
+        "description": "Maguindanao del Norte에 위치한 산/화산 여행지입니다. 해발 약 526m. Inactive volcano",
+        "city": "",
+        "province": "Maguindanao del Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Al-al 산",
+        "english name": "Mount Al-al",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다. 해발 약 2,663m.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Alchanon 산",
+        "english name": "Mount Alchanon",
+        "title": "Kalinga의 산/화산 명소",
+        "description": "Kalinga에 위치한 산/화산 여행지입니다. 해발 약 2,617m.",
+        "city": "",
+        "province": "Kalinga",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Alto Peak (Mount Aminduen)",
+        "english name": "Alto Peak (Mount Aminduen)",
+        "title": "Leyte의 산/화산 명소",
+        "description": "Leyte에 위치한 산/화산 여행지입니다. 해발 약 1,325m. Highest in Leyte Island .",
+        "city": "",
+        "province": "Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Amanayao 산",
+        "english name": "Mount Amanayao",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Mount",
+        "english name": "Mount",
+        "title": "Mountain Province의 산/화산 명소",
+        "description": "Mountain Province에 위치한 산/화산 여행지입니다. 해발 약 1,714m.",
+        "city": "",
+        "province": "Mountain Province",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Amuyao 산",
+        "english name": "Mount Amuyao",
+        "title": "Mountain Province의 산/화산 명소",
+        "description": "Mountain Province에 위치한 산/화산 여행지입니다. 해발 약 2,701m. Highest point in Mountain Province .",
+        "city": "",
+        "province": "Mountain Province",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Ambalatungan 산",
+        "english name": "Mount Ambalatungan",
+        "title": "Kalinga의 산/화산 명소",
+        "description": "Kalinga에 위치한 산/화산 여행지입니다. 해발 약 2,329m. Inactive volcano. (May refer to Mount Binuluan ) .",
+        "city": "",
+        "province": "Kalinga",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Amicay 산",
+        "english name": "Mount Amicay",
+        "title": "Bohol의 산/화산 명소",
+        "description": "Bohol에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Bohol",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Amorong 산",
+        "english name": "Mount Amorong",
+        "title": "Pangasinan의 산/화산 명소",
+        "description": "Pangasinan에 위치한 산/화산 여행지입니다. 해발 약 376m. Inactive volcano ( lava dome )",
+        "city": "",
+        "province": "Pangasinan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Ampalauag 산",
+        "english name": "Mount Ampalauag",
+        "title": "Ifugao의 산/화산 명소",
+        "description": "Ifugao에 위치한 산/화산 여행지입니다. 해발 약 1,714m.",
+        "city": "",
+        "province": "Ifugao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Ampaoid 산",
+        "english name": "Mount Ampaoid",
+        "title": "Zamboanga del Norte의 산/화산 명소",
+        "description": "Zamboanga del Norte에 위치한 산/화산 여행지입니다. 해발 약 1,066m. Inactive volcano",
+        "city": "",
+        "province": "Zamboanga del Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Ampiro 산",
+        "english name": "Mount Ampiro",
+        "title": "Misamis Occidental의 산/화산 명소",
+        "description": "Misamis Occidental에 위치한 산/화산 여행지입니다. 해발 약 1,532m. Inactive volcano",
+        "city": "",
+        "province": "Misamis Occidental",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Anacuao 산",
+        "english name": "Mount Anacuao",
+        "title": "Aurora의 산/화산 명소",
+        "description": "Aurora에 위치한 산/화산 여행지입니다. 해발 약 1,852m.",
+        "city": "",
+        "province": "Aurora",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Angelo Mountains",
+        "english name": "Angelo Mountains",
+        "title": "Laguna의 산/화산 명소",
+        "description": "Laguna에 위치한 산/화산 여행지입니다. 해발 약 1,316m.",
+        "city": "",
+        "province": "Laguna",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Annaguan 산",
+        "english name": "Mount Annaguan",
+        "title": "Cagayan의 산/화산 명소",
+        "description": "Cagayan Rizal에 위치한 산/화산 여행지입니다. 해발 약 1,400m. Located in Rizal, Cagayan",
+        "city": "Rizal",
+        "province": "Cagayan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Apanderang 산",
+        "english name": "Mount Apanderang",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Aquiting 산",
+        "english name": "Mount Aquiting",
+        "title": "Leyte의 산/화산 명소",
+        "description": "Leyte에 위치한 산/화산 여행지입니다. 해발 약 523m. Inactive volcano",
+        "city": "",
+        "province": "Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Arayat 산",
+        "english name": "Mount Arayat",
+        "title": "Pampanga의 산/화산 명소",
+        "description": "Pampanga에 위치한 산/화산 여행지입니다. 해발 약 1,026m.",
+        "city": "",
+        "province": "Pampanga",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Ascuero 산",
+        "english name": "Mount Ascuero",
+        "title": "Leyte의 산/화산 명소",
+        "description": "Leyte에 위치한 산/화산 여행지입니다. 해발 약 1,266m. Inactive volcano",
+        "city": "",
+        "province": "Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Atimbia (Atimba) 산",
+        "english name": "Mount Atimbia (Atimba)",
+        "title": "Laguna의 산/화산 명소",
+        "description": "Laguna에 위치한 산/화산 여행지입니다. 해발 약 654m. Inactive volcano",
+        "city": "",
+        "province": "Laguna",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Atok 산",
+        "english name": "Mount Atok",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다. 해발 약 1,770m.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Awapanniki 산",
+        "english name": "Mount Awapanniki",
+        "title": "Nueva Vizcaya의 산/화산 명소",
+        "description": "Nueva Vizcaya에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Nueva Vizcaya",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Babuyan Claro 화산 (Mount Pangasun)",
+        "english name": "Babuyan Claro Volcano (Mount Pangasun)",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. Active stratovolcano , last erupted 1917",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Baca 산",
+        "english name": "Mount Baca",
+        "title": "Nueva Ecija의 산/화산 명소",
+        "description": "Nueva Ecija에 위치한 산/화산 여행지입니다. 해발 약 752m.",
+        "city": "",
+        "province": "Nueva Ecija",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bacauan 산",
+        "english name": "Mount Bacauan",
+        "title": "Zamboanga del Sur의 산/화산 명소",
+        "description": "Zamboanga del Sur에 위치한 산/화산 여행지입니다. 해발 약 1,824m. Inactive volcano",
+        "city": "",
+        "province": "Zamboanga del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Baco 산",
+        "english name": "Mount Baco",
+        "title": "Occidental Mindoro의 산/화산 명소",
+        "description": "Occidental Mindoro에 위치한 산/화산 여행지입니다. 해발 약 2,489m.",
+        "city": "",
+        "province": "Occidental Mindoro",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bagacay 산",
+        "english name": "Mount Bagacay",
+        "title": "Camarines Norte의 산/화산 명소",
+        "description": "Camarines Norte에 위치한 산/화산 여행지입니다. 해발 약 775m. Inactive volcano",
+        "city": "",
+        "province": "Camarines Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bagsak 산",
+        "english name": "Mount Bagsak",
+        "title": "Sulu의 산/화산 명소",
+        "description": "Sulu에 위치한 산/화산 여행지입니다. 해발 약 1,142m. Inactive volcano",
+        "city": "",
+        "province": "Sulu",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bahaoan 산",
+        "english name": "Mount Bahaoan",
+        "title": "Agusan del Sur의 산/화산 명소",
+        "description": "Agusan del Sur에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Agusan del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balait 산",
+        "english name": "Mount Balait",
+        "title": "Apayao의 산/화산 명소",
+        "description": "Apayao에 위치한 산/화산 여행지입니다. 해발 약 2,200m. Located near the Apayao - Abra border.",
+        "city": "",
+        "province": "Apayao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balikabok (Mount Balakibok) 산",
+        "english name": "Mount Balikabok (Mount Balakibok)",
+        "title": "Zambales의 산/화산 명소",
+        "description": "Zambales에 위치한 산/화산 여행지입니다. 해발 약 849m. Inactive volcano",
+        "city": "",
+        "province": "Zambales",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balatubat 산",
+        "english name": "Mount Balatubat",
+        "title": "Batanes의 산/화산 명소",
+        "description": "Batanes에 위치한 산/화산 여행지입니다. 해발 약 828m. Inactive volcano",
+        "city": "",
+        "province": "Batanes",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balatukan (Balatucan) 산",
+        "english name": "Mount Balatukan (Balatucan)",
+        "title": "Misamis Oriental의 산/화산 명소",
+        "description": "Misamis Oriental에 위치한 산/화산 여행지입니다. 해발 약 2,450m. Inactive compound volcano",
+        "city": "",
+        "province": "Misamis Oriental",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balik Sampan 산",
+        "english name": "Mount Balik Sampan",
+        "title": "Tawi-Tawi의 산/화산 명소",
+        "description": "Tawi-Tawi에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Tawi-Tawi",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balingkilat (Pointed Peak) 산",
+        "english name": "Mount Balingkilat (Pointed Peak)",
+        "title": "Zambales의 산/화산 명소",
+        "description": "Zambales에 위치한 산/화산 여행지입니다. 해발 약 1,071m.",
+        "city": "",
+        "province": "Zambales",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balintingon 산",
+        "english name": "Mount Balintingon",
+        "title": "Nueva Ecija의 산/화산 명소",
+        "description": "Nueva Ecija에 위치한 산/화산 여행지입니다. 해발 약 838m.",
+        "city": "",
+        "province": "Nueva Ecija",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balo Dome",
+        "english name": "Balo Dome",
+        "title": "South Cotabato의 산/화산 명소",
+        "description": "South Cotabato에 위치한 산/화산 여행지입니다. 해발 약 873m. Inactive volcano",
+        "city": "",
+        "province": "South Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balokon Mountain",
+        "english name": "Balokon Mountain",
+        "title": "Davao의 산/화산 명소",
+        "description": "Davao에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Davao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Baloy (Baloy‑Daku) 산",
+        "english name": "Mount Baloy (Baloy‑Daku)",
+        "title": "Antique의 산/화산 명소",
+        "description": "Antique에 위치한 산/화산 여행지입니다. 해발 약 1,728m.",
+        "city": "",
+        "province": "Antique",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balungao 산",
+        "english name": "Mount Balungao",
+        "title": "Pangasinan의 산/화산 명소",
+        "description": "Pangasinan에 위치한 산/화산 여행지입니다. 해발 약 382m. Inactive volcano",
+        "city": "",
+        "province": "Pangasinan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Balut 화산",
+        "english name": "Balut Volcano",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. Potentially active stratovolcano",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Banahao de Lucban",
+        "english name": "Banahao de Lucban",
+        "title": "Quezon의 산/화산 명소",
+        "description": "Quezon에 위치한 산/화산 여행지입니다. 해발 약 1,875m. Inactive volcano",
+        "city": "",
+        "province": "Quezon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Banahaw (Banahao) 산",
+        "english name": "Mount Banahaw (Banahao)",
+        "title": "1의 산/화산 명소",
+        "description": "1에 위치한 산/화산 여행지입니다. Active complex stratovolcano , last erupted 1843. Located near the Laguna - Quezon border.",
+        "city": "",
+        "province": "1",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Banoy 산",
+        "english name": "Mount Banoy",
+        "title": "Batangas의 산/화산 명소",
+        "description": "Batangas에 위치한 산/화산 여행지입니다. 해발 약 987m.",
+        "city": "",
+        "province": "Batangas",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bangbang 산",
+        "english name": "Mount Bangbang",
+        "title": "Apayao의 산/화산 명소",
+        "description": "Apayao에 위치한 산/화산 여행지입니다. 해발 약 1,533m.",
+        "city": "",
+        "province": "Apayao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "english name": "Mount Balbalasang",
+        "title": "Abra의 산/화산 명소",
+        "description": "Abra에 위치한 산/화산 여행지입니다. 해발 약 2,454m.",
+        "city": "",
+        "province": "Abra",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bangcay 산",
+        "english name": "Mount Bangcay",
+        "title": "Nueva Ecija의 산/화산 명소",
+        "description": "Nueva Ecija에 위치한 산/화산 여행지입니다. 해발 약 406m. Inactive volcano",
+        "city": "",
+        "province": "Nueva Ecija",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Banti 산",
+        "english name": "Mount Banti",
+        "title": "Abra의 산/화산 명소",
+        "description": "Abra에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Abra",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Banton (also known as Mount Amponggo) 산",
+        "english name": "Mount Banton (also known as Mount Amponggo)",
+        "title": "Romblon의 산/화산 명소",
+        "description": "Romblon에 위치한 산/화산 여행지입니다. 해발 약 596m. Inactive volcano",
+        "city": "",
+        "province": "Romblon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Baonao 산",
+        "english name": "Mount Baonao",
+        "title": "Leyte의 산/화산 명소",
+        "description": "Leyte에 위치한 산/화산 여행지입니다. 해발 약 485m. Inactive volcano",
+        "city": "",
+        "province": "Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Base Peak",
+        "english name": "Base Peak",
+        "title": "South Cotabato의 산/화산 명소",
+        "description": "South Cotabato에 위치한 산/화산 여행지입니다. 해발 약 598m. Inactive volcano",
+        "city": "",
+        "province": "South Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Basilan 산",
+        "english name": "Mount Basilan",
+        "title": "Basilan의 산/화산 명소",
+        "description": "Basilan에 위치한 산/화산 여행지입니다. 해발 약 971m. Inactive volcano",
+        "city": "",
+        "province": "Basilan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bataan 산",
+        "english name": "Mount Bataan",
+        "title": "Bataan의 산/화산 명소",
+        "description": "Bataan에 위치한 산/화산 여행지입니다. 해발 약 1,421m. Highest in the province .",
+        "city": "",
+        "province": "Bataan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Batelian 산",
+        "english name": "Mount Batelian",
+        "title": "Zamboanga del Sur의 산/화산 명소",
+        "description": "Zamboanga del Sur에 위치한 산/화산 여행지입니다. 해발 약 620m. Inactive volcano",
+        "city": "",
+        "province": "Zamboanga del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Batorampon Point",
+        "english name": "Batorampon Point",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. 해발 약 1,335m. Highest mountain in Zamboanga City .",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Batulao 산",
+        "english name": "Mount Batulao",
+        "title": "Batangas의 산/화산 명소",
+        "description": "Batangas에 위치한 산/화산 여행지입니다. 해발 약 692m. Inactive volcano",
+        "city": "",
+        "province": "Batangas",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Baya 산",
+        "english name": "Mount Baya",
+        "title": "Lanao del Sur의 산/화산 명소",
+        "description": "Lanao del Sur에 위치한 산/화산 여행지입니다. 해발 약 1,379m. Inactive volcano",
+        "city": "",
+        "province": "Lanao del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bayabas 산",
+        "english name": "Mount Bayabas",
+        "title": "Camarines Norte의 산/화산 명소",
+        "description": "Camarines Norte에 위치한 산/화산 여행지입니다. 해발 약 433m.",
+        "city": "",
+        "province": "Camarines Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bayaguitos 산",
+        "english name": "Mount Bayaguitos",
+        "title": "Laguna의 산/화산 명소",
+        "description": "Laguna에 위치한 산/화산 여행지입니다. 해발 약 316m. Inactive volcano",
+        "city": "",
+        "province": "Laguna",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bee Hive Peak",
+        "english name": "Bee Hive Peak",
+        "title": "South Cotabato의 산/화산 명소",
+        "description": "South Cotabato에 위치한 산/화산 여행지입니다. 해발 약 808m. Inactive volcano",
+        "city": "",
+        "province": "South Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bernacci (Tangcong Vaca) 산",
+        "english name": "Mount Bernacci (Tangcong Vaca)",
+        "title": "Camarines Sur의 산/화산 명소",
+        "description": "Camarines Sur에 위치한 산/화산 여행지입니다. 해발 약 756m.",
+        "city": "",
+        "province": "Camarines Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bigain Hill",
+        "english name": "Bigain Hill",
+        "title": "Batangas의 산/화산 명소",
+        "description": "Batangas에 위치한 산/화산 여행지입니다. 해발 약 464m. Inactive volcano",
+        "city": "",
+        "province": "Batangas",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bigong 산",
+        "english name": "Mount Bigong",
+        "title": "Zamboanga del Sur의 산/화산 명소",
+        "description": "Zamboanga del Sur에 위치한 산/화산 여행지입니다. 해발 약 770m. Inactive volcano",
+        "city": "",
+        "province": "Zamboanga del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Biliran 화산",
+        "english name": "Biliran Volcano",
+        "title": "Biliran의 산/화산 명소",
+        "description": "Biliran에 위치한 산/화산 여행지입니다. 해발 약 1,340m. Volcano island, cone (active; last erupted 1939 Sept. 26)",
+        "city": "",
+        "province": "Biliran",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Binaca 산",
+        "english name": "Mount Binaca",
+        "title": "Cotabato의 산/화산 명소",
+        "description": "Cotabato에 위치한 산/화산 여행지입니다. 해발 약 1,004m. Inactive volcano",
+        "city": "",
+        "province": "Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Binangonan 산",
+        "english name": "Mount Binangonan",
+        "title": "Quezon의 산/화산 명소",
+        "description": "Quezon에 위치한 산/화산 여행지입니다. 해발 약 1,091m.",
+        "city": "",
+        "province": "Quezon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Binhagan 산",
+        "english name": "Mount Binhagan",
+        "title": "Ifugao의 산/화산 명소",
+        "description": "Ifugao에 위치한 산/화산 여행지입니다. 해발 약 1,172m.",
+        "city": "",
+        "province": "Ifugao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Binmaca 산",
+        "english name": "Mount Binmaca",
+        "title": "Ilocos Sur의 산/화산 명소",
+        "description": "Ilocos Sur에 위치한 산/화산 여행지입니다. 해발 약 1,787m. Located near the Ilocos Sur - Benguet border.",
+        "city": "",
+        "province": "Ilocos Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bintuod 산",
+        "english name": "Mount Bintuod",
+        "title": "Nueva Vizcaya의 산/화산 명소",
+        "description": "Nueva Vizcaya에 위치한 산/화산 여행지입니다. 해발 약 1,935m.",
+        "city": "",
+        "province": "Nueva Vizcaya",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Binuluan 산",
+        "english name": "Mount Binuluan",
+        "title": "Kalinga의 산/화산 명소",
+        "description": "Kalinga에 위치한 산/화산 여행지입니다. 해발 약 2,329m. Inactive volcano. (May refer to \"Mount Ambalatungan\") .",
+        "city": "",
+        "province": "Kalinga",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bitanjuan 산",
+        "english name": "Mount Bitanjuan",
+        "title": "Southern Leyte의 산/화산 명소",
+        "description": "Southern Leyte에 위치한 산/화산 여행지입니다. 해발 약 1,183m.",
+        "city": "",
+        "province": "Southern Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bitaogon 산",
+        "english name": "Mount Bitaogon",
+        "title": "Romblon의 산/화산 명소",
+        "description": "Romblon에 위치한 산/화산 여행지입니다. 해발 약 501m.",
+        "city": "",
+        "province": "Romblon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bitinan 산",
+        "english name": "Mount Bitinan",
+        "title": "Sulu의 산/화산 명소",
+        "description": "Sulu에 위치한 산/화산 여행지입니다. 해발 약 215m. Inactive volcano",
+        "city": "",
+        "province": "Sulu",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bito 산",
+        "english name": "Mount Bito",
+        "title": "Cotabato의 산/화산 명소",
+        "description": "Cotabato에 위치한 산/화산 여행지입니다. 해발 약 1,058m. Inactive volcano",
+        "city": "",
+        "province": "Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Blik 산",
+        "english name": "Mount Blik",
+        "title": "Cotabato의 산/화산 명소",
+        "description": "Cotabato에 위치한 산/화산 여행지입니다. 해발 약 1,198m. Inactive volcano",
+        "city": "",
+        "province": "Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Boctong 산",
+        "english name": "Mount Boctong",
+        "title": "Palawan의 산/화산 명소",
+        "description": "Palawan에 위치한 산/화산 여행지입니다. 해발 약 271m. Inactive volcano",
+        "city": "",
+        "province": "Palawan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bolokbok 산",
+        "english name": "Mount Bolokbok",
+        "title": "Nueva Ecija의 산/화산 명소",
+        "description": "Nueva Ecija에 위치한 산/화산 여행지입니다. 해발 약 457m.",
+        "city": "",
+        "province": "Nueva Ecija",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bonbon 산",
+        "english name": "Mount Bonbon",
+        "title": "Palawan의 산/화산 명소",
+        "description": "Palawan에 위치한 산/화산 여행지입니다. 해발 약 247m. Inactive volcano",
+        "city": "",
+        "province": "Palawan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Borogyod 산",
+        "english name": "Mount Borogyod",
+        "title": "Aurora의 산/화산 명소",
+        "description": "Aurora에 위치한 산/화산 여행지입니다. 해발 약 378m.",
+        "city": "",
+        "province": "Aurora",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bosa 산",
+        "english name": "Mount Bosa",
+        "title": "South Cotabato의 산/화산 명소",
+        "description": "South Cotabato에 위치한 산/화산 여행지입니다. 해발 약 2,083m. Inactive volcano",
+        "city": "",
+        "province": "South Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Buagan 산",
+        "english name": "Mount Buagan",
+        "title": "Abra의 산/화산 명소",
+        "description": "Abra에 위치한 산/화산 여행지입니다. 해발 약 1,771m.",
+        "city": "",
+        "province": "Abra",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bubongna Mountain",
+        "english name": "Bubongna Mountain",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Buboy 산",
+        "english name": "Mount Buboy",
+        "title": "Laguna의 산/화산 명소",
+        "description": "Laguna에 위치한 산/화산 여행지입니다. 해발 약 215m. Inactive volcano",
+        "city": "",
+        "province": "Laguna",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bucas 산",
+        "english name": "Mount Bucas",
+        "title": "Lanao del Norte의 산/화산 명소",
+        "description": "Lanao del Norte에 위치한 산/화산 여행지입니다. 해발 약 450m. Inactive volcano",
+        "city": "",
+        "province": "Lanao del Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bud Dajo",
+        "english name": "Bud Dajo",
+        "title": "Sulu의 산/화산 명소",
+        "description": "Sulu에 위치한 산/화산 여행지입니다. 해발 약 620m. Cinder cone volcano (active; last erupted 1897)",
+        "city": "",
+        "province": "Sulu",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Buga 산",
+        "english name": "Mount Buga",
+        "title": "Zamboanga del Sur의 산/화산 명소",
+        "description": "Zamboanga del Sur에 위치한 산/화산 여행지입니다. 해발 약 549m. Inactive volcano",
+        "city": "",
+        "province": "Zamboanga del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bulalo 산",
+        "english name": "Mount Bulalo",
+        "title": "Laguna의 산/화산 명소",
+        "description": "Laguna에 위치한 산/화산 여행지입니다. 해발 약 525m. Inactive volcano",
+        "city": "",
+        "province": "Laguna",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bulan 산",
+        "english name": "Mount Bulan",
+        "title": "Sulu의 산/화산 명소",
+        "description": "Sulu에 위치한 산/화산 여행지입니다. 해발 약 329m. Inactive volcano",
+        "city": "",
+        "province": "Sulu",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bulbul 산",
+        "english name": "Mount Bulbul",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bulibu 산",
+        "english name": "Mount Bulibu",
+        "title": "Zamboanga del Sur의 산/화산 명소",
+        "description": "Zamboanga del Sur에 위치한 산/화산 여행지입니다. 해발 약 565m. Inactive volcano",
+        "city": "",
+        "province": "Zamboanga del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bulusan 화산 (Mount Bulusan)",
+        "english name": "Bulusan Volcano (Mount Bulusan)",
+        "title": "Sorsogon의 산/화산 명소",
+        "description": "Sorsogon에 위치한 산/화산 여행지입니다. 해발 약 1,559m. stratovolcano formed inside a caldera (active; last erupted 2010 Nov.-2011 Feb.) Highest in Sorsogon province.",
+        "city": "",
+        "province": "Sorsogon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Bunsulan Hills",
+        "english name": "Bunsulan Hills",
+        "title": "Laguna의 산/화산 명소",
+        "description": "Laguna에 위치한 산/화산 여행지입니다. 해발 약 360m. Inactive volcano",
+        "city": "",
+        "province": "Laguna",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Burburungan 산",
+        "english name": "Mount Burburungan",
+        "title": "Occidental Mindoro의 산/화산 명소",
+        "description": "Occidental Mindoro에 위치한 산/화산 여행지입니다. 해발 약 963m.",
+        "city": "",
+        "province": "Occidental Mindoro",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Burnay 산",
+        "english name": "Mount Burnay",
+        "title": "Ilocos Norte의 산/화산 명소",
+        "description": "Ilocos Norte에 위치한 산/화산 여행지입니다. 해발 약 2,115m.",
+        "city": "",
+        "province": "Ilocos Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Busa 산",
+        "english name": "Mount Busa",
+        "title": "Sarangani의 산/화산 명소",
+        "description": "Sarangani에 위치한 산/화산 여행지입니다. 해발 약 2,030m.",
+        "city": "",
+        "province": "Sarangani",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Butay 산",
+        "english name": "Mount Butay",
+        "title": "Camiguin의 산/화산 명소",
+        "description": "Camiguin에 위치한 산/화산 여행지입니다. 해발 약 679m. Inactive volcano",
+        "city": "",
+        "province": "Camiguin",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Butung 산",
+        "english name": "Mount Butung",
+        "title": "Bukidnon의 산/화산 명소",
+        "description": "Bukidnon에 위치한 산/화산 여행지입니다. 해발 약 684m. Inactive volcano",
+        "city": "",
+        "province": "Bukidnon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cabalian 화산",
+        "english name": "Cabalian Volcano",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. Potentially active stratovolcano",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cabaluyan 산",
+        "english name": "Mount Cabaluyan",
+        "title": "Pangasinan의 산/화산 명소",
+        "description": "Pangasinan에 위치한 산/화산 여행지입니다. 해발 약 284m. Inactive volcano",
+        "city": "",
+        "province": "Pangasinan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cabugao 산",
+        "english name": "Mount Cabugao",
+        "title": "Cotabato의 산/화산 명소",
+        "description": "Cotabato에 위치한 산/화산 여행지입니다. 해발 약 812m. Inactive volcano",
+        "city": "",
+        "province": "Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Caburauan 산",
+        "english name": "Mount Caburauan",
+        "title": "Albay의 산/화산 명소",
+        "description": "Albay에 위치한 산/화산 여행지입니다. 해발 약 473m.",
+        "city": "",
+        "province": "Albay",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cabuyao (Kabuyao) 산",
+        "english name": "Mount Cabuyao (Kabuyao)",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다. 해발 약 2,000m.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cadig 산",
+        "english name": "Mount Cadig",
+        "title": "Quezon의 산/화산 명소",
+        "description": "Quezon에 위치한 산/화산 여행지입니다. 해발 약 690m. Located near the Quezon - Camarines Norte border.",
+        "city": "",
+        "province": "Quezon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cagua 화산",
+        "english name": "Cagua Volcano",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. stratovolcano (active; last erupted 1907)",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cahelietan 산",
+        "english name": "Mount Cahelietan",
+        "title": "Pangasinan의 산/화산 명소",
+        "description": "Pangasinan에 위치한 산/화산 여행지입니다. 해발 약 280m. Inactive volcano",
+        "city": "",
+        "province": "Pangasinan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Calabugao 산",
+        "english name": "Mount Calabugao",
+        "title": "Bukidnon의 산/화산 명소",
+        "description": "Bukidnon에 위치한 산/화산 여행지입니다. 해발 약 1,864m. Inactive volcano",
+        "city": "",
+        "province": "Bukidnon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Caladang (Calandang) 산",
+        "english name": "Mount Caladang (Calandang)",
+        "title": "Quezon의 산/화산 명소",
+        "description": "Quezon에 위치한 산/화산 여행지입니다. 해발 약 1,465m.",
+        "city": "",
+        "province": "Quezon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Calavite 산",
+        "english name": "Mount Calavite",
+        "title": "Occidental Mindoro의 산/화산 명소",
+        "description": "Occidental Mindoro에 위치한 산/화산 여행지입니다. 해발 약 1,521m. Highest in Occidental Mindoro province.",
+        "city": "",
+        "province": "Occidental Mindoro",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Candalaga 산",
+        "english name": "Mount Candalaga",
+        "title": "Davao de Oro의 산/화산 명소",
+        "description": "Davao de Oro에 위치한 산/화산 여행지입니다. 해발 약 2,268m.",
+        "city": "",
+        "province": "Davao de Oro",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Kalawitan (Cauitan) 산",
+        "english name": "Mount Kalawitan (Cauitan)",
+        "title": "Ifugao의 산/화산 명소",
+        "description": "Ifugao에 위치한 산/화산 여행지입니다. 해발 약 2,713m.",
+        "city": "",
+        "province": "Ifugao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Calayan 산",
+        "english name": "Mount Calayan",
+        "title": "Cagayan의 산/화산 명소",
+        "description": "Cagayan에 위치한 산/화산 여행지입니다. 해발 약 499m. Inactive volcano",
+        "city": "",
+        "province": "Cagayan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Calibugon 산",
+        "english name": "Mount Calibugon",
+        "title": "Palawan의 산/화산 명소",
+        "description": "Palawan에 위치한 산/화산 여행지입니다. 해발 약 1,442m.",
+        "city": "",
+        "province": "Palawan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Calinigan Mountains",
+        "english name": "Calinigan Mountains",
+        "title": "Camarines Sur의 산/화산 명소",
+        "description": "Camarines Sur에 위치한 산/화산 여행지입니다. 해발 약 904m.",
+        "city": "",
+        "province": "Camarines Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Calomutan 산",
+        "english name": "Mount Calomutan",
+        "title": "Sorsogon의 산/화산 명소",
+        "description": "Sorsogon에 위치한 산/화산 여행지입니다. 해발 약 631m.",
+        "city": "",
+        "province": "Sorsogon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Camiguin de Babuyanes",
+        "english name": "Camiguin de Babuyanes",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. stratovolcano (active; last erupted 1857)",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Camingingel 산",
+        "english name": "Mount Camingingel",
+        "title": "Ilocos Sur의 산/화산 명소",
+        "description": "Ilocos Sur에 위치한 산/화산 여행지입니다. 해발 약 2,283m. Located near the Ilocos Sur - Abra - Mountain Province tripoint",
+        "city": "",
+        "province": "Ilocos Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Campana 산",
+        "english name": "Mount Campana",
+        "title": "Camiguin의 산/화산 명소",
+        "description": "Camiguin에 위치한 산/화산 여행지입니다. 해발 약 676m. Inactive volcano",
+        "city": "",
+        "province": "Camiguin",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Canandag 산",
+        "english name": "Mount Canandag",
+        "title": "Leyte의 산/화산 명소",
+        "description": "Leyte에 위치한 산/화산 여행지입니다. 해발 약 432m. Inactive volcano",
+        "city": "",
+        "province": "Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cancanajag 산",
+        "english name": "Mount Cancanajag",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. Potentially active stratovolcano",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Caniapasan 산",
+        "english name": "Mount Caniapasan",
+        "title": "Iloilo의 산/화산 명소",
+        "description": "Iloilo에 위치한 산/화산 여행지입니다. 해발 약 594m.",
+        "city": "",
+        "province": "Iloilo",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cantoloc 산",
+        "english name": "Mount Cantoloc",
+        "title": "Leyte의 산/화산 명소",
+        "description": "Leyte에 위치한 산/화산 여행지입니다. 해발 약 819m. Inactive volcano",
+        "city": "",
+        "province": "Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Capinyayan 산",
+        "english name": "Mount Capinyayan",
+        "title": "Biliran의 산/화산 명소",
+        "description": "Biliran에 위치한 산/화산 여행지입니다. 해발 약 980m. Inactive volcano",
+        "city": "",
+        "province": "Biliran",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Capotoan 산",
+        "english name": "Mount Capotoan",
+        "title": "Samar의 산/화산 명소",
+        "description": "Samar에 위치한 산/화산 여행지입니다. 해발 약 850m. Highest in Samar Island .",
+        "city": "",
+        "province": "Samar",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Capual 산",
+        "english name": "Mount Capual",
+        "title": "Sulu의 산/화산 명소",
+        "description": "Sulu에 위치한 산/화산 여행지입니다. 해발 약 312m. Inactive volcano",
+        "city": "",
+        "province": "Sulu",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Caraycaray 산",
+        "english name": "Mount Caraycaray",
+        "title": "Biliran의 산/화산 명소",
+        "description": "Biliran에 위치한 산/화산 여행지입니다. 해발 약 437m. Inactive volcano",
+        "city": "",
+        "province": "Biliran",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cariliao (Cariliao Volcano) 산",
+        "english name": "Mount Cariliao (Cariliao Volcano)",
+        "title": "Batangas의 산/화산 명소",
+        "description": "Batangas에 위치한 산/화산 여행지입니다. 해발 약 656m. Inactive volcano",
+        "city": "",
+        "province": "Batangas",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Carling 산",
+        "english name": "Mount Carling",
+        "title": "Camiguin의 산/화산 명소",
+        "description": "Camiguin에 위치한 산/화산 여행지입니다. 해발 약 800m. Inactive volcano",
+        "city": "",
+        "province": "Camiguin",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Carranglan 산",
+        "english name": "Mount Carranglan",
+        "title": "Nueva Ecija의 산/화산 명소",
+        "description": "Nueva Ecija에 위치한 산/화산 여행지입니다. 해발 약 633m.",
+        "city": "",
+        "province": "Nueva Ecija",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Casiama 산",
+        "english name": "Mount Casiama",
+        "title": "Ilocos Norte의 산/화산 명소",
+        "description": "Ilocos Norte에 위치한 산/화산 여행지입니다. 해발 약 1,539m.",
+        "city": "",
+        "province": "Ilocos Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Catala 산",
+        "english name": "Mount Catala",
+        "title": "Marinduque의 산/화산 명소",
+        "description": "Marinduque에 위치한 산/화산 여행지입니다. 해발 약 606m.",
+        "city": "",
+        "province": "Marinduque",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cataluan 산",
+        "english name": "Mount Cataluan",
+        "title": "Apayao의 산/화산 명소",
+        "description": "Apayao에 위치한 산/화산 여행지입니다. 해발 약 1,315m.",
+        "city": "",
+        "province": "Apayao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Catmon 산",
+        "english name": "Mount Catmon",
+        "title": "Lanao del Norte의 산/화산 명소",
+        "description": "Lanao del Norte에 위치한 산/화산 여행지입니다. 해발 약 1,624m. Inactive volcano",
+        "city": "",
+        "province": "Lanao del Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Caual 산",
+        "english name": "Mount Caual",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다. 해발 약 2,105m. Located near the Benguet - Nueva Vizcaya border.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cayudungan 산",
+        "english name": "Mount Cayudungan",
+        "title": "Ilocos Norte의 산/화산 명소",
+        "description": "Ilocos Norte에 위치한 산/화산 여행지입니다. 해발 약 1,465m.",
+        "city": "",
+        "province": "Ilocos Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cetaceo 산",
+        "english name": "Mount Cetaceo",
+        "title": "Cagayan의 산/화산 명소",
+        "description": "Cagayan에 위치한 산/화산 여행지입니다. 해발 약 1,833m.",
+        "city": "",
+        "province": "Cagayan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Chumanchil 산",
+        "english name": "Mount Chumanchil",
+        "title": "Kalinga의 산/화산 명소",
+        "description": "Kalinga에 위치한 산/화산 여행지입니다. 해발 약 2,029m.",
+        "city": "",
+        "province": "Kalinga",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cinco Picos",
+        "english name": "Cinco Picos",
+        "title": "Zambales의 산/화산 명소",
+        "description": "Zambales에 위치한 산/화산 여행지입니다. 해발 약 929m.",
+        "city": "",
+        "province": "Zambales",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cleopatra Needle",
+        "english name": "Cleopatra Needle",
+        "title": "Palawan의 산/화산 명소",
+        "description": "Palawan에 위치한 산/화산 여행지입니다. 해발 약 1,608m.",
+        "city": "",
+        "province": "Palawan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Codiapi 산",
+        "english name": "Mount Codiapi",
+        "title": "Quezon의 산/화산 명소",
+        "description": "Quezon에 위치한 산/화산 여행지입니다. 해발 약 413m.",
+        "city": "",
+        "province": "Quezon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Coloumotan 산",
+        "english name": "Mount Coloumotan",
+        "title": "Sorsogon의 산/화산 명소",
+        "description": "Sorsogon에 위치한 산/화산 여행지입니다. 해발 약 602m. Inactive volcano",
+        "city": "",
+        "province": "Sorsogon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cone (Culasi Peak) 산",
+        "english name": "Mount Cone (Culasi Peak)",
+        "title": "Camarines Norte의 산/화산 명소",
+        "description": "Camarines Norte에 위치한 산/화산 여행지입니다. 해발 약 959m. Inactive volcano",
+        "city": "",
+        "province": "Camarines Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Conical Peak",
+        "english name": "Conical Peak",
+        "title": "Cat의 산/화산 명소",
+        "description": "Cat에 위치한 산/화산 여행지입니다. 해발 약 686m.",
+        "city": "",
+        "province": "Cat",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Costa Rica 산",
+        "english name": "Mount Costa Rica",
+        "title": "Leyte의 산/화산 명소",
+        "description": "Leyte에 위치한 산/화산 여행지입니다. 해발 약 394m. Inactive volcano",
+        "city": "",
+        "province": "Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cresta (Crista) 산",
+        "english name": "Mount Cresta (Crista)",
+        "title": "Isabela의 산/화산 명소",
+        "description": "Isabela에 위치한 산/화산 여행지입니다. 해발 약 1,672m.",
+        "city": "",
+        "province": "Isabela",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cuadrado (Quadrado) 산",
+        "english name": "Mount Cuadrado (Quadrado)",
+        "title": "Zambales의 산/화산 명소",
+        "description": "Zambales에 위치한 산/화산 여행지입니다. 해발 약 1,324m.",
+        "city": "",
+        "province": "Zambales",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cudtingan (Cudting) 산",
+        "english name": "Mount Cudtingan (Cudting)",
+        "title": "Siquijor의 산/화산 명소",
+        "description": "Siquijor에 위치한 산/화산 여행지입니다. 해발 약 466m.",
+        "city": "",
+        "province": "Siquijor",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cuernos de Negros (Talinis Peak)",
+        "english name": "Cuernos de Negros (Talinis Peak)",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. Potentially active stratovolcano . Negros Island 's 2nd highest peak.",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dagot 산",
+        "english name": "Mount Dagot",
+        "title": "Abra의 산/화산 명소",
+        "description": "Abra에 위치한 산/화산 여행지입니다. 해발 약 1,311m.",
+        "city": "",
+        "province": "Abra",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Culangalan 산",
+        "english name": "Mount Culangalan",
+        "title": "Sorsogon의 산/화산 명소",
+        "description": "Sorsogon에 위치한 산/화산 여행지입니다. 해발 약 360m. Inactive volcano",
+        "city": "",
+        "province": "Sorsogon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Culasi 산",
+        "english name": "Mount Culasi",
+        "title": "Camarines Norte의 산/화산 명소",
+        "description": "Camarines Norte에 위치한 산/화산 여행지입니다. 해발 약 387m. Inactive volcano",
+        "city": "",
+        "province": "Camarines Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Cuyapo 산",
+        "english name": "Mount Cuyapo",
+        "title": "Nueva Ecija의 산/화산 명소",
+        "description": "Nueva Ecija에 위치한 산/화산 여행지입니다. 해발 약 209m. Inactive volcano",
+        "city": "",
+        "province": "Nueva Ecija",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Daclan 산",
+        "english name": "Mount Daclan",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다. 해발 약 1,500m. Inactive volcano",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dagumbaan 산",
+        "english name": "Mount Dagumbaan",
+        "title": "South Cotabato의 산/화산 명소",
+        "description": "South Cotabato에 위치한 산/화산 여행지입니다. 해발 약 1,127m. Inactive volcano",
+        "city": "",
+        "province": "South Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dakes (Shekes) 산",
+        "english name": "Mount Dakes (Shekes)",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dakiwagan Mountain",
+        "english name": "Dakiwagan Mountain",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dakula 산",
+        "english name": "Mount Dakula",
+        "title": "Sulu의 산/화산 명소",
+        "description": "Sulu에 위치한 산/화산 여행지입니다. 해발 약 399m. Inactive volcano",
+        "city": "",
+        "province": "Sulu",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dakut 산",
+        "english name": "Mount Dakut",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. Potentially active volcano",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dalimonoc 산",
+        "english name": "Mount Dalimonoc",
+        "title": "Nueva Vizcaya의 산/화산 명소",
+        "description": "Nueva Vizcaya에 위치한 산/화산 여행지입니다. 해발 약 1,686m.",
+        "city": "",
+        "province": "Nueva Vizcaya",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dalupiri 산",
+        "english name": "Mount Dalupiri",
+        "title": "Cagayan의 산/화산 명소",
+        "description": "Cagayan Dalupiri에 위치한 산/화산 여행지입니다. 해발 약 275m. Inactive volcano. Located in Dalupiri Island .",
+        "city": "Dalupiri",
+        "province": "Cagayan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Danao (Danao Peak) 산",
+        "english name": "Mount Danao (Danao Peak)",
+        "title": "Cebu의 산/화산 명소",
+        "description": "Cebu에 위치한 산/화산 여행지입니다. 해발 약 683m.",
+        "city": "",
+        "province": "Cebu",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Danao 산",
+        "english name": "Mount Danao",
+        "title": "Leyte의 산/화산 명소",
+        "description": "Leyte에 위치한 산/화산 여행지입니다. 해발 약 699m. Inactive volcano",
+        "city": "",
+        "province": "Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dapiak 산",
+        "english name": "Mount Dapiak",
+        "title": "Zamboanga del Sur의 산/화산 명소",
+        "description": "Zamboanga del Sur에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Zamboanga del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Data 산",
+        "english name": "Mount Data",
+        "title": "Mountain Province의 산/화산 명소",
+        "description": "Mountain Province에 위치한 산/화산 여행지입니다. 해발 약 2,310m. Located near the Mountain Province - Benguet border.",
+        "city": "",
+        "province": "Mountain Province",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Deugurug 산",
+        "english name": "Mount Deugurug",
+        "title": "Nueva Ecija의 산/화산 명소",
+        "description": "Nueva Ecija에 위치한 산/화산 여행지입니다. 해발 약 1,010m.",
+        "city": "",
+        "province": "Nueva Ecija",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Didicas 화산",
+        "english name": "Didicas Volcano",
+        "title": "Cagayan의 산/화산 명소",
+        "description": "Cagayan에 위치한 산/화산 여행지입니다. 해발 약 228m.",
+        "city": "",
+        "province": "Cagayan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Diffun 산",
+        "english name": "Mount Diffun",
+        "title": "Quirino의 산/화산 명소",
+        "description": "Quirino에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Quirino",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Diogo 산",
+        "english name": "Mount Diogo",
+        "title": "Batanes의 산/화산 명소",
+        "description": "Batanes에 위치한 산/화산 여행지입니다. 해발 약 547m. Inactive volcano",
+        "city": "",
+        "province": "Batanes",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dit 산",
+        "english name": "Mount Dit",
+        "title": "Palawan의 산/화산 명소",
+        "description": "Palawan에 위치한 산/화산 여행지입니다. 해발 약 231m. Inactive volcano",
+        "city": "",
+        "province": "Palawan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dome Peak (Mount Dome)",
+        "english name": "Dome Peak (Mount Dome)",
+        "title": "Zambales의 산/화산 명소",
+        "description": "Zambales에 위치한 산/화산 여행지입니다. 해발 약 1,670m.",
+        "city": "",
+        "province": "Zambales",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dome Peak",
+        "english name": "Dome Peak",
+        "title": "Negros Oriental의 산/화산 명소",
+        "description": "Negros Oriental에 위치한 산/화산 여행지입니다. 해발 약 858m.",
+        "city": "",
+        "province": "Negros Oriental",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dome 산",
+        "english name": "Mount Dome",
+        "title": "Ifugao의 산/화산 명소",
+        "description": "Ifugao에 위치한 산/화산 여행지입니다. 해발 약 1,063m.",
+        "city": "",
+        "province": "Ifugao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dorst 산",
+        "english name": "Mount Dorst",
+        "title": "Pampanga의 산/화산 명소",
+        "description": "Pampanga에 위치한 산/화산 여행지입니다. 해발 약 866m.",
+        "city": "",
+        "province": "Pampanga",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dos Hermanas 산",
+        "english name": "Mount Dos Hermanas",
+        "title": "South Cotabato의 산/화산 명소",
+        "description": "South Cotabato에 위치한 산/화산 여행지입니다. 해발 약 813m. Inactive volcano",
+        "city": "",
+        "province": "South Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dos Hermanos 산",
+        "english name": "Mount Dos Hermanos",
+        "title": "Isabela의 산/화산 명소",
+        "description": "Isabela에 위치한 산/화산 여행지입니다. 해발 약 1,614m.",
+        "city": "",
+        "province": "Isabela",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dos Picos Mountain",
+        "english name": "Dos Picos Mountain",
+        "title": "Cavite의 산/화산 명소",
+        "description": "Cavite에 위치한 산/화산 여행지입니다. 해발 약 595m.",
+        "city": "",
+        "province": "Cavite",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dulang‑dulang 산",
+        "english name": "Mount Dulang‑dulang",
+        "title": "Bukidnon의 산/화산 명소",
+        "description": "Bukidnon에 위치한 산/화산 여행지입니다. 해발 약 2,938m. Highest point in Bukidnon and Northern Mindanao .",
+        "city": "",
+        "province": "Bukidnon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dumali 산",
+        "english name": "Mount Dumali",
+        "title": "Mindoro Oriental의 산/화산 명소",
+        "description": "Mindoro Oriental에 위치한 산/화산 여행지입니다. 해발 약 756m. Inactive volcano",
+        "city": "",
+        "province": "Mindoro Oriental",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dumapata 산",
+        "english name": "Mount Dumapata",
+        "title": "Quirino의 산/화산 명소",
+        "description": "Quirino에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Quirino",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Dupungan 산",
+        "english name": "Mount Dupungan",
+        "title": "Zamboanga del Sur의 산/화산 명소",
+        "description": "Zamboanga del Sur에 위치한 산/화산 여행지입니다. 해발 약 396m. Inactive volcano",
+        "city": "",
+        "province": "Zamboanga del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Elizario 산",
+        "english name": "Mount Elizario",
+        "title": "Camarines Sur의 산/화산 명소",
+        "description": "Camarines Sur에 위치한 산/화산 여행지입니다. 해발 약 508m.",
+        "city": "",
+        "province": "Camarines Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Engañaso (Enganosa) 산",
+        "english name": "Mount Engañaso (Enganosa)",
+        "title": "Masbate의 산/화산 명소",
+        "description": "Masbate에 위치한 산/화산 여행지입니다. 해발 약 428m.",
+        "city": "",
+        "province": "Masbate",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Esbo 산",
+        "english name": "Mount Esbo",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Flat Peak",
+        "english name": "Flat Peak",
+        "title": "Cagayan의 산/화산 명소",
+        "description": "Cagayan에 위치한 산/화산 여행지입니다. 해발 약 1,452m.",
+        "city": "",
+        "province": "Cagayan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Gadungan 산",
+        "english name": "Mount Gadungan",
+        "title": "Lanao의 산/화산 명소",
+        "description": "Lanao에 위치한 산/화산 여행지입니다. 해발 약 1,342m. Inactive volcano",
+        "city": "",
+        "province": "Lanao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Galantay 산",
+        "english name": "Mount Galantay",
+        "title": "Lanao의 산/화산 명소",
+        "description": "Lanao에 위치한 산/화산 여행지입니다. 해발 약 1,274m. Inactive volcano",
+        "city": "",
+        "province": "Lanao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Gantung 산",
+        "english name": "Mount Gantung",
+        "title": "Palawan의 산/화산 명소",
+        "description": "Palawan에 위치한 산/화산 여행지입니다. 해발 약 1,784m.",
+        "city": "",
+        "province": "Palawan",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Gap 산",
+        "english name": "Mount Gap",
+        "title": "Cotabato의 산/화산 명소",
+        "description": "Cotabato에 위치한 산/화산 여행지입니다. 해발 약 1,038m. Inactive volcano",
+        "city": "",
+        "province": "Cotabato",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Gatas (Gata) 산",
+        "english name": "Mount Gatas (Gata)",
+        "title": "Zambales의 산/화산 명소",
+        "description": "Zambales에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Zambales",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Gate Mountains",
+        "english name": "Gate Mountains",
+        "title": "Sorsogon의 산/화산 명소",
+        "description": "Sorsogon에 위치한 산/화산 여행지입니다. 해발 약 559m. Inactive volcano",
+        "city": "",
+        "province": "Sorsogon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Gayad 산",
+        "english name": "Mount Gayad",
+        "title": "Leyte의 산/화산 명소",
+        "description": "Leyte에 위치한 산/화산 여행지입니다. 해발 약 618m. Inactive volcano",
+        "city": "",
+        "province": "Leyte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Gedgedayan 산",
+        "english name": "Mount Gedgedayan",
+        "title": "Benguet의 산/화산 명소",
+        "description": "Benguet에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Benguet",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Giligaon 산",
+        "english name": "Mount Giligaon",
+        "title": "Negros Oriental의 산/화산 명소",
+        "description": "Negros Oriental에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Negros Oriental",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Ginsiliban 산",
+        "english name": "Mount Ginsiliban",
+        "title": "Camiguin의 산/화산 명소",
+        "description": "Camiguin에 위치한 산/화산 여행지입니다. 해발 약 581m. Inactive volcano",
+        "city": "",
+        "province": "Camiguin",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Guiauasan 산",
+        "english name": "Mount Guiauasan",
+        "title": "Biliran의 산/화산 명소",
+        "description": "Biliran에 위치한 산/화산 여행지입니다. 해발 약 1,600m. Inactive volcano",
+        "city": "",
+        "province": "Biliran",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Guinsayawan (Tipasi, Tepasi) 산",
+        "english name": "Mount Guinsayawan (Tipasi, Tepasi)",
+        "title": "Negros Oriental의 산/화산 명소",
+        "description": "Negros Oriental에 위치한 산/화산 여행지입니다. 해발 약 1,821m.",
+        "city": "",
+        "province": "Negros Oriental",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Guimba 산",
+        "english name": "Mount Guimba",
+        "title": "Sulu의 산/화산 명소",
+        "description": "Sulu에 위치한 산/화산 여행지입니다. 해발 약 482m. Inactive volcano",
+        "city": "",
+        "province": "Sulu",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Guiting-Guiting (Guitinguitin) 산",
+        "english name": "Mount Guiting-Guiting (Guitinguitin)",
+        "title": "Romblon의 산/화산 명소",
+        "description": "Romblon에 위치한 산/화산 여행지입니다. 해발 약 2,051m.",
+        "city": "",
+        "province": "Romblon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Gunansan 산",
+        "english name": "Mount Gunansan",
+        "title": "Biliran의 산/화산 명소",
+        "description": "Biliran에 위치한 산/화산 여행지입니다. 해발 약 1,045m. Inactive volcano",
+        "city": "",
+        "province": "Biliran",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Gurain 산",
+        "english name": "Mount Gurain",
+        "title": "Lanao의 산/화산 명소",
+        "description": "Lanao에 위치한 산/화산 여행지입니다. 해발 약 1,825m. Inactive volcano",
+        "city": "",
+        "province": "Lanao",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Hagdanan Peak",
+        "english name": "Hagdanan Peak",
+        "title": "Occidental Mindoro의 산/화산 명소",
+        "description": "Occidental Mindoro에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Occidental Mindoro",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Halcon 산",
+        "english name": "Mount Halcon",
+        "title": "Oriental Mindoro의 산/화산 명소",
+        "description": "Oriental Mindoro에 위치한 산/화산 여행지입니다. 해발 약 2,582m. Highest mountain in Mindoro Island and MIMAROPA .",
+        "city": "",
+        "province": "Oriental Mindoro",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Hamiguitan (Hamiquitan) 산",
+        "english name": "Mount Hamiguitan (Hamiquitan)",
+        "title": "Davao Oriental의 산/화산 명소",
+        "description": "Davao Oriental에 위치한 산/화산 여행지입니다. 해발 약 1,633m.",
+        "city": "",
+        "province": "Davao Oriental",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Hibok‑Hibok (Hibok‑Hibok Volcano) 산",
+        "english name": "Mount Hibok‑Hibok (Hibok‑Hibok Volcano)",
+        "title": "1의 산/화산 명소",
+        "description": "1에 위치한 산/화산 여행지입니다. stratovolcano and dome complex (active; last erupted 1948 Sept. 31 – 1953 July). Highest in the island .",
+        "city": "",
+        "province": "1",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Hilonghilong 산",
+        "english name": "Mount Hilonghilong",
+        "title": "Agusan del Norte의 산/화산 명소",
+        "description": "Agusan del Norte에 위치한 산/화산 여행지입니다. 해발 약 1,838m.",
+        "city": "",
+        "province": "Agusan del Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Homahan 산",
+        "english name": "Mount Homahan",
+        "title": "Sorsogon의 산/화산 명소",
+        "description": "Sorsogon에 위치한 산/화산 여행지입니다. 해발 약 464m. Inactive volcano",
+        "city": "",
+        "province": "Sorsogon",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Iba 산",
+        "english name": "Mount Iba",
+        "title": "Zambales의 산/화산 명소",
+        "description": "Zambales에 위치한 산/화산 여행지입니다. 해발 약 1,670m. Located near the Zambales - Tarlac border.",
+        "city": "",
+        "province": "Zambales",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Iglit 산",
+        "english name": "Mount Iglit",
+        "title": "Occidental Mindoro의 산/화산 명소",
+        "description": "Occidental Mindoro에 위치한 산/화산 여행지입니다.",
+        "city": "",
+        "province": "Occidental Mindoro",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Imbing 산",
+        "english name": "Mount Imbing",
+        "title": "Zamboanga del Sur의 산/화산 명소",
+        "description": "Zamboanga del Sur에 위치한 산/화산 여행지입니다. 해발 약 699m. Inactive volcano",
+        "city": "",
+        "province": "Zamboanga del Sur",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Imoc Hill",
+        "english name": "Imoc Hill",
+        "title": "Laguna의 산/화산 명소",
+        "description": "Laguna에 위치한 산/화산 여행지입니다. 해발 약 400m. Inactive volcano",
+        "city": "",
+        "province": "Laguna",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Inayawan 산",
+        "english name": "Mount Inayawan",
+        "title": "Lanao del Norte의 산/화산 명소",
+        "description": "Lanao del Norte에 위치한 산/화산 여행지입니다. 해발 약 1,174m. Inactive volcano",
+        "city": "",
+        "province": "Lanao del Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Iniaoan 산",
+        "english name": "Mount Iniaoan",
+        "title": "Lanao del Norte의 산/화산 명소",
+        "description": "Lanao del Norte에 위치한 산/화산 여행지입니다. 해발 약 1,535m. Inactive volcano",
+        "city": "",
+        "province": "Lanao del Norte",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Irada (Iraya) 산",
+        "english name": "Mount Irada (Iraya)",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. stratovolcano (active; last erupted 1454) Highest in Batan Island .",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Irid 산",
+        "english name": "Mount Irid",
+        "title": "Rizal의 산/화산 명소",
+        "description": "Rizal에 위치한 산/화산 여행지입니다. 해발 약 1,448m.",
+        "city": "",
+        "province": "Rizal",
+        "icon": "⛰️",
+        "category": "산/화산"
+    },
+    {
+        "name": "Iriga 산",
+        "english name": "Mount Iriga",
+        "title": "의 산/화산 명소",
+        "description": "산/화산 여행지입니다. stratovolcano (active; last erupted 1642 Jan. 4)",
+        "city": "",
+        "province": "",
+        "icon": "⛰️",
+        "category": "산/화산"
+    }
+]

@@ -15,7 +15,7 @@ travel:
     path: travel/big-lagoon-in-el-nido.jpg
     url: https://file.philgo.com/philgo_files/travel/big-lagoon-in-el-nido.jpg
     description: >
-      엘니도(El Nido): 라군 전체가 사진에 들어 오는 장면.
+      엘니도(El Nido): 라군 전체가 사진에 들어 오는 Aerial View (조감도).
       바쿠이트 군도 석회암 절벽과 에메랄드 라군(카약/호핑투어)로 가장 유명합니다.
 
   small-lagoon-in-el-nido.jpg:
@@ -31,3 +31,13 @@ travel:
     description: >
       Small Lagoon (스몰 라군): 작은 보트가 바위 틈을 지나는 장면.
       바위 틈을 지나 안쪽으로 들어가면 고요한 물과 아름다운 자연 경관이 펼쳐집니다.
+
+# 여행 데이터 (JSON)
+# 필리핀 여행 명소 정보를 JSON 형태로 저장한 데이터 파일입니다.
+data:
+  travel_spots.json:
+    path: travel/travel_spots.json
+    description: >
+      필리핀 여행 명소 데이터 (JSON 형식).
+      각 명소의 한글명, 영문명, 제목, 설명, 도시, 지역(province) 정보를 포함합니다.
+      총 100개 이상의 필리핀 주요 관광지 정보가 담겨 있습니다.
