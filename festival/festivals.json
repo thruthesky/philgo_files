@@ -1,0 +1,2702 @@
+[
+  {
+    "region": "기타 지역",
+    "location": "Bauang, La Union",
+    "name": "Baggak Festival",
+    "englishName": "Baggak Festival",
+    "month": 1,
+    "note": "1월 무렵 Bauang, La Union에서 열리는 Baggak Festival는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Guiguinto, Bulacan",
+    "name": "Halamanan Festival",
+    "englishName": "Halamanan Festival",
+    "month": 1,
+    "note": "1월 무렵 Guiguinto, Bulacan에서 열리는 Halamanan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Iloilo City",
+    "name": "Dinagyang Festival",
+    "englishName": "Dinagyang Festival",
+    "month": 1,
+    "note": "1월 무렵 Iloilo City에서 열리는 Dinagyang Festival는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Iloilo City Proper",
+    "name": "Kasadyahan Festival",
+    "englishName": "Kasadyahan Festival",
+    "month": 1,
+    "note": "1월 무렵 Iloilo City Proper에서 열리는 Kasadyahan Festival는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Malolos City",
+    "name": "Santo Niño de Malolos Festival",
+    "englishName": "Santo Niño de Malolos Festival",
+    "month": 1,
+    "note": "1월 무렵 Malolos City에서 열리는 Santo Niño de Malolos Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "기타 지역",
+    "location": "San Ildefonso, Bulacan",
+    "name": "Bulak Festival",
+    "englishName": "Bulak Festival",
+    "month": 1,
+    "note": "1월 무렵 San Ildefonso, Bulacan에서 열리는 Bulak Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tudela",
+    "name": "Binalbal Festival",
+    "englishName": "Binalbal Festival",
+    "month": 1,
+    "note": "1월 무렵 Tudela에서 열리는 Binalbal Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "아클란(칼리보)",
+    "name": "Ati-Atihan",
+    "englishName": "Ati-Atihan Festival",
+    "month": 1,
+    "note": "산토니뇨·퍼레이드 1월 무렵 아클란(칼리보)에서 열리는 Ati-Atihan Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "기타 지역",
+    "location": "일로일로",
+    "name": "Dinagyang",
+    "englishName": "Dinagyang Festival",
+    "month": 1,
+    "note": "산토니뇨·공연 1월 무렵 일로일로에서 열리는 Dinagyang Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라 근교",
+    "location": "사스무안(팜팡가)",
+    "name": "Kuraldal Festival",
+    "englishName": "Kuraldal Festival",
+    "month": 1,
+    "note": "성 루시아 기념 1월 무렵 사스무안(팜팡가)에서 열리는 Kuraldal Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Quiapo, Manila",
+    "name": "Feast of the Black Nazarene",
+    "englishName": "Feast of the Black Nazarene",
+    "month": 1,
+    "note": "1월 무렵 Quiapo, Manila에서 열리는 Feast of the Black Nazarene는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "나보타스",
+    "name": "Pangisdaan Festival",
+    "englishName": "Pangisdaan Festival",
+    "month": 1,
+    "note": "어업 테마 행사 1월 무렵 나보타스에서 열리는 Pangisdaan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라(키아포)",
+    "name": "Black Nazarene(검은 나사렛)",
+    "englishName": "Black Nazarene",
+    "month": 1,
+    "note": "대규모 행렬 중심 1월 무렵 마닐라(키아포)에서 열리는 Black Nazarene는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라(톤도/판다칸)",
+    "name": "Feast of Santo Niño(산토니뇨)",
+    "englishName": "Feast of Santo Niño",
+    "month": 1,
+    "note": "아기예수 상 행렬 1월 무렵 마닐라(톤도/판다칸)에서 열리는 Feast of Santo Niño는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마카티",
+    "name": "Caracol Festival",
+    "englishName": "Caracol Festival",
+    "month": 1,
+    "note": "환경 테마 거리행사 1월 무렵 마카티에서 열리는 Caracol Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파시그",
+    "name": "Feast of Saint Sebastian(핀아부하탄)",
+    "englishName": "Feast of Saint Sebastian",
+    "month": 1,
+    "note": "지역 피에스타 1월 무렵 파시그에서 열리는 Feast of Saint Sebastian는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "세부",
+    "location": "보르본",
+    "name": "Tuba Festival",
+    "englishName": "Tuba Festival",
+    "month": 1,
+    "note": "지역 특산 1월 무렵 보르본에서 열리는 Tuba Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "세부",
+    "location": "세부시티",
+    "name": "Sinulog Festival",
+    "englishName": "Sinulog Festival",
+    "month": 1,
+    "note": "1월 3번째 일요일 중심 1월 무렵 세부시티에서 열리는 Sinulog Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "팜팡가",
+    "location": "Sasmuan, Pampanga",
+    "name": "Kuraldal Festival",
+    "englishName": "Kuraldal Festival",
+    "month": 1,
+    "note": "1월 무렵 Sasmuan, Pampanga에서 열리는 Kuraldal Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Arevalo, Iloilo City",
+    "name": "Paraw Regatta Festival",
+    "englishName": "Paraw Regatta Festival",
+    "month": 2,
+    "note": "2월 무렵 Arevalo, Iloilo City에서 열리는 Paraw Regatta Festival는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bago",
+    "name": "Babaylan Festival (Babaylanes)",
+    "englishName": "Babaylan Festival (Babaylanes)",
+    "month": 2,
+    "note": "2월 무렵 Bago에서 열리는 Babaylan Festival (Babaylanes)는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Baguio",
+    "name": "Panagbenga Festival (Baguio Flower Festival)",
+    "englishName": "Panagbenga Festival (Baguio Flower Festival)",
+    "month": 2,
+    "note": "2월 무렵 Baguio에서 열리는 Panagbenga Festival (Baguio Flower Festival)는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Baler, Aurora",
+    "name": "Suman Festival (Aurora Foundation Day)",
+    "englishName": "Suman Festival (Aurora Foundation Day)",
+    "month": 2,
+    "note": "2월 무렵 Baler, Aurora에서 열리는 Suman Festival (Aurora Foundation Day)는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bangued, Abra",
+    "name": "Dapil Festival",
+    "englishName": "Dapil Festival",
+    "month": 2,
+    "note": "2월 무렵 Bangued, Abra에서 열리는 Dapil Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bayawan",
+    "name": "Tawo–Tawo Festival",
+    "englishName": "Tawo–Tawo Festival",
+    "month": 2,
+    "note": "2월 무렵 Bayawan에서 열리는 Tawo–Tawo Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Caraga",
+    "name": "Wow Araw ng Caraga",
+    "englishName": "Wow Araw ng Caraga",
+    "month": 2,
+    "note": "2월 무렵 Caraga에서 열리는 Wow Araw ng Caraga는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Carmona, Cavite",
+    "name": "Sorteo Grand Festival",
+    "englishName": "Sorteo Grand Festival",
+    "month": 2,
+    "note": "2월 무렵 Carmona, Cavite에서 열리는 Sorteo Grand Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "General Santos",
+    "name": "Kalilangan Festival",
+    "englishName": "Kalilangan Festival",
+    "month": 2,
+    "note": "2월 무렵 General Santos에서 열리는 Kalilangan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Ipil, Zamboanga Sibugay",
+    "name": "Sibug-Sibug Festival",
+    "englishName": "Sibug-Sibug Festival",
+    "month": 2,
+    "note": "2월 무렵 Ipil, Zamboanga Sibugay에서 열리는 Sibug-Sibug Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Iriga City",
+    "name": "Tinagba Festival",
+    "englishName": "Tinagba Festival",
+    "month": 2,
+    "note": "2월 무렵 Iriga City에서 열리는 Tinagba Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Laoag City",
+    "name": "Pamulinawen Festival",
+    "englishName": "Pamulinawen Festival",
+    "month": 2,
+    "note": "2월 무렵 Laoag City에서 열리는 Pamulinawen Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Legazpi City",
+    "name": "Bicol Arts Festival",
+    "englishName": "Bicol Arts Festival",
+    "month": 2,
+    "note": "2월 무렵 Legazpi City에서 열리는 Bicol Arts Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Miag-ao, Iloilo",
+    "name": "Salakayan Festival",
+    "englishName": "Salakayan Festival",
+    "month": 2,
+    "note": "2월 무렵 Miag-ao, Iloilo에서 열리는 Salakayan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Padre Burgos",
+    "name": "Laguimanok Festival",
+    "englishName": "Laguimanok Festival",
+    "month": 2,
+    "note": "2월 무렵 Padre Burgos에서 열리는 Laguimanok Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Padre Burgos, Quezon",
+    "name": "Pasayaw Festival",
+    "englishName": "Pasayaw Festival",
+    "month": 2,
+    "note": "2월 무렵 Padre Burgos, Quezon에서 열리는 Pasayaw Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Puerto Galera, Oriental Mindoro",
+    "name": "Malasimbo Music and Arts Festival",
+    "englishName": "Malasimbo Music and Arts Festival",
+    "month": 2,
+    "note": "2월 무렵 Puerto Galera, Oriental Mindoro에서 열리는 Malasimbo Music and Arts Festival는 라이브 공연과 워크숍/경연이 함께 열리며 야외·실내 무대가 혼합됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음악"
+  },
+  {
+    "region": "기타 지역",
+    "location": "San Pedro City, Laguna",
+    "name": "Sampaguita Festival",
+    "englishName": "Sampaguita Festival",
+    "month": 2,
+    "note": "2월 무렵 San Pedro City, Laguna에서 열리는 Sampaguita Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Santo Tomas, Batangas",
+    "name": "Mahaguyog Festival",
+    "englishName": "Mahaguyog Festival",
+    "month": 2,
+    "note": "2월 무렵 Santo Tomas, Batangas에서 열리는 Mahaguyog Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Silang, Cavite",
+    "name": "Sumilang Festival",
+    "englishName": "Sumilang Festival",
+    "month": 2,
+    "note": "2월 무렵 Silang, Cavite에서 열리는 Sumilang Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Sinacaban, Misamis Occidental",
+    "name": "Sinacbang Festival",
+    "englishName": "Sinacbang Festival",
+    "month": 2,
+    "note": "2월 무렵 Sinacaban, Misamis Occidental에서 열리는 Sinacbang Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Surigao City",
+    "name": "Suroy sa Surigao",
+    "englishName": "Suroy sa Surigao",
+    "month": 2,
+    "note": "2월 무렵 Surigao City에서 열리는 Suroy sa Surigao는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tabuk City",
+    "name": "Ollalion (Ullalim) Festival",
+    "englishName": "Ollalion (Ullalim) Festival",
+    "month": 2,
+    "note": "2월 무렵 Tabuk City에서 열리는 Ollalion (Ullalim) Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tanjay City",
+    "name": "Festival of Hearts",
+    "englishName": "Festival of Hearts",
+    "month": 2,
+    "note": "2월 무렵 Tanjay City에서 열리는 Festival of Hearts는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "바기오",
+    "name": "Panagbenga",
+    "englishName": "Panagbenga Flower Festival",
+    "month": 2,
+    "note": "꽃 축제 2월 무렵 바기오에서 열리는 Panagbenga Flower Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Caloocan",
+    "name": "Pamaypay ng Caloocan Festival",
+    "englishName": "Pamaypay ng Caloocan Festival",
+    "month": 2,
+    "note": "2월 무렵 Caloocan에서 열리는 Pamaypay ng Caloocan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Mandaluyong",
+    "name": "Lavandero Festival",
+    "englishName": "Lavandero Festival",
+    "month": 2,
+    "note": "2월 무렵 Mandaluyong에서 열리는 Lavandero Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Parañaque",
+    "name": "Palanyag Festival",
+    "englishName": "Palanyag Festival",
+    "month": 2,
+    "note": "2월 무렵 Parañaque에서 열리는 Palanyag Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Parañaque",
+    "name": "Sambalilo Hat Festival",
+    "englishName": "Sambalilo Hat Festival",
+    "month": 2,
+    "note": "2월 무렵 Parañaque에서 열리는 Sambalilo Hat Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Pasay",
+    "name": "Feast Day of Santa Clara",
+    "englishName": "Feast Day of Santa Clara",
+    "month": 2,
+    "note": "2월 무렵 Pasay에서 열리는 Feast Day of Santa Clara는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Pasay",
+    "name": "Tiburin Horse Race",
+    "englishName": "Tiburin Horse Race",
+    "month": 2,
+    "note": "2월 무렵 Pasay에서 열리는 Tiburin Horse Race는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Pasig",
+    "name": "Itik-Itik Festival",
+    "englishName": "Itik-Itik Festival",
+    "month": 2,
+    "note": "2월 무렵 Pasig에서 열리는 Itik-Itik Festival는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "라스피냐스",
+    "name": "International Bamboo Organ Festival",
+    "englishName": "International Bamboo Organ Festival",
+    "month": 2,
+    "note": "음악·공연 중심 2월 무렵 라스피냐스에서 열리는 International Bamboo Organ Festival는 라이브 공연과 워크숍/경연이 함께 열리며 야외·실내 무대가 혼합됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음악"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라(비논도)",
+    "name": "Chinese New Year(차이나타운 중심)",
+    "englishName": "Chinese New Year",
+    "month": 2,
+    "note": "퍼레이드·행사 2월 무렵 마닐라(비논도)에서 열리는 Chinese New Year는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "만달루용",
+    "name": "Lavandero Festival",
+    "englishName": "Lavandero Festival",
+    "month": 2,
+    "note": "'빨래' 전통 2월 무렵 만달루용에서 열리는 Lavandero Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "만달루용(SM Megamall)",
+    "name": "Travel Tour Expo",
+    "englishName": "Travel Tour Expo",
+    "month": 2,
+    "note": "관광 박람회 2월 무렵 만달루용(SM Megamall)에서 열리는 Travel Tour Expo는 전시·부스·세미나 중심으로 업계 네트워킹과 체험 프로그램이 있습니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "박람회"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "칼루오칸",
+    "name": "Pamaypay Festival",
+    "englishName": "Pamaypay Festival",
+    "month": 2,
+    "note": "부채 테마 2월 무렵 칼루오칸에서 열리는 Pamaypay Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파라냐케",
+    "name": "Sambalilo Festival",
+    "englishName": "Sambalilo Festival",
+    "month": 2,
+    "note": "모자 테마 2월 무렵 파라냐케에서 열리는 Sambalilo Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파사이",
+    "name": "Feast of Santa Clara",
+    "englishName": "Feast of Santa Clara",
+    "month": 2,
+    "note": "지역 전통 행사 2월 무렵 파사이에서 열리는 Feast of Santa Clara는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파사이(MOA)",
+    "name": "International Pyromusical Competition",
+    "englishName": "International Pyromusical Competition",
+    "month": 2,
+    "note": "불꽃 경쟁 2월 무렵 파사이(MOA)에서 열리는 International Pyromusical Competition는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파시그(칼라와안)",
+    "name": "Itik-Itik Festival",
+    "englishName": "Itik-Itik Festival",
+    "month": 2,
+    "note": "'오리' 테마 2월 무렵 파시그(칼라와안)에서 열리는 Itik-Itik Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "Cebu City",
+    "name": "Cebu City Charter Day",
+    "englishName": "Cebu City Charter Day",
+    "month": 2,
+    "note": "2월 무렵 Cebu City에서 열리는 Cebu City Charter Day는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "세부",
+    "location": "세부시티",
+    "name": "Cebu City Charter Day",
+    "englishName": "Cebu City Charter Day",
+    "month": 2,
+    "note": "도시 기념 2월 무렵 세부시티에서 열리는 Cebu City Charter Day는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "팜팡가",
+    "location": "Clark Special Economic Zone",
+    "name": "Hot Air Balloon (Clark Festival)",
+    "englishName": "Hot Air Balloon (Clark Festival)",
+    "month": 2,
+    "note": "2월 무렵 Clark Special Economic Zone에서 열리는 Hot Air Balloon (Clark Festival)는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "팜팡가",
+    "location": "Mabalacat, Pampanga",
+    "name": "Caragan Festival",
+    "englishName": "Caragan Festival",
+    "month": 2,
+    "note": "2월 무렵 Mabalacat, Pampanga에서 열리는 Caragan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Aritao, Nueva Vizcaya",
+    "name": "Baykat Festival",
+    "englishName": "Baykat Festival",
+    "month": 3,
+    "note": "3월 무렵 Aritao, Nueva Vizcaya에서 열리는 Baykat Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Banga, South Cotabato",
+    "name": "Banga Anniversary Fiesta",
+    "englishName": "Banga Anniversary Fiesta",
+    "month": 3,
+    "note": "3월 무렵 Banga, South Cotabato에서 열리는 Banga Anniversary Fiesta는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bangued, Abra",
+    "name": "Abrenian Kawayan Festival",
+    "englishName": "Abrenian Kawayan Festival",
+    "month": 3,
+    "note": "3월 무렵 Bangued, Abra에서 열리는 Abrenian Kawayan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Baras, Rizal",
+    "name": "Sikaran Festival",
+    "englishName": "Sikaran Festival",
+    "month": 3,
+    "note": "3월 무렵 Baras, Rizal에서 열리는 Sikaran Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Biñan, Laguna",
+    "name": "Sumbrero Festival",
+    "englishName": "Sumbrero Festival",
+    "month": 3,
+    "note": "3월 무렵 Biñan, Laguna에서 열리는 Sumbrero Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bongabong, Oriental Mindoro",
+    "name": "Sulyog Festival",
+    "englishName": "Sulyog Festival",
+    "month": 3,
+    "note": "3월 무렵 Bongabong, Oriental Mindoro에서 열리는 Sulyog Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Calanasan, Apayao",
+    "name": "Say-am Festival",
+    "englishName": "Say-am Festival",
+    "month": 3,
+    "note": "3월 무렵 Calanasan, Apayao에서 열리는 Say-am Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Calapan",
+    "name": "Kalap Festival",
+    "englishName": "Kalap Festival",
+    "month": 3,
+    "note": "3월 무렵 Calapan에서 열리는 Kalap Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Carigara, Leyte",
+    "name": "Torugpo",
+    "englishName": "Torugpo",
+    "month": 3,
+    "note": "3월 무렵 Carigara, Leyte에서 열리는 Torugpo는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Catanauan, Quezon",
+    "name": "Boling-boling Festival",
+    "englishName": "Boling-boling Festival",
+    "month": 3,
+    "note": "3월 무렵 Catanauan, Quezon에서 열리는 Boling-boling Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Delfin Albano, Isabela",
+    "name": "Delfin Albano Patronal Town Fiesta",
+    "englishName": "Delfin Albano Patronal Town Fiesta",
+    "month": 3,
+    "note": "3월 무렵 Delfin Albano, Isabela에서 열리는 Delfin Albano Patronal Town Fiesta는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Dingras, Ilocos Norte",
+    "name": "Ani Festival",
+    "englishName": "Ani Festival",
+    "month": 3,
+    "note": "3월 무렵 Dingras, Ilocos Norte에서 열리는 Ani Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Dipolog",
+    "name": "Katkat sa Dipolog",
+    "englishName": "Katkat sa Dipolog",
+    "month": 3,
+    "note": "3월 무렵 Dipolog에서 열리는 Katkat sa Dipolog는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Echague, Isabela",
+    "name": "Bacao Festival",
+    "englishName": "Bacao Festival",
+    "month": 3,
+    "note": "3월 무렵 Echague, Isabela에서 열리는 Bacao Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Gingoog",
+    "name": "Barotorera Festival",
+    "englishName": "Barotorera Festival",
+    "month": 3,
+    "note": "3월 무렵 Gingoog에서 열리는 Barotorera Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Guiuan, Eastern Samar",
+    "name": "Magallanes Festival",
+    "englishName": "Magallanes Festival",
+    "month": 3,
+    "note": "3월 무렵 Guiuan, Eastern Samar에서 열리는 Magallanes Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Homonhon",
+    "name": "Homonhon Landing Anniversary",
+    "englishName": "Homonhon Landing Anniversary",
+    "month": 3,
+    "note": "3월 무렵 Homonhon에서 열리는 Homonhon Landing Anniversary는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Iba, Zambales",
+    "name": "Dinamulag Festival",
+    "englishName": "Dinamulag Festival",
+    "month": 3,
+    "note": "3월 무렵 Iba, Zambales에서 열리는 Dinamulag Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Iguig, Cagayan",
+    "name": "Semana Santa sa Iguig Calvary Hills",
+    "englishName": "Semana Santa sa Iguig Calvary Hills",
+    "month": 3,
+    "note": "3월 무렵 Iguig, Cagayan에서 열리는 Semana Santa sa Iguig Calvary Hills는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Kapangan, Benguet",
+    "name": "Anitap Festival",
+    "englishName": "Anitap Festival",
+    "month": 3,
+    "note": "3월 무렵 Kapangan, Benguet에서 열리는 Anitap Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Lala, Lanao del Norte",
+    "name": "Alimango Festival",
+    "englishName": "Alimango Festival",
+    "month": 3,
+    "note": "3월 무렵 Lala, Lanao del Norte에서 열리는 Alimango Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Lugait, Misamis Oriental",
+    "name": "Lugahait Festival",
+    "englishName": "Lugahait Festival",
+    "month": 3,
+    "note": "3월 무렵 Lugait, Misamis Oriental에서 열리는 Lugahait Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Mahatao, Batanes",
+    "name": "Kapayvanuvanua Festival",
+    "englishName": "Kapayvanuvanua Festival",
+    "month": 3,
+    "note": "3월 무렵 Mahatao, Batanes에서 열리는 Kapayvanuvanua Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Malaybalay City",
+    "name": "Malaybalay City Chartered Day",
+    "englishName": "Malaybalay City Chartered Day",
+    "month": 3,
+    "note": "3월 무렵 Malaybalay City에서 열리는 Malaybalay City Chartered Day는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Norala, South Cotabato",
+    "name": "Kamayadan Festival",
+    "englishName": "Kamayadan Festival",
+    "month": 3,
+    "note": "3월 무렵 Norala, South Cotabato에서 열리는 Kamayadan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Pakil, Laguna",
+    "name": "Turumba Festival",
+    "englishName": "Turumba Festival",
+    "month": 3,
+    "note": "3월 무렵 Pakil, Laguna에서 열리는 Turumba Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Palanan, Isabela",
+    "name": "Sabutan Festival",
+    "englishName": "Sabutan Festival",
+    "month": 3,
+    "note": "3월 무렵 Palanan, Isabela에서 열리는 Sabutan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Panabo City",
+    "name": "Araw ng Panabo",
+    "englishName": "Araw ng Panabo",
+    "month": 3,
+    "note": "3월 무렵 Panabo City에서 열리는 Araw ng Panabo는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Siquijor",
+    "name": "Witches Festival",
+    "englishName": "Witches Festival",
+    "month": 3,
+    "note": "3월 무렵 Siquijor에서 열리는 Witches Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tadian, Mountain Province",
+    "name": "Ayyoweng de Lambak ed Tadian",
+    "englishName": "Ayyoweng de Lambak ed Tadian",
+    "month": 3,
+    "note": "3월 무렵 Tadian, Mountain Province에서 열리는 Ayyoweng de Lambak ed Tadian는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "마린두케",
+    "name": "Moriones",
+    "englishName": "Moriones Festival",
+    "month": 3,
+    "note": "성주간 가면 3월 무렵 마린두케에서 열리는 Moriones Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Braulio E. Dujali, Davao del Norte",
+    "name": "Tilapia Festival",
+    "englishName": "Tilapia Festival",
+    "month": 3,
+    "note": "3월 무렵 Braulio E. Dujali, Davao del Norte에서 열리는 Tilapia Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Nabunturan, Davao de Oro",
+    "name": "Al-law ng Kalumunan",
+    "englishName": "Al-law ng Kalumunan",
+    "month": 3,
+    "note": "3월 무렵 Nabunturan, Davao de Oro에서 열리는 Al-law ng Kalumunan는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Nabunturan, Davao de Oro",
+    "name": "Bulawan Festival",
+    "englishName": "Bulawan Festival",
+    "month": 3,
+    "note": "3월 무렵 Nabunturan, Davao de Oro에서 열리는 Bulawan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Tagum City",
+    "name": "Panagtagbo Festival",
+    "englishName": "Panagtagbo Festival",
+    "month": 3,
+    "note": "3월 무렵 Tagum City에서 열리는 Panagtagbo Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라 근교",
+    "location": "산페르난도(팜팡가)",
+    "name": "San Pedro Cutud Lenten Rites",
+    "englishName": "San Pedro Cutud Lenten Rites",
+    "month": 3,
+    "note": "성주간 의례 3월 무렵 산페르난도(팜팡가)에서 열리는 San Pedro Cutud Lenten Rites는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라 근교",
+    "location": "앙헬레스",
+    "name": "Angeles Lenten Rites",
+    "englishName": "Angeles Lenten Rites",
+    "month": 3,
+    "note": "성주간 전통 3월 무렵 앙헬레스에서 열리는 Angeles Lenten Rites는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Muntinlupa",
+    "name": "Dinagsa Festival",
+    "englishName": "Dinagsa Festival",
+    "month": 3,
+    "note": "3월 무렵 Muntinlupa에서 열리는 Dinagsa Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Parañaque",
+    "name": "Salubong at Ang Pasko ng Pangkabuhay (Feast of the Resurrection)",
+    "englishName": "Salubong at Ang Pasko ng Pangkabuhay (Feast of the Resurrection)",
+    "month": 3,
+    "note": "3월 무렵 Parañaque에서 열리는 Salubong at Ang Pasko ng Pangkabuhay (Feast of the Resurrection)는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "문틴루파",
+    "name": "Parade of Festivals",
+    "englishName": "Parade of Festivals",
+    "month": 3,
+    "note": "기념행사 3월 무렵 문틴루파에서 열리는 Parade of Festivals는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파사이(말리바이)",
+    "name": "Malibay Cenaculo",
+    "englishName": "Malibay Cenaculo",
+    "month": 3,
+    "note": "성주간 연극 전통 3월 무렵 파사이(말리바이)에서 열리는 Malibay Cenaculo는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파시그",
+    "name": "Pasig Summer Music Festival",
+    "englishName": "Pasig Summer Music Festival",
+    "month": 3,
+    "note": "음악 행사 3월 무렵 파시그에서 열리는 Pasig Summer Music Festival는 라이브 공연과 워크숍/경연이 함께 열리며 야외·실내 무대가 혼합됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음악"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파테로스",
+    "name": "Balut sa Puti Festival",
+    "englishName": "Balut sa Puti Festival",
+    "month": 3,
+    "note": "발룻·지역 기념 3월 무렵 파테로스에서 열리는 Balut sa Puti Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "세부",
+    "location": "Cebu City",
+    "name": "Hinatdan Festival",
+    "englishName": "Hinatdan Festival",
+    "month": 3,
+    "note": "3월 무렵 Cebu City에서 열리는 Hinatdan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "세부시티",
+    "name": "Buhing Kalbaryo(성주간)",
+    "englishName": "Buhing Kalbaryo",
+    "month": 3,
+    "note": "성주간 의례 3월 무렵 세부시티에서 열리는 Buhing Kalbaryo는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "세부",
+    "location": "세부시티",
+    "name": "Hinatdan Festival",
+    "englishName": "Hinatdan Festival",
+    "month": 3,
+    "note": "도시 행사 3월 무렵 세부시티에서 열리는 Hinatdan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "팜팡가",
+    "location": "San Fernando City, La Union",
+    "name": "Pindangan Festival",
+    "englishName": "Pindangan Festival",
+    "month": 3,
+    "note": "3월 무렵 San Fernando City, La Union에서 열리는 Pindangan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Antipolo, Rizal",
+    "name": "Antipolo Pilgrimage",
+    "englishName": "Antipolo Pilgrimage",
+    "month": 4,
+    "note": "4월 무렵 Antipolo, Rizal에서 열리는 Antipolo Pilgrimage는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bontoc, Mountain Province",
+    "name": "Lang-ay Festival",
+    "englishName": "Lang-ay Festival",
+    "month": 4,
+    "note": "4월 무렵 Bontoc, Mountain Province에서 열리는 Lang-ay Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Dipolog",
+    "name": "Pagsalabuk Festival",
+    "englishName": "Pagsalabuk Festival",
+    "month": 4,
+    "note": "4월 무렵 Dipolog에서 열리는 Pagsalabuk Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Donsol, Sorsogon",
+    "name": "Butanding Festival",
+    "englishName": "Butanding Festival",
+    "month": 4,
+    "note": "4월 무렵 Donsol, Sorsogon에서 열리는 Butanding Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Iguig, Cagayan",
+    "name": "Semana Santa at Iguig Calvary Hills",
+    "englishName": "Semana Santa at Iguig Calvary Hills",
+    "month": 4,
+    "note": "4월 무렵 Iguig, Cagayan에서 열리는 Semana Santa at Iguig Calvary Hills는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Kiangan, Ifugao",
+    "name": "Gotad ad Kiangan",
+    "englishName": "Gotad ad Kiangan",
+    "month": 4,
+    "note": "4월 무렵 Kiangan, Ifugao에서 열리는 Gotad ad Kiangan는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Lemery, Batangas",
+    "name": "Tinapahan Festival",
+    "englishName": "Tinapahan Festival",
+    "month": 4,
+    "note": "4월 무렵 Lemery, Batangas에서 열리는 Tinapahan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Odiongan, Romblon",
+    "name": "Kanidugan Festival",
+    "englishName": "Kanidugan Festival",
+    "month": 4,
+    "note": "4월 무렵 Odiongan, Romblon에서 열리는 Kanidugan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Pagudpud, Ilocos Norte",
+    "name": "Kangayedan Festival",
+    "englishName": "Kangayedan Festival",
+    "month": 4,
+    "note": "4월 무렵 Pagudpud, Ilocos Norte에서 열리는 Kangayedan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Peñablanca, Cagayan",
+    "name": "Bangkarera",
+    "englishName": "Bangkarera",
+    "month": 4,
+    "note": "4월 무렵 Peñablanca, Cagayan에서 열리는 Bangkarera는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Santa Maria, Ilocos Sur",
+    "name": "Pinakbet Festival",
+    "englishName": "Pinakbet Festival",
+    "month": 4,
+    "note": "4월 무렵 Santa Maria, Ilocos Sur에서 열리는 Pinakbet Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Subic, Zambales",
+    "name": "Subic 'ay Festival",
+    "englishName": "Subic 'ay Festival",
+    "month": 4,
+    "note": "4월 무렵 Subic, Zambales에서 열리는 Subic 'ay Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Santa Cruz, Davao del Sur",
+    "name": "Pista sa Kinaiyahan",
+    "englishName": "Pista sa Kinaiyahan",
+    "month": 4,
+    "note": "4월 무렵 Santa Cruz, Davao del Sur에서 열리는 Pista sa Kinaiyahan는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "NCR",
+    "name": "Manila International Auto Show",
+    "englishName": "Manila International Auto Show",
+    "month": 4,
+    "note": "모터쇼 4월 무렵 NCR에서 열리는 Manila International Auto Show는 전시·부스·세미나 중심으로 업계 네트워킹과 체험 프로그램이 있습니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "박람회"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마리키나",
+    "name": "Ka-Angkan Festival",
+    "englishName": "Ka-Angkan Festival",
+    "month": 4,
+    "note": "가족·씨족 테마 4월 무렵 마리키나에서 열리는 Ka-Angkan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마카티(Circuit)",
+    "name": "Wanderland Music & Arts Festival",
+    "englishName": "Wanderland Music & Arts Festival",
+    "month": 4,
+    "note": "야외 음악·예술 4월 무렵 마카티(Circuit)에서 열리는 Wanderland Music & Arts Festival는 라이브 공연과 워크숍/경연이 함께 열리며 야외·실내 무대가 혼합됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음악"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파사이(CCP)",
+    "name": "Aliwan Fiesta",
+    "englishName": "Aliwan Fiesta",
+    "month": 4,
+    "note": "퍼레이드·미인대회 4월 무렵 파사이(CCP)에서 열리는 Aliwan Fiesta는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파시그",
+    "name": "Sunduan Festival(2바랑가이)",
+    "englishName": "Sunduan Festival",
+    "month": 4,
+    "note": "가톨릭 전통 4월 무렵 파시그에서 열리는 Sunduan Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "세부",
+    "location": "Cebu City",
+    "name": "Buhing Kalbaryo",
+    "englishName": "Buhing Kalbaryo",
+    "month": 4,
+    "note": "4월 무렵 Cebu City에서 열리는 Buhing Kalbaryo는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "라푸라푸",
+    "name": "막탄 관련 기념행사",
+    "englishName": "Mactan Memorial Events",
+    "month": 4,
+    "note": "운영 공지 확인 4월 무렵 라푸라푸에서 열리는 Mactan Memorial Events는 전투/독립/도시 역사와 관련된 의식·재현 행사로 교육적 성격이 강합니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "역사"
+  },
+  {
+    "region": "세부",
+    "location": "세부(막탄/라푸라푸)",
+    "name": "Kadaugan sa Mactan",
+    "englishName": "Kadaugan sa Mactan",
+    "month": 4,
+    "note": "막탄 전투 기념 4월 무렵 세부(막탄/라푸라푸)에서 열리는 Kadaugan sa Mactan는 전투/독립/도시 역사와 관련된 의식·재현 행사로 교육적 성격이 강합니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "역사"
+  },
+  {
+    "region": "팜팡가",
+    "location": "Angeles City",
+    "name": "Angeles Lenten Rites",
+    "englishName": "Angeles Lenten Rites",
+    "month": 4,
+    "note": "4월 무렵 Angeles City에서 열리는 Angeles Lenten Rites는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "팜팡가",
+    "location": "San Fernando City, Pampanga",
+    "name": "San Pedro Cutud Lenten Rites",
+    "englishName": "San Pedro Cutud Lenten Rites",
+    "month": 4,
+    "note": "4월 무렵 San Fernando City, Pampanga에서 열리는 San Pedro Cutud Lenten Rites는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Alaminos, Pangasinan",
+    "name": "100 Islands Festival",
+    "englishName": "100 Islands Festival",
+    "month": 5,
+    "note": "5월 무렵 Alaminos, Pangasinan에서 열리는 100 Islands Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Albay",
+    "name": "Magayon Festival",
+    "englishName": "Magayon Festival",
+    "month": 5,
+    "note": "5월 무렵 Albay에서 열리는 Magayon Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Antipolo, Rizal",
+    "name": "Sumakah Festival",
+    "englishName": "Sumakah Festival",
+    "month": 5,
+    "note": "5월 무렵 Antipolo, Rizal에서 열리는 Sumakah Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Butuan",
+    "name": "Balangay Festival",
+    "englishName": "Balangay Festival",
+    "month": 5,
+    "note": "5월 무렵 Butuan에서 열리는 Balangay Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Cuenca, Batangas",
+    "name": "Tinapay Festival",
+    "englishName": "Tinapay Festival",
+    "month": 5,
+    "note": "5월 무렵 Cuenca, Batangas에서 열리는 Tinapay Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Lian, Batangas",
+    "name": "Balsa Festival",
+    "englishName": "Balsa Festival",
+    "month": 5,
+    "note": "5월 무렵 Lian, Batangas에서 열리는 Balsa Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Malabon",
+    "name": "Malabon Foundation Day",
+    "englishName": "Malabon Foundation Day",
+    "month": 5,
+    "note": "5월 무렵 Malabon에서 열리는 Malabon Foundation Day는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Malimono, Surigao del Norte",
+    "name": "Onggoyan Festival",
+    "englishName": "Onggoyan Festival",
+    "month": 5,
+    "note": "5월 무렵 Malimono, Surigao del Norte에서 열리는 Onggoyan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Maria, Siquijor",
+    "name": "Lubi Festival",
+    "englishName": "Lubi Festival",
+    "month": 5,
+    "note": "5월 무렵 Maria, Siquijor에서 열리는 Lubi Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Mauban, Quezon",
+    "name": "Maubanog Festival",
+    "englishName": "Maubanog Festival",
+    "month": 5,
+    "note": "5월 무렵 Mauban, Quezon에서 열리는 Maubanog Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Naguilian, La Union",
+    "name": "Basi Festival",
+    "englishName": "Basi Festival",
+    "month": 5,
+    "note": "5월 무렵 Naguilian, La Union에서 열리는 Basi Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Pinabacdao, Samar",
+    "name": "Mayaw-mayaw Festival",
+    "englishName": "Mayaw-mayaw Festival",
+    "month": 5,
+    "note": "5월 무렵 Pinabacdao, Samar에서 열리는 Mayaw-mayaw Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Puerto Galera, Oriental Mindoro",
+    "name": "De Galera Festival",
+    "englishName": "De Galera Festival",
+    "month": 5,
+    "note": "5월 무렵 Puerto Galera, Oriental Mindoro에서 열리는 De Galera Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Rapu-Rapu, Albay",
+    "name": "Layag Festival",
+    "englishName": "Layag Festival",
+    "month": 5,
+    "note": "5월 무렵 Rapu-Rapu, Albay에서 열리는 Layag Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Santiago City",
+    "name": "Pattaraday Festival",
+    "englishName": "Pattaraday Festival",
+    "month": 5,
+    "note": "5월 무렵 Santiago City에서 열리는 Pattaraday Festival는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Sarangani",
+    "name": "Araw ng Sarangani",
+    "englishName": "Araw ng Sarangani",
+    "month": 5,
+    "note": "5월 무렵 Sarangani에서 열리는 Araw ng Sarangani는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Sariaya, Quezon",
+    "name": "Agawan sa Sariaya",
+    "englishName": "Agawan sa Sariaya",
+    "month": 5,
+    "note": "5월 무렵 Sariaya, Quezon에서 열리는 Agawan sa Sariaya는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tayabas, Quezon",
+    "name": "Mayohan sa Tayabas",
+    "englishName": "Mayohan sa Tayabas",
+    "month": 5,
+    "note": "5월 무렵 Tayabas, Quezon에서 열리는 Mayohan sa Tayabas는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "케손(루크반)",
+    "name": "Pahiyas",
+    "englishName": "Pahiyas Festival",
+    "month": 5,
+    "note": "수확·가옥 장식 5월 무렵 케손(루크반)에서 열리는 Pahiyas Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "NCR 전역",
+    "name": "Flores de Mayo / Santacruzan",
+    "englishName": "Flores de Mayo / Santacruzan",
+    "month": 5,
+    "note": "지역별 일정 상이 5월 무렵 NCR 전역에서 열리는 Flores de Mayo / Santacruzan는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라(에르미타)",
+    "name": "Nuestra Señora de Guia",
+    "englishName": "Nuestra Señora de Guia",
+    "month": 5,
+    "note": "Bota de Flores 5월 무렵 마닐라(에르미타)에서 열리는 Nuestra Señora de Guia는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "발렌수엘라",
+    "name": "San Roque Festival(Mano Po)",
+    "englishName": "San Roque Festival",
+    "month": 5,
+    "note": "거리 퍼레이드 5월 무렵 발렌수엘라에서 열리는 San Roque Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파라냐케(라후에르타)",
+    "name": "Sunduan Festival",
+    "englishName": "Sunduan Festival",
+    "month": 5,
+    "note": "지역 전통 5월 무렵 파라냐케(라후에르타)에서 열리는 Sunduan Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "세부",
+    "location": "세부시티",
+    "name": "Gabii sa Kabilin",
+    "englishName": "Gabii sa Kabilin",
+    "month": 5,
+    "note": "문화유산 야간 행사 5월 무렵 세부시티에서 열리는 Gabii sa Kabilin는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Batac, Ilocos Norte",
+    "name": "Batac Charter Day & Empanada Festival",
+    "englishName": "Batac Charter Day & Empanada Festival",
+    "month": 6,
+    "note": "6월 무렵 Batac, Ilocos Norte에서 열리는 Batac Charter Day & Empanada Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Batanes",
+    "name": "Payuhwan Festival",
+    "englishName": "Payuhwan Festival",
+    "month": 6,
+    "note": "6월 무렵 Batanes에서 열리는 Payuhwan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Calumpit, Bulacan",
+    "name": "Calumpit \"Libad\" Festival",
+    "englishName": "Calumpit \"Libad\" Festival",
+    "month": 6,
+    "note": "6월 무렵 Calumpit, Bulacan에서 열리는 Calumpit \"Libad\" Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Camiguin",
+    "name": "San Juan sa Hibok-hibok Festival",
+    "englishName": "San Juan sa Hibok-hibok Festival",
+    "month": 6,
+    "note": "6월 무렵 Camiguin에서 열리는 San Juan sa Hibok-hibok Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Cotabato City",
+    "name": "Araw ng Cotabato",
+    "englishName": "Araw ng Cotabato",
+    "month": 6,
+    "note": "6월 무렵 Cotabato City에서 열리는 Araw ng Cotabato는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Lagawe, Ifugao",
+    "name": "Gotad ad Ifugao",
+    "englishName": "Gotad ad Ifugao",
+    "month": 6,
+    "note": "6월 무렵 Lagawe, Ifugao에서 열리는 Gotad ad Ifugao는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Maddela, Quirino",
+    "name": "Panagsasalug Fiesta",
+    "englishName": "Panagsasalug Fiesta",
+    "month": 6,
+    "note": "6월 무렵 Maddela, Quirino에서 열리는 Panagsasalug Fiesta는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Pagadian City",
+    "name": "Pagadian City Charter Day",
+    "englishName": "Pagadian City Charter Day",
+    "month": 6,
+    "note": "6월 무렵 Pagadian City에서 열리는 Pagadian City Charter Day는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "San Francisco, Agusan del Sur",
+    "name": "Diwata Festival",
+    "englishName": "Diwata Festival",
+    "month": 6,
+    "note": "6월 무렵 San Francisco, Agusan del Sur에서 열리는 Diwata Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tabuk City, Kalinga",
+    "name": "Matagoan Festival",
+    "englishName": "Matagoan Festival",
+    "month": 6,
+    "note": "6월 무렵 Tabuk City, Kalinga에서 열리는 Matagoan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tiaong, Quezon",
+    "name": "Lubid–Lubid Festival and Cow Parade",
+    "englishName": "Lubid–Lubid Festival and Cow Parade",
+    "month": 6,
+    "note": "6월 무렵 Tiaong, Quezon에서 열리는 Lubid–Lubid Festival and Cow Parade는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Digos",
+    "name": "Dorong Festival",
+    "englishName": "Dorong Festival",
+    "month": 6,
+    "note": "6월 무렵 Digos에서 열리는 Dorong Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Samal, Davao del Norte",
+    "name": "Pangapog Festival",
+    "englishName": "Pangapog Festival",
+    "month": 6,
+    "note": "6월 무렵 Samal, Davao del Norte에서 열리는 Pangapog Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "NCR 전역",
+    "name": "Fête de la Musique",
+    "englishName": "Fête de la Musique",
+    "month": 6,
+    "note": "도시 전역 공연 6월 무렵 NCR 전역에서 열리는 Fête de la Musique는 라이브 공연과 워크숍/경연이 함께 열리며 야외·실내 무대가 혼합됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음악"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "San Juan, Metro Manila",
+    "name": "Feast of Saint John the Baptist",
+    "englishName": "Feast of Saint John the Baptist",
+    "month": 6,
+    "note": "6월 무렵 San Juan, Metro Manila에서 열리는 Feast of Saint John the Baptist는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라",
+    "name": "Manila Day(Araw ng Maynila)",
+    "englishName": "Manila Day",
+    "month": 6,
+    "note": "시 기념행사 6월 무렵 마닐라에서 열리는 Manila Day는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라",
+    "name": "Subli-an sa Maynila",
+    "englishName": "Subli-an sa Maynila",
+    "month": 6,
+    "note": "성체·성십자 전통 6월 무렵 마닐라에서 열리는 Subli-an sa Maynila는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라(리살공원)",
+    "name": "Independence Day 행사",
+    "englishName": "Independence Day",
+    "month": 6,
+    "note": "국기게양 등 6월 무렵 마닐라(리살공원)에서 열리는 Independence Day는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마카티",
+    "name": "Feast of Saints Peter & Paul",
+    "englishName": "Feast of Saints Peter & Paul",
+    "month": 6,
+    "note": "전통 공연 6월 무렵 마카티에서 열리는 Feast of Saints Peter & Paul는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "산후안",
+    "name": "Wattah Wattah Festival",
+    "englishName": "Wattah Wattah Festival",
+    "month": 6,
+    "note": "성요한 축일 6월 무렵 산후안에서 열리는 Wattah Wattah Festival는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "팜팡가",
+    "location": "San Fernando City, La Union",
+    "name": "Victory at Bacsil Ridge",
+    "englishName": "Victory at Bacsil Ridge",
+    "month": 6,
+    "note": "6월 무렵 San Fernando City, La Union에서 열리는 Victory at Bacsil Ridge는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Batangas City",
+    "name": "Sublian sa Batangas",
+    "englishName": "Sublian sa Batangas",
+    "month": 7,
+    "note": "7월 무렵 Batangas City에서 열리는 Sublian sa Batangas는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bocaue, Bulacan",
+    "name": "Bocaue River Festival",
+    "englishName": "Bocaue River Festival",
+    "month": 7,
+    "note": "7월 무렵 Bocaue, Bulacan에서 열리는 Bocaue River Festival는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Buhi, Camarines Sur",
+    "name": "Sinarapan Festival",
+    "englishName": "Sinarapan Festival",
+    "month": 7,
+    "note": "7월 무렵 Buhi, Camarines Sur에서 열리는 Sinarapan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Cabanatuan",
+    "name": "Gatas ng Kalabaw Festival",
+    "englishName": "Gatas ng Kalabaw Festival",
+    "month": 7,
+    "note": "7월 무렵 Cabanatuan에서 열리는 Gatas ng Kalabaw Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Koronadal City",
+    "name": "T’nalak Festival",
+    "englishName": "T’nalak Festival",
+    "month": 7,
+    "note": "7월 무렵 Koronadal City에서 열리는 T’nalak Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Maasin City, Southern Leyte",
+    "name": "Sinugdan Festival",
+    "englishName": "Sinugdan Festival",
+    "month": 7,
+    "note": "7월 무렵 Maasin City, Southern Leyte에서 열리는 Sinugdan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Malilipot, Albay",
+    "name": "Lubid Festival",
+    "englishName": "Lubid Festival",
+    "month": 7,
+    "note": "7월 무렵 Malilipot, Albay에서 열리는 Lubid Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Ozamiz City",
+    "name": "Perangat Ozamiz Festival",
+    "englishName": "Perangat Ozamiz Festival",
+    "month": 7,
+    "note": "7월 무렵 Ozamiz City에서 열리는 Perangat Ozamiz Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tagbilaran City",
+    "name": "Sandugo Festival",
+    "englishName": "Sandugo Festival",
+    "month": 7,
+    "note": "7월 무렵 Tagbilaran City에서 열리는 Sandugo Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tubod, Lanao del Norte",
+    "name": "Sagayan Festival",
+    "englishName": "Sagayan Festival",
+    "month": 7,
+    "note": "7월 무렵 Tubod, Lanao del Norte에서 열리는 Sagayan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "보홀",
+    "name": "Sandugo(지역 행사)",
+    "englishName": "Sandugo Festival",
+    "month": 7,
+    "note": "역사 기념 7월 무렵 보홀에서 열리는 Sandugo Festival는 전투/독립/도시 역사와 관련된 의식·재현 행사로 교육적 성격이 강합니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "역사"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Nabunturan, Davao de Oro",
+    "name": "Simbalay",
+    "englishName": "Simbalay",
+    "month": 7,
+    "note": "7월 무렵 Nabunturan, Davao de Oro에서 열리는 Simbalay는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Tagum, Davao del Norte",
+    "name": "Banana Festival",
+    "englishName": "Banana Festival",
+    "month": 7,
+    "note": "7월 무렵 Tagum, Davao del Norte에서 열리는 Banana Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Pasig",
+    "name": "Araw ng Pasig",
+    "englishName": "Araw ng Pasig",
+    "month": 7,
+    "note": "7월 무렵 Pasig에서 열리는 Araw ng Pasig는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Taguig",
+    "name": "Santa Anang Banak Taguig River Festival",
+    "englishName": "Santa Anang Banak Taguig River Festival",
+    "month": 7,
+    "note": "7월 무렵 Taguig에서 열리는 Santa Anang Banak Taguig River Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라",
+    "name": "Cinemanila Int'l Film Festival",
+    "englishName": "Cinemanila International Film Festival",
+    "month": 7,
+    "note": "영화제 7월 무렵 마닐라에서 열리는 Cinemanila International Film Festival는 상영·GV·시상 등 프로그램이 이어지며 독립/국제 작품이 소개됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "영화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파사이(CCP)",
+    "name": "Cinemalaya",
+    "englishName": "Cinemalaya",
+    "month": 7,
+    "note": "독립영화제 7월 무렵 파사이(CCP)에서 열리는 Cinemalaya는 상영·GV·시상 등 프로그램이 이어지며 독립/국제 작품이 소개됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "영화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파시그",
+    "name": "Pasig Day(Araw ng Pasig)",
+    "englishName": "Pasig Day",
+    "month": 7,
+    "note": "퍼레이드·행사 7월 무렵 파시그에서 열리는 Pasig Day는 도시·주(Province) 기념행사로 퍼레이드와 공연, 시민 참여 프로그램이 열립니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "세부",
+    "location": "Badian, Cebu",
+    "name": "Banig Festival",
+    "englishName": "Banig Festival",
+    "month": 7,
+    "note": "7월 무렵 Badian, Cebu에서 열리는 Banig Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "Barili, Cebu",
+    "name": "Kaumahan Festival",
+    "englishName": "Kaumahan Festival",
+    "month": 7,
+    "note": "7월 무렵 Barili, Cebu에서 열리는 Kaumahan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Alcala, Cagayan",
+    "name": "Alcala Town Fiesta",
+    "englishName": "Alcala Town Fiesta",
+    "month": 8,
+    "note": "8월 무렵 Alcala, Cagayan에서 열리는 Alcala Town Fiesta는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Basco, Batanes",
+    "name": "Palu-Palo Festival",
+    "englishName": "Palu-Palo Festival",
+    "month": 8,
+    "note": "8월 무렵 Basco, Batanes에서 열리는 Palu-Palo Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bayombong, Nueva Vizcaya",
+    "name": "Bayombong Town Fiesta",
+    "englishName": "Bayombong Town Fiesta",
+    "month": 8,
+    "note": "8월 무렵 Bayombong, Nueva Vizcaya에서 열리는 Bayombong Town Fiesta는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Butuan",
+    "name": "Adlaw Hong Butuan",
+    "englishName": "Adlaw Hong Butuan",
+    "month": 8,
+    "note": "8월 무렵 Butuan에서 열리는 Adlaw Hong Butuan는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Butuan",
+    "name": "Palagsing Festival",
+    "englishName": "Palagsing Festival",
+    "month": 8,
+    "note": "8월 무렵 Butuan에서 열리는 Palagsing Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Cabanglasan, Bukidnon",
+    "name": "Araw ng Cabanglasan",
+    "englishName": "Araw ng Cabanglasan",
+    "month": 8,
+    "note": "8월 무렵 Cabanglasan, Bukidnon에서 열리는 Araw ng Cabanglasan는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Cagayan de Oro",
+    "name": "Kagayhaan Festival",
+    "englishName": "Kagayhaan Festival",
+    "month": 8,
+    "note": "8월 무렵 Cagayan de Oro에서 열리는 Kagayhaan Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Catbalogan, Samar",
+    "name": "Kaadlawan Han Samar",
+    "englishName": "Kaadlawan Han Samar",
+    "month": 8,
+    "note": "8월 무렵 Catbalogan, Samar에서 열리는 Kaadlawan Han Samar는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Gigaquit, Surigao del Norte",
+    "name": "Jinawa Festival",
+    "englishName": "Jinawa Festival",
+    "month": 8,
+    "note": "8월 무렵 Gigaquit, Surigao del Norte에서 열리는 Jinawa Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Guinobatan, Albay",
+    "name": "Arandurugan Festival",
+    "englishName": "Arandurugan Festival",
+    "month": 8,
+    "note": "8월 무렵 Guinobatan, Albay에서 열리는 Arandurugan Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Iloilo City",
+    "name": "Iloilo City Charter Day",
+    "englishName": "Iloilo City Charter Day",
+    "month": 8,
+    "note": "8월 무렵 Iloilo City에서 열리는 Iloilo City Charter Day는 도시/주 기념일과 결합된 퍼레이드·공연·시민 참여 프로그램이 진행됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Jolo, Sulu",
+    "name": "Raja Baguinda Festival",
+    "englishName": "Raja Baguinda Festival",
+    "month": 8,
+    "note": "8월 무렵 Jolo, Sulu에서 열리는 Raja Baguinda Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Kabankalan City, Negros Occidental",
+    "name": "Udyakan sa Kabankalan/Charter Anniversary",
+    "englishName": "Udyakan sa Kabankalan/Charter Anniversary",
+    "month": 8,
+    "note": "8월 무렵 Kabankalan City, Negros Occidental에서 열리는 Udyakan sa Kabankalan/Charter Anniversary는 도시/주 기념일과 결합된 퍼레이드·공연·시민 참여 프로그램이 진행됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Kinoguitan, Misamis Oriental",
+    "name": "Kaahaan Festival",
+    "englishName": "Kaahaan Festival",
+    "month": 8,
+    "note": "8월 무렵 Kinoguitan, Misamis Oriental에서 열리는 Kaahaan Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Legazpi City",
+    "name": "Ibalong Festival",
+    "englishName": "Ibalong Festival",
+    "month": 8,
+    "note": "8월 무렵 Legazpi City에서 열리는 Ibalong Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Liliw, Laguna",
+    "name": "Santones Festival",
+    "englishName": "Santones Festival",
+    "month": 8,
+    "note": "8월 무렵 Liliw, Laguna에서 열리는 Santones Festival는 미사·성상 행렬과 전통 의례가 중심이며, 지역 신앙과 공동체 결속을 보여줍니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tigaon, Camarines Sur",
+    "name": "Santa Clara Festival",
+    "englishName": "Santa Clara Festival",
+    "month": 8,
+    "note": "8월 무렵 Tigaon, Camarines Sur에서 열리는 Santa Clara Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tuguegarao, Cagayan",
+    "name": "Pav-vurulun Afi Festival",
+    "englishName": "Pav-vurulun Afi Festival",
+    "month": 8,
+    "note": "8월 무렵 Tuguegarao, Cagayan에서 열리는 Pav-vurulun Afi Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Viga, Catanduanes",
+    "name": "Paray Festival",
+    "englishName": "Paray Festival",
+    "month": 8,
+    "note": "8월 무렵 Viga, Catanduanes에서 열리는 Paray Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "다바오",
+    "name": "Kadayawan",
+    "englishName": "Kadayawan Festival",
+    "month": 8,
+    "note": "수확·민족 문화 8월 무렵 다바오에서 열리는 Kadayawan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "New Bataan, Davao de Oro",
+    "name": "Sal-lupongan Festival",
+    "englishName": "Sal-lupongan Festival",
+    "month": 8,
+    "note": "8월 무렵 New Bataan, Davao de Oro에서 열리는 Sal-lupongan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Tagum City",
+    "name": "Durian Festival",
+    "englishName": "Durian Festival",
+    "month": 8,
+    "note": "8월 무렵 Tagum City에서 열리는 Durian Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Pasig",
+    "name": "Nagsabado Festival",
+    "englishName": "Nagsabado Festival",
+    "month": 8,
+    "note": "8월 무렵 Pasig에서 열리는 Nagsabado Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "만달루용",
+    "name": "29 de Agosto(혁명 기념)",
+    "englishName": "29 de Agosto",
+    "month": 8,
+    "note": "기념행사 8월 무렵 만달루용에서 열리는 29 de Agosto는 전투/독립/도시 역사와 관련된 의식·재현 행사로 교육적 성격이 강합니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "역사"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "산후안",
+    "name": "Pinaglabanan Day",
+    "englishName": "Pinaglabanan Day",
+    "month": 8,
+    "note": "역사 기념 8월 무렵 산후안에서 열리는 Pinaglabanan Day는 전투/독립/도시 역사와 관련된 의식·재현 행사로 교육적 성격이 강합니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "역사"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "케손시티",
+    "name": "Cry of Pugadlawin 기념",
+    "englishName": "Cry of Pugadlawin",
+    "month": 8,
+    "note": "역사 기념 8월 무렵 케손시티에서 열리는 Cry of Pugadlawin는 전투/독립/도시 역사와 관련된 의식·재현 행사로 교육적 성격이 강합니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "역사"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "케손시티",
+    "name": "Language Month/Quezon 기념",
+    "englishName": "Language Month",
+    "month": 8,
+    "note": "8월 중심 8월 무렵 케손시티에서 열리는 Language Month는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "파시그",
+    "name": "Nagsabado Festival",
+    "englishName": "Nagsabado Festival",
+    "month": 8,
+    "note": "역사 테마 8월 무렵 파시그에서 열리는 Nagsabado Festival는 전투/독립/도시 역사와 관련된 의식·재현 행사로 교육적 성격이 강합니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "역사"
+  },
+  {
+    "region": "세부",
+    "location": "Alcoy, Cebu",
+    "name": "Siloy Festival",
+    "englishName": "Siloy Festival",
+    "month": 8,
+    "note": "8월 무렵 Alcoy, Cebu에서 열리는 Siloy Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "Cebu City",
+    "name": "Pasigarbo sa Sugbo",
+    "englishName": "Pasigarbo sa Sugbo",
+    "month": 8,
+    "note": "8월 무렵 Cebu City에서 열리는 Pasigarbo sa Sugbo는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "Cordova, Cebu",
+    "name": "Cordova Dinagat Festival",
+    "englishName": "Cordova Dinagat Festival",
+    "month": 8,
+    "note": "8월 무렵 Cordova, Cebu에서 열리는 Cordova Dinagat Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "Province of Cebu",
+    "name": "Pasigarbo sa Sugbo Festival of Festivals",
+    "englishName": "Pasigarbo sa Sugbo Festival of Festivals",
+    "month": 8,
+    "note": "8월 무렵 Province of Cebu에서 열리는 Pasigarbo sa Sugbo Festival of Festivals는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "세부",
+    "name": "Pasigarbo sa Sugbo",
+    "englishName": "Pasigarbo sa Sugbo",
+    "month": 8,
+    "note": "'축제들의 축제' 성격 8월 무렵 세부에서 열리는 Pasigarbo sa Sugbo는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "알칸타라",
+    "name": "Bahandi Festival",
+    "englishName": "Bahandi Festival",
+    "month": 8,
+    "note": "지역 행사 8월 무렵 알칸타라에서 열리는 Bahandi Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Aborlan, Palawan",
+    "name": "Passini Kat Aborlan",
+    "englishName": "Passini Kat Aborlan",
+    "month": 9,
+    "note": "9월 무렵 Aborlan, Palawan에서 열리는 Passini Kat Aborlan는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Balangiga, Eastern Samar",
+    "name": "Balangiga Anniversary",
+    "englishName": "Balangiga Anniversary",
+    "month": 9,
+    "note": "9월 무렵 Balangiga, Eastern Samar에서 열리는 Balangiga Anniversary는 도시/주 기념일과 결합된 퍼레이드·공연·시민 참여 프로그램이 진행됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bansalan",
+    "name": "Bansalan Festival",
+    "englishName": "Bansalan Festival",
+    "month": 9,
+    "note": "9월 무렵 Bansalan에서 열리는 Bansalan Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Basey, Samar",
+    "name": "Banigan Festival",
+    "englishName": "Banigan Festival",
+    "month": 9,
+    "note": "9월 무렵 Basey, Samar에서 열리는 Banigan Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Bislig",
+    "name": "Bislig City Charter Day",
+    "englishName": "Bislig City Charter Day",
+    "month": 9,
+    "note": "9월 무렵 Bislig에서 열리는 Bislig City Charter Day는 도시/주 기념일과 결합된 퍼레이드·공연·시민 참여 프로그램이 진행됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Cabatuan, Iloilo",
+    "name": "Hinirugyaw Festival",
+    "englishName": "Hinirugyaw Festival",
+    "month": 9,
+    "note": "9월 무렵 Cabatuan, Iloilo에서 열리는 Hinirugyaw Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Calbayog",
+    "name": "Sarakiki Festival",
+    "englishName": "Sarakiki Festival",
+    "month": 9,
+    "note": "9월 무렵 Calbayog에서 열리는 Sarakiki Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "General Santos",
+    "name": "Tuna Festival",
+    "englishName": "Tuna Festival",
+    "month": 9,
+    "note": "9월 무렵 General Santos에서 열리는 Tuna Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Iligan City",
+    "name": "Diyandi Festival",
+    "englishName": "Diyandi Festival",
+    "month": 9,
+    "note": "9월 무렵 Iligan City에서 열리는 Diyandi Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Iligan City",
+    "name": "Ms. Iligan City",
+    "englishName": "Ms. Iligan City",
+    "month": 9,
+    "note": "9월 무렵 Iligan City에서 열리는 Ms. Iligan City는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Malolos, Bulacan",
+    "name": "Linggo ng Bulakan",
+    "englishName": "Linggo ng Bulakan",
+    "month": 9,
+    "note": "9월 무렵 Malolos, Bulacan에서 열리는 Linggo ng Bulakan는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Malolos, Bulacan",
+    "name": "Singkaban Festival",
+    "englishName": "Singkaban Festival",
+    "month": 9,
+    "note": "9월 무렵 Malolos, Bulacan에서 열리는 Singkaban Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Naga City, Camarines Sur",
+    "name": "Bicol Food Festival",
+    "englishName": "Bicol Food Festival",
+    "month": 9,
+    "note": "9월 무렵 Naga City, Camarines Sur에서 열리는 Bicol Food Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "기타 지역",
+    "location": "San Jose, Tarlac",
+    "name": "Feast of the Triumph of the Cross",
+    "englishName": "Feast of the Triumph of the Cross",
+    "month": 9,
+    "note": "9월 무렵 San Jose, Tarlac에서 열리는 Feast of the Triumph of the Cross는 미사·성상 행렬과 전통 의례가 중심이며, 지역 신앙과 공동체 결속을 보여줍니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "기타 지역",
+    "location": "San Miguel, Leyte",
+    "name": "Bathan Festival",
+    "englishName": "Bathan Festival",
+    "month": 9,
+    "note": "9월 무렵 San Miguel, Leyte에서 열리는 Bathan Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Valencia, Bukidnon",
+    "name": "Golden Harvest Festival",
+    "englishName": "Golden Harvest Festival",
+    "month": 9,
+    "note": "9월 무렵 Valencia, Bukidnon에서 열리는 Golden Harvest Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Victoria, Oriental Mindoro",
+    "name": "Kapakyanan Festival",
+    "englishName": "Kapakyanan Festival",
+    "month": 9,
+    "note": "9월 무렵 Victoria, Oriental Mindoro에서 열리는 Kapakyanan Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라 근교",
+    "location": "말롤로스(불라칸)",
+    "name": "Linggo ng Bulakan",
+    "englishName": "Linggo ng Bulakan",
+    "month": 9,
+    "note": "주 단위 행사 9월 무렵 말롤로스(불라칸)에서 열리는 Linggo ng Bulakan는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라 근교",
+    "location": "말롤로스(불라칸)",
+    "name": "Singkaban Festival",
+    "englishName": "Singkaban Festival",
+    "month": 9,
+    "note": "불라칸 대표 9월 무렵 말롤로스(불라칸)에서 열리는 Singkaban Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "NCR",
+    "name": "Kalesa Festival",
+    "englishName": "Kalesa Festival",
+    "month": 9,
+    "note": "마차 문화 9월 무렵 NCR에서 열리는 Kalesa Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Parañaque",
+    "name": "Feast of Nuestra Señora del Buensuceso",
+    "englishName": "Feast of Nuestra Señora del Buensuceso",
+    "month": 9,
+    "note": "9월 무렵 Parañaque에서 열리는 Feast of Nuestra Señora del Buensuceso는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Basud, Camarines Norte",
+    "name": "Rahugan Festival",
+    "englishName": "Rahugan Festival",
+    "month": 10,
+    "note": "10월 무렵 Basud, Camarines Norte에서 열리는 Rahugan Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Calaca, Batangas",
+    "name": "Calacatchara Festival",
+    "englishName": "Calacatchara Festival",
+    "month": 10,
+    "note": "10월 무렵 Calaca, Batangas에서 열리는 Calacatchara Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Mansalay, Oriental Mindoro",
+    "name": "Pamugu-an Festival",
+    "englishName": "Pamugu-an Festival",
+    "month": 10,
+    "note": "10월 무렵 Mansalay, Oriental Mindoro에서 열리는 Pamugu-an Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Occidental Mindoro",
+    "name": "Tamaraw Festival",
+    "englishName": "Tamaraw Festival",
+    "month": 10,
+    "note": "10월 무렵 Occidental Mindoro에서 열리는 Tamaraw Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Ormoc City",
+    "name": "Tugob Festival",
+    "englishName": "Tugob Festival",
+    "month": 10,
+    "note": "10월 무렵 Ormoc City에서 열리는 Tugob Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Pilar, Sorsogon",
+    "name": "Parau Festival",
+    "englishName": "Parau Festival",
+    "month": 10,
+    "note": "10월 무렵 Pilar, Sorsogon에서 열리는 Parau Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Pili, Camarines Sur",
+    "name": "Cimarrones Festival",
+    "englishName": "Cimarrones Festival",
+    "month": 10,
+    "note": "10월 무렵 Pili, Camarines Sur에서 열리는 Cimarrones Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Rosario, Cavite",
+    "name": "Tinapa Festival",
+    "englishName": "Tinapa Festival",
+    "month": 10,
+    "note": "10월 무렵 Rosario, Cavite에서 열리는 Tinapa Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 미식 여행에 특히 좋습니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Surigao City",
+    "name": "Kinilaw Festival",
+    "englishName": "Kinilaw Festival",
+    "month": 10,
+    "note": "10월 무렵 Surigao City에서 열리는 Kinilaw Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tupi, South Cotabato",
+    "name": "Kariton Festival",
+    "englishName": "Kariton Festival",
+    "month": 10,
+    "note": "10월 무렵 Tupi, South Cotabato에서 열리는 Kariton Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Vigan City",
+    "name": "Raniag Twilight Festival",
+    "englishName": "Raniag Twilight Festival",
+    "month": 10,
+    "note": "10월 무렵 Vigan City에서 열리는 Raniag Twilight Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Zamboanga City",
+    "name": "Zamboanga Hermosa Festival",
+    "englishName": "Zamboanga Hermosa Festival",
+    "month": 10,
+    "note": "10월 무렵 Zamboanga City에서 열리는 Zamboanga Hermosa Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "바콜로드",
+    "name": "MassKara",
+    "englishName": "MassKara Festival",
+    "month": 10,
+    "note": "가면 축제 10월 무렵 바콜로드에서 열리는 MassKara Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "다바오/민다나오",
+    "location": "Kapalong, Davao del Norte",
+    "name": "Musa Festival",
+    "englishName": "Musa Festival",
+    "month": 10,
+    "note": "10월 무렵 Kapalong, Davao del Norte에서 열리는 Musa Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Makati",
+    "name": "Harana sa Makati",
+    "englishName": "Harana sa Makati",
+    "month": 10,
+    "note": "10월 무렵 Makati에서 열리는 Harana sa Makati는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Pasay",
+    "name": "Talulot Festival",
+    "englishName": "Talulot Festival",
+    "month": 10,
+    "note": "10월 무렵 Pasay에서 열리는 Talulot Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라",
+    "name": "Spanish Film Festival(Manila)",
+    "englishName": "Spanish Film Festival",
+    "month": 10,
+    "note": "영화 행사 10월 무렵 마닐라에서 열리는 Spanish Film Festival는 상영·GV·시상 등 프로그램이 이어지며 독립/국제 작품이 소개됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "영화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "케손시티",
+    "name": "La Naval de Manila",
+    "englishName": "La Naval de Manila",
+    "month": 10,
+    "note": "대규모 행렬 10월 무렵 케손시티에서 열리는 La Naval de Manila는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "세부",
+    "location": "탈리사이",
+    "name": "Inasal/Halad Festival",
+    "englishName": "Inasal/Halad Festival",
+    "month": 10,
+    "note": "지역 행사 10월 무렵 탈리사이에서 열리는 Inasal/Halad Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "팜팡가",
+    "location": "앙헬레스",
+    "name": "Tigtigan Terakan Keng Dalan(TTKD)",
+    "englishName": "Tigtigan Terakan Keng Dalan",
+    "month": 10,
+    "note": "야시장·거리행사 10월 무렵 앙헬레스에서 열리는 Tigtigan Terakan Keng Dalan는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Angono, Rizal",
+    "name": "Angono Arts Festival",
+    "englishName": "Angono Arts Festival",
+    "month": 11,
+    "note": "11월 무렵 Angono, Rizal에서 열리는 Angono Arts Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Baguio",
+    "name": "Cordillera Festival",
+    "englishName": "Cordillera Festival",
+    "month": 11,
+    "note": "11월 무렵 Baguio에서 열리는 Cordillera Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Benguet",
+    "name": "Benguet Foundation Day",
+    "englishName": "Benguet Foundation Day",
+    "month": 11,
+    "note": "11월 무렵 Benguet에서 열리는 Benguet Foundation Day는 도시/주 기념일과 결합된 퍼레이드·공연·시민 참여 프로그램이 진행됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Rio Grande de Mindanao",
+    "name": "Guinakit of Maguindanao",
+    "englishName": "Guinakit of Maguindanao",
+    "month": 11,
+    "note": "11월 무렵 Rio Grande de Mindanao에서 열리는 Guinakit of Maguindanao는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Sagada, Mountain Province",
+    "name": "Festival of Lights",
+    "englishName": "Festival of Lights",
+    "month": 11,
+    "note": "11월 무렵 Sagada, Mountain Province에서 열리는 Festival of Lights는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "San Carlos City, Negros Occidental",
+    "name": "Pintaflores Festival",
+    "englishName": "Pintaflores Festival",
+    "month": 11,
+    "note": "11월 무렵 San Carlos City, Negros Occidental에서 열리는 Pintaflores Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라 근교",
+    "location": "앙오노(리살)",
+    "name": "Higantes Festival",
+    "englishName": "Higantes Festival",
+    "month": 11,
+    "note": "대형 인형 11월 무렵 앙오노(리살)에서 열리는 Higantes Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라",
+    "name": "Manila Salsa Congress",
+    "englishName": "Manila Salsa Congress",
+    "month": 11,
+    "note": "댄스 행사 11월 무렵 마닐라에서 열리는 Manila Salsa Congress는 라이브 공연과 워크숍/경연이 함께 열리며 야외·실내 무대가 혼합됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음악"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라(말라테)",
+    "name": "Nuestra Señora de los Remedios",
+    "englishName": "Nuestra Señora de los Remedios",
+    "month": 11,
+    "note": "행렬 중심 11월 무렵 마닐라(말라테)에서 열리는 Nuestra Señora de los Remedios는 미사·성상 행렬, 전통 의례, 봉헌·기도가 중심이며 지역 공동체 참여가 큽니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "종교"
+  },
+  {
+    "region": "세부",
+    "location": "Carcar, Cebu",
+    "name": "Kabkaban Festival",
+    "englishName": "Kabkaban Festival",
+    "month": 11,
+    "note": "11월 무렵 Carcar, Cebu에서 열리는 Kabkaban Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "세부",
+    "location": "세부시티",
+    "name": "Kalag-Kalag Festival",
+    "englishName": "Kalag-Kalag Festival",
+    "month": 11,
+    "note": "지역 행사 11월 무렵 세부시티에서 열리는 Kalag-Kalag Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Cainta, Rizal",
+    "name": "SumBingTik (Suman, Bibingka, Latik) Festival",
+    "englishName": "SumBingTik (Suman, Bibingka, Latik) Festival",
+    "month": 12,
+    "note": "12월 무렵 Cainta, Rizal에서 열리는 SumBingTik (Suman, Bibingka, Latik) Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Cotabato City",
+    "name": "Shariff Kabunsuan Festival",
+    "englishName": "Shariff Kabunsuan Festival",
+    "month": 12,
+    "note": "12월 무렵 Cotabato City에서 열리는 Shariff Kabunsuan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Dagupan",
+    "name": "Pawil Dagupan",
+    "englishName": "Pawil Dagupan",
+    "month": 12,
+    "note": "12월 무렵 Dagupan에서 열리는 Pawil Dagupan는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Ibajay, Aklan",
+    "name": "Niños Inosentes Day (Yawa-yawa Festival)",
+    "englishName": "Niños Inosentes Day (Yawa-yawa Festival)",
+    "month": 12,
+    "note": "12월 무렵 Ibajay, Aklan에서 열리는 Niños Inosentes Day (Yawa-yawa Festival)는 도시/주 기념일과 결합된 퍼레이드·공연·시민 참여 프로그램이 진행됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "기념일"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Libacao, Aklan",
+    "name": "Kaliugyon Festival",
+    "englishName": "Kaliugyon Festival",
+    "month": 12,
+    "note": "12월 무렵 Libacao, Aklan에서 열리는 Kaliugyon Festival는 퍼레이드·공연·공예·시장 등으로 지역 정체성과 생활문화를 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Malabon",
+    "name": "Luglugan - Pancit Malabon Festival",
+    "englishName": "Luglugan - Pancit Malabon Festival",
+    "month": 12,
+    "note": "12월 무렵 Malabon에서 열리는 Luglugan - Pancit Malabon Festival는 현지 특산물 시식과 요리 경연, 장터가 열려 여행객에게 인기입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "음식"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Pagsanjan, Laguna",
+    "name": "Yugyugan Festival",
+    "englishName": "Yugyugan Festival",
+    "month": 12,
+    "note": "12월 무렵 Pagsanjan, Laguna에서 열리는 Yugyugan Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "기타 지역",
+    "location": "Tangub City",
+    "name": "Christmas Symbols Festival",
+    "englishName": "Christmas Symbols Festival",
+    "month": 12,
+    "note": "12월 무렵 Tangub City에서 열리는 Christmas Symbols Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라 근교",
+    "location": "산페르난도(팜팡가)",
+    "name": "Giant Lantern Festival(Ligligan Parul)",
+    "englishName": "Giant Lantern Festival",
+    "month": 12,
+    "note": "대형 '파롤' 12월 무렵 산페르난도(팜팡가)에서 열리는 Giant Lantern Festival는 등불·조명·캐럴과 야시장 등 연말 분위기를 즐기는 행사입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "성탄"
+  },
+  {
+    "region": "마닐라 근교",
+    "location": "카윗(카비테)",
+    "name": "Maytinis Festival",
+    "englishName": "Maytinis Festival",
+    "month": 12,
+    "note": "성탄 전통 12월 무렵 카윗(카비테)에서 열리는 Maytinis Festival는 등불·조명·캐럴과 야시장 등 연말 분위기를 즐기는 행사입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "성탄"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "Marikina",
+    "name": "Rehiyon-Rehiyon",
+    "englishName": "Rehiyon-Rehiyon",
+    "month": 12,
+    "note": "12월 무렵 Marikina에서 열리는 Rehiyon-Rehiyon는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "NCR",
+    "name": "Metro Manila Film Festival",
+    "englishName": "Metro Manila Film Festival",
+    "month": 12,
+    "note": "연말 영화제 12월 무렵 NCR에서 열리는 Metro Manila Film Festival는 상영·GV·시상 등 프로그램이 이어지며 독립/국제 작품이 소개됩니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "영화"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마닐라(UST)",
+    "name": "UST Paskuhan",
+    "englishName": "UST Paskuhan",
+    "month": 12,
+    "note": "대학 연말행사 12월 무렵 마닐라(UST)에서 열리는 UST Paskuhan는 등불·조명·캐럴과 야시장 등 연말 분위기를 즐기는 행사입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "성탄"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마리키나",
+    "name": "Marikina Christmas Festival",
+    "englishName": "Marikina Christmas Festival",
+    "month": 12,
+    "note": "연말 행사 12월 무렵 마리키나에서 열리는 Marikina Christmas Festival는 등불·조명·캐럴과 야시장 등 연말 분위기를 즐기는 행사입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "성탄"
+  },
+  {
+    "region": "마닐라/NCR",
+    "location": "마리키나",
+    "name": "Sapatero Festival",
+    "englishName": "Sapatero Festival",
+    "month": 12,
+    "note": "신발 산업 12월 무렵 마리키나에서 열리는 Sapatero Festival는 거리 퍼레이드, 춤·의상, 공예·시장 등 지역 정체성을 체험하는 축제입니다. 일정은 해마다 변동될 수 있어 주최 측 공지를 확인하세요.",
+    "category": "문화"
+  }
+]
