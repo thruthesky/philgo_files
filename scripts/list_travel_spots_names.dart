@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_print
+
 /// travel_spots.json 파일에서 각 여행지의 name과 english name을 추출하여 표시하는 스크립트
 ///
 /// 사용법:
