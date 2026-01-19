@@ -1,12 +1,12 @@
 {
-    "generated_at": "2026-01-19T00:32:57.733066",
+    "generated_at": "2026-01-19T00:55:12.944487",
     "total_items": 1045,
-    "complete_items": 230,
-    "problem_items": 815,
+    "complete_items": 236,
+    "problem_items": 809,
     "summary": {
         "type_a_imageUrl_missing": 0,
-        "type_b_texts_empty": 302,
-        "type_c_description_poor": 775,
+        "type_b_texts_empty": 275,
+        "type_c_description_poor": 747,
         "type_d_location_missing": 206,
         "type_e_english_name_missing": 0,
         "type_f_title_poor": 396
@@ -154,7 +154,7 @@
         "Laguna": 22,
         "메트로 마닐라(수도권)": 52,
         "Negros Occidental": 11,
-        "Cebu": 69,
+        "Cebu": 66,
         "Batanes": 15,
         "Ilocos Norte": 17,
         "Pangasinan": 13,
@@ -178,7 +178,7 @@
         "Benguet": 12,
         "Kalinga": 5,
         "Mountain Province": 8,
-        "Bohol": 45,
+        "Bohol": 44,
         "Zamboanga del Norte": 1,
         "Misamis Occidental": 1,
         "Aurora": 8,
@@ -223,7 +223,7 @@
         "Agusan del Norte": 1,
         "보홀": 3,
         "Metro Manila": 5,
-        "Aklan": 30,
+        "Aklan": 28,
         "Davao del Sur": 1,
         "Surigao del Norte": 8,
         "Surigao del Sur": 2,
@@ -3831,7 +3831,6 @@
             "englishName": "Siquijor Island",
             "province": "Siquijor",
             "issues": [
-                "Type C: description 부실 (40자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -5152,26 +5151,6 @@
             ]
         },
         {
-            "index": 743,
-            "name": "바운티 비치",
-            "englishName": "Bounty Beach",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (40자)"
-            ]
-        },
-        {
-            "index": 744,
-            "name": "모나드 숄",
-            "englishName": "Monad Shoal",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (37자)"
-            ]
-        },
-        {
             "index": 745,
             "name": "갈로 섬",
             "englishName": "Gato Island",
@@ -5190,16 +5169,6 @@
                 "Type B: texts 배열 비어있음",
                 "Type C: description 부실 (34자)",
                 "Type F: title 부실 (6자)"
-            ]
-        },
-        {
-            "index": 747,
-            "name": "반타얀 섬",
-            "englishName": "Bantayan Island",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (47자)"
             ]
         },
         {
@@ -5229,8 +5198,6 @@
             "englishName": "Virgin Island Bantayan",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (33자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5240,8 +5207,6 @@
             "englishName": "Ogtong Cave",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (40자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5538,8 +5503,6 @@
             "englishName": "White Beach Moalboal",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5752,23 +5715,11 @@
             ]
         },
         {
-            "index": 799,
-            "name": "초콜릿 힐 전망대",
-            "englishName": "Chocolate Hills Viewpoint",
-            "province": "Bohol",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (36자)"
-            ]
-        },
-        {
             "index": 800,
             "name": "초콜릿 힐 ATV",
             "englishName": "Chocolate Hills ATV Adventure",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5854,8 +5805,6 @@
             "englishName": "Hinagdanan Cave Panglao",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5887,8 +5836,6 @@
             "englishName": "Panglao Marine Sanctuary",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6084,8 +6031,6 @@
             "englishName": "Station 1 Boracay",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (33자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6095,8 +6040,6 @@
             "englishName": "Station 2 Boracay",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6106,8 +6049,6 @@
             "englishName": "Station 3 Boracay",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6167,23 +6108,11 @@
             ]
         },
         {
-            "index": 837,
-            "name": "보라카이 파라세일링",
-            "englishName": "Boracay Parasailing",
-            "province": "Aklan",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)"
-            ]
-        },
-        {
             "index": 838,
             "name": "보라카이 헬멧 다이빙",
             "englishName": "Boracay Helmet Diving",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6193,8 +6122,6 @@
             "englishName": "Boracay Island Hopping",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -6204,8 +6131,6 @@
             "englishName": "Boracay Scuba Diving",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6215,8 +6140,6 @@
             "englishName": "Boracay Sunset Sailing",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6226,8 +6149,6 @@
             "englishName": "Boracay Flyfish",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (33자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6237,8 +6158,6 @@
             "englishName": "Boracay Banana Boat",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6248,8 +6167,6 @@
             "englishName": "Boracay Jet Ski",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -6284,16 +6201,6 @@
                 "Type B: texts 배열 비어있음",
                 "Type C: description 부실 (32자)",
                 "Type F: title 부실 (6자)"
-            ]
-        },
-        {
-            "index": 848,
-            "name": "보라카이 나이트라이프",
-            "englishName": "Boracay D'Mall",
-            "province": "Aklan",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (37자)"
             ]
         },
         {
@@ -6682,8 +6589,6 @@
             "englishName": "Siquijor Firefly Watching",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7813,8 +7718,6 @@
             "englishName": "Boracay SUP",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7824,8 +7727,6 @@
             "englishName": "Boracay Wakeboard",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7835,8 +7736,6 @@
             "englishName": "Boracay Snorkeling",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -8317,8 +8216,6 @@
             "englishName": "Kalanggaman Camping",
             "province": "Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (4자)"
             ]
         },
