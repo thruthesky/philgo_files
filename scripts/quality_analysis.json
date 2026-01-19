@@ -1,12 +1,12 @@
 {
-    "generated_at": "2026-01-19T00:55:12.944487",
+    "generated_at": "2026-01-19T09:56:55.571727",
     "total_items": 1045,
-    "complete_items": 236,
-    "problem_items": 809,
+    "complete_items": 269,
+    "problem_items": 776,
     "summary": {
         "type_a_imageUrl_missing": 0,
-        "type_b_texts_empty": 275,
-        "type_c_description_poor": 747,
+        "type_b_texts_empty": 0,
+        "type_c_description_poor": 495,
         "type_d_location_missing": 206,
         "type_e_english_name_missing": 0,
         "type_f_title_poor": 396
@@ -153,21 +153,21 @@
         "Bulacan": 3,
         "Laguna": 22,
         "메트로 마닐라(수도권)": 52,
-        "Negros Occidental": 11,
-        "Cebu": 66,
+        "Negros Occidental": 10,
+        "Cebu": 55,
         "Batanes": 15,
-        "Ilocos Norte": 17,
-        "Pangasinan": 13,
+        "Ilocos Norte": 16,
+        "Pangasinan": 12,
         "Cagayan": 12,
-        "Palawan": 120,
+        "Palawan": 118,
         "Northern Samar": 2,
         "Antique": 4,
-        "Batangas": 23,
+        "Batangas": 22,
         "Camarines Sur": 7,
         "Davao Oriental": 3,
-        "Rizal": 8,
-        "Negros Oriental": 18,
-        "Leyte": 23,
+        "Rizal": 7,
+        "Negros Oriental": 16,
+        "Leyte": 20,
         "Lanao del Norte": 5,
         "Davao del Norte": 1,
         "Ifugao": 8,
@@ -178,10 +178,10 @@
         "Benguet": 12,
         "Kalinga": 5,
         "Mountain Province": 8,
-        "Bohol": 44,
+        "Bohol": 43,
         "Zamboanga del Norte": 1,
         "Misamis Occidental": 1,
-        "Aurora": 8,
+        "Aurora": 5,
         "Pampanga": 4,
         "Nueva Vizcaya": 3,
         "(지역 없음)": 11,
@@ -190,7 +190,7 @@
         "Camarines Norte": 4,
         "Sulu": 7,
         "Agusan del Sur": 1,
-        "Zambales": 22,
+        "Zambales": 21,
         "Misamis Oriental": 1,
         "Tawi-Tawi": 1,
         "South Cotabato": 6,
@@ -202,24 +202,24 @@
         "Lanao del Sur": 1,
         "Biliran": 10,
         "Cotabato": 4,
-        "Ilocos Sur": 6,
+        "Ilocos Sur": 5,
         "Sorsogon": 6,
         "Sarangani": 1,
         "Camiguin": 13,
         "Bukidnon": 3,
         "Albay": 3,
         "Davao de Oro": 1,
-        "Iloilo": 8,
-        "Samar": 9,
+        "Iloilo": 7,
+        "Samar": 8,
         "Marinduque": 1,
         "Cat": 1,
         "Isabela": 2,
-        "Siquijor": 24,
+        "Siquijor": 23,
         "Quirino": 2,
         "Cavite": 5,
         "Mindoro Oriental": 1,
         "Lanao": 2,
-        "Oriental Mindoro": 5,
+        "Oriental Mindoro": 4,
         "Agusan del Norte": 1,
         "보홀": 3,
         "Metro Manila": 5,
@@ -5151,34 +5151,12 @@
             ]
         },
         {
-            "index": 745,
-            "name": "갈로 섬",
-            "englishName": "Gato Island",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)"
-            ]
-        },
-        {
             "index": 746,
             "name": "랑곤 비치",
             "englishName": "Langob Beach",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (6자)"
-            ]
-        },
-        {
-            "index": 748,
-            "name": "슈가 비치 반타얀",
-            "englishName": "Sugar Beach Bantayan",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (38자)"
             ]
         },
         {
@@ -5187,8 +5165,6 @@
             "englishName": "Paradise Beach Bantayan",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (36자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5211,33 +5187,11 @@
             ]
         },
         {
-            "index": 752,
-            "name": "카모테스 제도",
-            "englishName": "Camotes Islands",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (42자)"
-            ]
-        },
-        {
-            "index": 753,
-            "name": "산티아고 베이",
-            "englishName": "Santiago Bay",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)"
-            ]
-        },
-        {
             "index": 754,
             "name": "부호 록 풀",
             "englishName": "Buho Rock Pool",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (37자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5247,8 +5201,6 @@
             "englishName": "Lake Danao",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (39자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5258,29 +5210,7 @@
             "englishName": "Timubo Cave",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (9자)"
-            ]
-        },
-        {
-            "index": 757,
-            "name": "마야 포트",
-            "englishName": "Maya Port",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (38자)"
-            ]
-        },
-        {
-            "index": 758,
-            "name": "하그나야 비치",
-            "englishName": "Hagnaya Beach",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)"
             ]
         },
         {
@@ -5289,8 +5219,7 @@
             "englishName": "Bogo City Beach",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (37자)"
+                "Type C: description 부실 (42자)"
             ]
         },
         {
@@ -5299,8 +5228,7 @@
             "englishName": "Medellin Beach",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
+                "Type C: description 부실 (46자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5310,8 +5238,6 @@
             "englishName": "Ginatilan Falls",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (39자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5321,8 +5247,7 @@
             "englishName": "Mactan Marine Sanctuary",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)",
+                "Type C: description 부실 (47자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5332,8 +5257,6 @@
             "englishName": "Maribago Beach",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (33자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5343,8 +5266,6 @@
             "englishName": "Olango Island",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (33자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5354,8 +5275,6 @@
             "englishName": "Hilutungan Island",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (44자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5365,8 +5284,7 @@
             "englishName": "Nalusuan Island",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)"
+                "Type C: description 부실 (47자)"
             ]
         },
         {
@@ -5375,8 +5293,7 @@
             "englishName": "Caohagan Island",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (38자)",
+                "Type C: description 부실 (49자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5386,8 +5303,6 @@
             "englishName": "Pandanon Island",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5397,8 +5312,6 @@
             "englishName": "Tops Lookout",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5408,39 +5321,7 @@
             "englishName": "Temple of Leah",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (36자)",
                 "Type F: title 부실 (8자)"
-            ]
-        },
-        {
-            "index": 771,
-            "name": "콘티키 다이브 사이트",
-            "englishName": "Kontiki Dive Site",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (42자)"
-            ]
-        },
-        {
-            "index": 772,
-            "name": "탈리마 해양 보호구역",
-            "englishName": "Talima Marine Sanctuary",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)"
-            ]
-        },
-        {
-            "index": 773,
-            "name": "오슬롭 고래상어 투어",
-            "englishName": "Oslob Whale Shark Watching",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (43자)"
             ]
         },
         {
@@ -5449,8 +5330,6 @@
             "englishName": "Sumilon Island",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (43자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5460,8 +5339,6 @@
             "englishName": "Sumilon Bluewater",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5471,8 +5348,6 @@
             "englishName": "Moalboal",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5482,19 +5357,7 @@
             "englishName": "Panagsama Beach",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)",
                 "Type F: title 부실 (8자)"
-            ]
-        },
-        {
-            "index": 778,
-            "name": "사딘 런",
-            "englishName": "Sardine Run",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (37자)"
             ]
         },
         {
@@ -5512,8 +5375,6 @@
             "englishName": "Turtle Point Moalboal",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5523,8 +5384,6 @@
             "englishName": "Kawasan Falls",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5534,19 +5393,7 @@
             "englishName": "Kawasan Canyoneering",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (7자)"
-            ]
-        },
-        {
-            "index": 783,
-            "name": "바디안 섬",
-            "englishName": "Badian Island",
-            "province": "Cebu",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)"
             ]
         },
         {
@@ -5555,8 +5402,6 @@
             "englishName": "Lambug Beach",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5566,8 +5411,6 @@
             "englishName": "Santander Beach",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5577,8 +5420,7 @@
             "englishName": "Liloan Port",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
+                "Type C: description 부실 (45자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5588,8 +5430,6 @@
             "englishName": "Boljoon Marine Sanctuary",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5599,8 +5439,6 @@
             "englishName": "Inambakan Falls",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5610,8 +5448,6 @@
             "englishName": "Aguinid Falls",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5621,8 +5457,7 @@
             "englishName": "Binalayan Falls",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
+                "Type C: description 부실 (42자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -5632,8 +5467,7 @@
             "englishName": "Carmen Cebu Cherry Blossoms",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)",
+                "Type C: description 부실 (43자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5643,8 +5477,7 @@
             "englishName": "Argao Beach",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
+                "Type C: description 부실 (45자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5654,8 +5487,7 @@
             "englishName": "Dalaguete Beach",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
+                "Type C: description 부실 (47자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5665,8 +5497,7 @@
             "englishName": "Mantalongon Peak",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
+                "Type C: description 부실 (44자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5676,8 +5507,6 @@
             "englishName": "Tanon Strait",
             "province": "Negros Oriental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5687,8 +5516,7 @@
             "englishName": "Bais Dolphin Watching",
             "province": "Negros Oriental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
+                "Type C: description 부실 (47자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5698,8 +5526,6 @@
             "englishName": "Manjuyod Sandbar",
             "province": "Negros Oriental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5709,8 +5535,7 @@
             "englishName": "Bais Sandbar",
             "province": "Negros Oriental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
+                "Type C: description 부실 (40자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5729,8 +5554,6 @@
             "englishName": "Tarsier Sanctuary",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (37자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5740,8 +5563,7 @@
             "englishName": "Philippine Tarsier Research Center",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (36자)"
+                "Type C: description 부실 (42자)"
             ]
         },
         {
@@ -5750,8 +5572,6 @@
             "englishName": "Loboc Eco Tourism Park",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (33자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5761,8 +5581,7 @@
             "englishName": "SUP Loboc River",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
+                "Type C: description 부실 (45자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5772,8 +5591,6 @@
             "englishName": "Dumaluan Beach",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -5783,8 +5600,7 @@
             "englishName": "Doljo Beach",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
+                "Type C: description 부실 (46자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -5794,8 +5610,7 @@
             "englishName": "Bikini Beach",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
+                "Type C: description 부실 (40자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -5814,8 +5629,6 @@
             "englishName": "Bohol Butterfly Garden",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -5825,8 +5638,7 @@
             "englishName": "Bohol Dolphin Watching",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
+                "Type C: description 부실 (49자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5845,8 +5657,6 @@
             "englishName": "Pamilacan Island",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5856,8 +5666,6 @@
             "englishName": "Quinale Beach Anda",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -5867,8 +5675,6 @@
             "englishName": "Anda Pools",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5878,8 +5684,6 @@
             "englishName": "Candijay Caves",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -5889,8 +5693,6 @@
             "englishName": "Laila Beach",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5900,8 +5702,6 @@
             "englishName": "Baclayon Church",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (38자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -5911,8 +5711,6 @@
             "englishName": "Blood Compact Shrine",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5922,8 +5720,6 @@
             "englishName": "Man Made Forest",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5933,8 +5729,6 @@
             "englishName": "Sipatan Twin Falls",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -5944,19 +5738,7 @@
             "englishName": "Can-umantad Falls",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (8자)"
-            ]
-        },
-        {
-            "index": 822,
-            "name": "시케이호르 바지 다이브",
-            "englishName": "Siquijor Bohol Dive",
-            "province": "Bohol",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)"
             ]
         },
         {
@@ -5965,8 +5747,6 @@
             "englishName": "Henann Resort Bohol",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (20자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -5976,8 +5756,6 @@
             "englishName": "Mophas Rock",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -5987,8 +5765,6 @@
             "englishName": "Pocok Island",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -5998,8 +5774,6 @@
             "englishName": "Bohol Sea Banana",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6009,8 +5783,6 @@
             "englishName": "Cathedral Cave",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6020,8 +5792,6 @@
             "englishName": "Dauis Church",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6058,8 +5828,6 @@
             "englishName": "Diniwid Beach",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6069,8 +5837,6 @@
             "englishName": "Bulabog Beach",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6080,8 +5846,6 @@
             "englishName": "Ilig-Iligan Beach",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6091,8 +5855,6 @@
             "englishName": "Crystal Cove Island",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6102,8 +5864,6 @@
             "englishName": "Crocodile Island",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6176,8 +5936,6 @@
             "englishName": "Willy's Rock",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6187,8 +5945,6 @@
             "englishName": "Mount Luho Viewpoint",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6198,8 +5954,6 @@
             "englishName": "Ariel's Point",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6209,8 +5963,6 @@
             "englishName": "Kalibo",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6220,8 +5972,6 @@
             "englishName": "Caticlan",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6231,8 +5981,6 @@
             "englishName": "Nabaoy Beach",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6242,8 +5990,6 @@
             "englishName": "Tigauson Falls",
             "province": "Aklan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6253,8 +5999,6 @@
             "englishName": "Antique Beach",
             "province": "Antique",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6264,8 +6008,6 @@
             "englishName": "Gigantes Islands",
             "province": "Iloilo",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6275,8 +6017,6 @@
             "englishName": "Cabugao Gamay Island",
             "province": "Iloilo",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6286,19 +6026,7 @@
             "englishName": "Tangke Saltwater Lagoon",
             "province": "Iloilo",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (6자)"
-            ]
-        },
-        {
-            "index": 857,
-            "name": "일로일로 시티",
-            "englishName": "Iloilo City",
-            "province": "Iloilo",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)"
             ]
         },
         {
@@ -6307,8 +6035,6 @@
             "englishName": "Guimaras Island",
             "province": "Guimaras",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6318,8 +6044,6 @@
             "englishName": "Salagdoong Beach",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6329,8 +6053,6 @@
             "englishName": "Cambugahay Falls",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6340,19 +6062,7 @@
             "englishName": "Paliton Beach",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (5자)"
-            ]
-        },
-        {
-            "index": 862,
-            "name": "산 후안 비치",
-            "englishName": "San Juan Beach",
-            "province": "Siquijor",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)"
             ]
         },
         {
@@ -6361,8 +6071,6 @@
             "englishName": "Lazi Convent",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6372,8 +6080,6 @@
             "englishName": "Old Enchanted Balete Tree",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -6383,8 +6089,6 @@
             "englishName": "Cantabon Cave",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6394,8 +6098,6 @@
             "englishName": "Lugnason Falls",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6405,8 +6107,6 @@
             "englishName": "Tubod Beach",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6416,19 +6116,7 @@
             "englishName": "Siquijor Pier",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (6자)"
-            ]
-        },
-        {
-            "index": 869,
-            "name": "두마게테",
-            "englishName": "Dumaguete",
-            "province": "Negros Oriental",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (33자)"
             ]
         },
         {
@@ -6437,8 +6125,6 @@
             "englishName": "Rizal Boulevard",
             "province": "Negros Oriental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6448,19 +6134,7 @@
             "englishName": "Dauin Beach",
             "province": "Negros Oriental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (6자)"
-            ]
-        },
-        {
-            "index": 872,
-            "name": "쌍둥이 호수 발린사사야오",
-            "englishName": "Twin Lakes Balinsasayao",
-            "province": "Negros Oriental",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)"
             ]
         },
         {
@@ -6469,8 +6143,6 @@
             "englishName": "Pulangbato Falls",
             "province": "Negros Oriental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6480,8 +6152,6 @@
             "englishName": "Malatapay Market",
             "province": "Negros Oriental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (36자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6491,8 +6161,6 @@
             "englishName": "Bacolod City",
             "province": "Negros Occidental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6502,8 +6170,6 @@
             "englishName": "Lakawon Island",
             "province": "Negros Occidental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6513,8 +6179,6 @@
             "englishName": "Sipaway Island",
             "province": "Negros Occidental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6524,19 +6188,7 @@
             "englishName": "Mabucay Whale Sharks",
             "province": "Negros Occidental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (8자)"
-            ]
-        },
-        {
-            "index": 879,
-            "name": "시라오 섬",
-            "englishName": "Suyac Island",
-            "province": "Negros Occidental",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (33자)"
             ]
         },
         {
@@ -6545,8 +6197,6 @@
             "englishName": "Camplas Falls",
             "province": "Negros Occidental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (20자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6556,8 +6206,6 @@
             "englishName": "Mag-sohot Spring",
             "province": "Negros Occidental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6567,8 +6215,6 @@
             "englishName": "Siquijor Island Hopping",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -6578,8 +6224,6 @@
             "englishName": "Siquijor Snorkeling",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -6598,8 +6242,6 @@
             "englishName": "Negros Diving",
             "province": "Negros Oriental",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6609,8 +6251,6 @@
             "englishName": "Lamboan Falls",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6620,8 +6260,6 @@
             "englishName": "Sombrero Island",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6631,8 +6269,6 @@
             "englishName": "Masasa Beach",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6642,8 +6278,6 @@
             "englishName": "Laiya Beach",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6653,8 +6287,6 @@
             "englishName": "Calatagan Beach",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6664,8 +6296,6 @@
             "englishName": "Nasugbu Beach",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -6675,8 +6305,6 @@
             "englishName": "Taal Lake",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6686,8 +6314,6 @@
             "englishName": "Sepulok Falls",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (20자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6697,8 +6323,6 @@
             "englishName": "Anawangin Cove",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6708,8 +6332,6 @@
             "englishName": "Nagsasa Cove",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6719,8 +6341,6 @@
             "englishName": "Talisayan Cove",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6730,8 +6350,6 @@
             "englishName": "Camara Island",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -6741,8 +6359,6 @@
             "englishName": "Potipot Island",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -6752,8 +6368,6 @@
             "englishName": "San Antonio Beach",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6763,19 +6377,7 @@
             "englishName": "Crystal Beach Zambales",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (5자)"
-            ]
-        },
-        {
-            "index": 901,
-            "name": "이바 비치",
-            "englishName": "Iba Beach",
-            "province": "Zambales",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)"
             ]
         },
         {
@@ -6784,8 +6386,6 @@
             "englishName": "San Juan Surf Beach",
             "province": "La Union",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -6795,8 +6395,6 @@
             "englishName": "Urbiztondo Beach",
             "province": "La Union",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6806,19 +6404,7 @@
             "englishName": "Bacnotan Beach",
             "province": "La Union",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (8자)"
-            ]
-        },
-        {
-            "index": 905,
-            "name": "퀘존 섬",
-            "englishName": "Quezon Island",
-            "province": "Pangasinan",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (38자)"
             ]
         },
         {
@@ -6827,8 +6413,6 @@
             "englishName": "Governor's Island",
             "province": "Pangasinan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6838,8 +6422,6 @@
             "englishName": "Marcos Island",
             "province": "Pangasinan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -6849,19 +6431,7 @@
             "englishName": "Dasol Beach",
             "province": "Pangasinan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (7자)"
-            ]
-        },
-        {
-            "index": 909,
-            "name": "화이트 비치 푸에르토",
-            "englishName": "White Beach Puerto Galera",
-            "province": "Oriental Mindoro",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)"
             ]
         },
         {
@@ -6870,8 +6440,6 @@
             "englishName": "Tamaraw Beach",
             "province": "Oriental Mindoro",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (20자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6881,8 +6449,6 @@
             "englishName": "Puerto Galera Diving",
             "province": "Oriental Mindoro",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6892,8 +6458,6 @@
             "englishName": "Tacloban City",
             "province": "Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (33자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6903,8 +6467,6 @@
             "englishName": "San Juanico Bridge",
             "province": "Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -6914,8 +6476,6 @@
             "englishName": "Red Beach Leyte",
             "province": "Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -6925,8 +6485,6 @@
             "englishName": "Tontonan Hot Springs",
             "province": "Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6936,29 +6494,7 @@
             "englishName": "Ormoc City",
             "province": "Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (7자)"
-            ]
-        },
-        {
-            "index": 917,
-            "name": "레이크 다나오 레이테",
-            "englishName": "Lake Danao Leyte",
-            "province": "Leyte",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)"
-            ]
-        },
-        {
-            "index": 918,
-            "name": "팔롬폰",
-            "englishName": "Palompon",
-            "province": "Leyte",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)"
             ]
         },
         {
@@ -6967,8 +6503,6 @@
             "englishName": "Biliran Island",
             "province": "Biliran",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -6978,8 +6512,6 @@
             "englishName": "Kasibilan Falls",
             "province": "Biliran",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -6989,8 +6521,6 @@
             "englishName": "Tinago Falls Biliran",
             "province": "Biliran",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (17자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7000,8 +6530,6 @@
             "englishName": "Agtas Falls",
             "province": "Biliran",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (17자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7011,19 +6539,7 @@
             "englishName": "Sambawan Island",
             "province": "Biliran",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (5자)"
-            ]
-        },
-        {
-            "index": 924,
-            "name": "사마르 섬",
-            "englishName": "Samar Island",
-            "province": "Samar",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (36자)"
             ]
         },
         {
@@ -7032,8 +6548,6 @@
             "englishName": "Sohoton Natural Bridge",
             "province": "Samar",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7043,8 +6557,6 @@
             "englishName": "Catbalogan City",
             "province": "Samar",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7054,8 +6566,6 @@
             "englishName": "Borongan Surfing",
             "province": "Eastern Samar",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7065,8 +6575,6 @@
             "englishName": "Can-Igon Falls",
             "province": "Samar",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7076,8 +6584,6 @@
             "englishName": "Laoang Falls",
             "province": "Northern Samar",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (14자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7087,8 +6593,6 @@
             "englishName": "Torpedo Boat Cave",
             "province": "Samar",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -7098,19 +6602,7 @@
             "englishName": "Ulot River Cruise",
             "province": "Samar",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (5자)"
-            ]
-        },
-        {
-            "index": 932,
-            "name": "레이테 다이빙",
-            "englishName": "Leyte Diving",
-            "province": "Leyte",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)"
             ]
         },
         {
@@ -7119,8 +6611,6 @@
             "englishName": "Mabini Leyte",
             "province": "Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (17자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7130,8 +6620,6 @@
             "englishName": "Hindang Cave",
             "province": "Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (15자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7141,8 +6629,6 @@
             "englishName": "Cangipai Falls",
             "province": "Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (16자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7152,8 +6638,6 @@
             "englishName": "Limasawa Island",
             "province": "Southern Leyte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7163,8 +6647,6 @@
             "englishName": "Borawan Beach",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (34자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -7174,8 +6656,6 @@
             "englishName": "Dampalitan Beach",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7185,8 +6665,6 @@
             "englishName": "Pahinigda Beach",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7196,8 +6674,6 @@
             "englishName": "Jomalig Island",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7207,8 +6683,7 @@
             "englishName": "Pulang Lupa Beach",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
+                "Type C: description 부실 (49자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7218,8 +6693,6 @@
             "englishName": "Cota Beach",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (17자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7229,8 +6702,6 @@
             "englishName": "Verde Island Passage",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7240,8 +6711,6 @@
             "englishName": "Polillo Islands",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -7251,8 +6720,6 @@
             "englishName": "Burdeos Island",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7262,8 +6729,6 @@
             "englishName": "Pagsanjan Falls",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7273,8 +6738,6 @@
             "englishName": "Seven Lakes of San Pablo",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7284,8 +6747,6 @@
             "englishName": "Lake Sampaloc",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7295,8 +6756,6 @@
             "englishName": "Calamba Hot Springs",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7306,8 +6765,6 @@
             "englishName": "Los Banos Hot Springs",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -7317,8 +6774,6 @@
             "englishName": "Makiling Botanic Gardens",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -7328,8 +6783,6 @@
             "englishName": "Hulugan Falls",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7339,8 +6792,6 @@
             "englishName": "Burilag Falls",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (15자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7350,8 +6801,6 @@
             "englishName": "Angono Petroglyphs",
             "province": "Rizal",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -7361,8 +6810,6 @@
             "englishName": "Pinto Art Museum",
             "province": "Rizal",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7372,8 +6819,6 @@
             "englishName": "Daranak Falls",
             "province": "Rizal",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7383,49 +6828,7 @@
             "englishName": "Tinipak River",
             "province": "Rizal",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (5자)"
-            ]
-        },
-        {
-            "index": 958,
-            "name": "마시누록 폭포",
-            "englishName": "Masinunok Falls",
-            "province": "Rizal",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (15자)"
-            ]
-        },
-        {
-            "index": 959,
-            "name": "발레르 서핑",
-            "englishName": "Baler Surfing",
-            "province": "Aurora",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)"
-            ]
-        },
-        {
-            "index": 960,
-            "name": "사방가 비치",
-            "englishName": "Sabang Beach Baler",
-            "province": "Aurora",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)"
-            ]
-        },
-        {
-            "index": 961,
-            "name": "세뮬 포인트",
-            "englishName": "Cemento Point",
-            "province": "Aurora",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (20자)"
             ]
         },
         {
@@ -7434,8 +6837,6 @@
             "englishName": "Ditumabo Falls",
             "province": "Aurora",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7445,8 +6846,7 @@
             "englishName": "Dambang Falls",
             "province": "Aurora",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (16자)",
+                "Type C: description 부실 (45자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7456,8 +6856,6 @@
             "englishName": "Dingalan Beach",
             "province": "Aurora",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7467,8 +6865,6 @@
             "englishName": "Batanes",
             "province": "Batanes",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (30자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7478,8 +6874,6 @@
             "englishName": "Batan Island",
             "province": "Batanes",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7489,8 +6883,6 @@
             "englishName": "Sabtang Island",
             "province": "Batanes",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7500,8 +6892,6 @@
             "englishName": "Valugan Boulder Beach",
             "province": "Batanes",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -7511,8 +6901,6 @@
             "englishName": "Racuh a Payaman",
             "province": "Batanes",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7522,8 +6910,6 @@
             "englishName": "Fundacion Pacita",
             "province": "Batanes",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -7533,29 +6919,7 @@
             "englishName": "Paoay Sand Dunes",
             "province": "Ilocos Norte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (5자)"
-            ]
-        },
-        {
-            "index": 972,
-            "name": "비간 시티",
-            "englishName": "Vigan City",
-            "province": "Ilocos Sur",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (35자)"
-            ]
-        },
-        {
-            "index": 973,
-            "name": "파가다 비치",
-            "englishName": "Pagudpud Beach",
-            "province": "Ilocos Norte",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (32자)"
             ]
         },
         {
@@ -7564,8 +6928,6 @@
             "englishName": "Blue Lagoon Pagudpud",
             "province": "Ilocos Norte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7575,8 +6937,6 @@
             "englishName": "Cape Bojeador Lighthouse",
             "province": "Ilocos Norte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7586,8 +6946,6 @@
             "englishName": "Cagayan Valley",
             "province": "Cagayan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7597,8 +6955,6 @@
             "englishName": "Callao Cave",
             "province": "Cagayan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7608,8 +6964,6 @@
             "englishName": "Palaui Island",
             "province": "Cagayan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7619,8 +6973,6 @@
             "englishName": "Cape Engano Lighthouse",
             "province": "Cagayan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7630,8 +6982,6 @@
             "englishName": "San Vicente Long Beach",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7641,8 +6991,6 @@
             "englishName": "Tabon Caves",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7652,8 +7000,6 @@
             "englishName": "Balabac Island",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7663,8 +7009,6 @@
             "englishName": "Onuk Island",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (17자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7674,8 +7018,6 @@
             "englishName": "Liuli Island",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7685,8 +7027,6 @@
             "englishName": "Smilon Island",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (27자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -7696,8 +7036,6 @@
             "englishName": "Bohol Paddleboard",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7707,8 +7045,6 @@
             "englishName": "Calipayo River",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -7745,8 +7081,6 @@
             "englishName": "Hiligaynon Beach",
             "province": "Iloilo",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (15자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7756,8 +7090,6 @@
             "englishName": "Antique Beach",
             "province": "Antique",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -7767,8 +7099,6 @@
             "englishName": "Subic Ocean Adventure",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7778,8 +7108,6 @@
             "englishName": "Subic Safari",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7789,8 +7117,6 @@
             "englishName": "Inflatable Island Subic",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7800,8 +7126,6 @@
             "englishName": "Tagaytay Peoples Park",
             "province": "Cavite",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7811,8 +7135,6 @@
             "englishName": "Sky Ranch Tagaytay",
             "province": "Cavite",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -7822,8 +7144,6 @@
             "englishName": "Pagayayan Falls",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (15자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7833,8 +7153,6 @@
             "englishName": "Tapaan Falls",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7844,8 +7162,6 @@
             "englishName": "Busuanga Island",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -7855,8 +7171,6 @@
             "englishName": "Camiguin Island",
             "province": "Camiguin",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -7866,19 +7180,7 @@
             "englishName": "Sunken Cemetery Camiguin",
             "province": "Camiguin",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (6자)"
-            ]
-        },
-        {
-            "index": 1003,
-            "name": "투바타하 리프",
-            "englishName": "Tubbataha Reef",
-            "province": "Palawan",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)"
             ]
         },
         {
@@ -7887,19 +7189,7 @@
             "englishName": "Apo Reef Diving",
             "province": "Occidental Mindoro",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (6자)"
-            ]
-        },
-        {
-            "index": 1005,
-            "name": "리콤비나 섬",
-            "englishName": "Linapacan Island",
-            "province": "Palawan",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)"
             ]
         },
         {
@@ -7908,8 +7198,6 @@
             "englishName": "Nacpan Twin Beach",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7919,8 +7207,7 @@
             "englishName": "Marimbo Beach",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (16자)",
+                "Type C: description 부실 (47자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7930,8 +7217,6 @@
             "englishName": "Las Cabanas Beach",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -7941,8 +7226,6 @@
             "englishName": "Cebu Sea Walking",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7952,8 +7235,6 @@
             "englishName": "Cebu Flyboard",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7963,8 +7244,6 @@
             "englishName": "Bohol Kayaking",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -7974,8 +7253,6 @@
             "englishName": "Bohol Jet Ski",
             "province": "Bohol",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -7985,8 +7262,6 @@
             "englishName": "Mount Pinatubo Crater Lake",
             "province": "Zambales",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -7996,8 +7271,6 @@
             "englishName": "Banaue Rice Terraces",
             "province": "Ifugao",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (31자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -8007,8 +7280,6 @@
             "englishName": "Sagada Cave Connection",
             "province": "Mountain Province",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (20자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -8018,8 +7289,6 @@
             "englishName": "Sagada Hanging Coffins",
             "province": "Mountain Province",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (24자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -8029,8 +7298,6 @@
             "englishName": "Palawan Zipline",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -8040,8 +7307,6 @@
             "englishName": "Crown Regency Sky Experience",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -8051,8 +7316,6 @@
             "englishName": "Maira-ira Beach",
             "province": "Ilocos Norte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -8062,8 +7325,7 @@
             "englishName": "Hannah Beach",
             "province": "Ilocos Norte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
+                "Type C: description 부실 (48자)",
                 "Type F: title 부실 (8자)"
             ]
         },
@@ -8073,8 +7335,6 @@
             "englishName": "Paoay Lake",
             "province": "Ilocos Norte",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -8084,8 +7344,6 @@
             "englishName": "Angeles City Beach",
             "province": "Pampanga",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (17자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -8095,8 +7353,6 @@
             "englishName": "Bulacan Falls",
             "province": "Bulacan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (17자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -8106,8 +7362,6 @@
             "englishName": "Siquijor Diving",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -8117,8 +7371,6 @@
             "englishName": "Siquijor Cliff Jump",
             "province": "Siquijor",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -8128,8 +7380,6 @@
             "englishName": "Coron Town Tour",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (26자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -8139,8 +7389,6 @@
             "englishName": "Coron Sunset Cruise",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (29자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -8150,8 +7398,6 @@
             "englishName": "Coron Deep Dive",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -8161,8 +7407,6 @@
             "englishName": "El Nido Kayaking",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (20자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -8172,8 +7416,6 @@
             "englishName": "El Nido Cliff Diving",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -8183,8 +7425,6 @@
             "englishName": "El Nido Sunset Cruise",
             "province": "Palawan",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (25자)",
                 "Type F: title 부실 (6자)"
             ]
         },
@@ -8194,8 +7434,6 @@
             "englishName": "Verde Island Diving",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (19자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -8205,8 +7443,6 @@
             "englishName": "Mindoro Snorkeling",
             "province": "Oriental Mindoro",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -8225,8 +7461,6 @@
             "englishName": "Sambawan Camping",
             "province": "Biliran",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (4자)"
             ]
         },
@@ -8236,8 +7470,6 @@
             "englishName": "Cebu Snorkeling",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (22자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -8247,8 +7479,6 @@
             "englishName": "Moalboal Canyoneering",
             "province": "Cebu",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -8258,8 +7488,6 @@
             "englishName": "Manila Bay Sunset",
             "province": "Metro Manila",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (21자)",
                 "Type F: title 부실 (9자)"
             ]
         },
@@ -8269,8 +7497,7 @@
             "englishName": "Marian Falls",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (16자)",
+                "Type C: description 부실 (48자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -8280,8 +7507,6 @@
             "englishName": "Palayan Falls",
             "province": "Quezon",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (13자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -8291,8 +7516,6 @@
             "englishName": "Rizal Hidden Falls",
             "province": "Rizal",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (18자)",
                 "Type F: title 부실 (7자)"
             ]
         },
@@ -8302,8 +7525,6 @@
             "englishName": "Laguna Eco Park",
             "province": "Laguna",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (17자)",
                 "Type F: title 부실 (5자)"
             ]
         },
@@ -8313,19 +7534,7 @@
             "englishName": "Laiya Resort Area",
             "province": "Batangas",
             "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (23자)",
                 "Type F: title 부실 (6자)"
-            ]
-        },
-        {
-            "index": 1044,
-            "name": "모얄란 리조트",
-            "englishName": "Matabungkay Beach",
-            "province": "Batangas",
-            "issues": [
-                "Type B: texts 배열 비어있음",
-                "Type C: description 부실 (28자)"
             ]
         }
     ]
